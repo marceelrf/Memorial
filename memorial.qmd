@@ -13,6 +13,10 @@ lang: pt-br
 
 ## Apresentação
 
+### Agradecimento especial
+
+Gostaria de expressar minha sincera gratidão ao Prof. Dr. Juarez Lopes Ferreira da Silva, ilustre membro do Departamento de Físico-Química do Instituto de Química de São Carlos da Universidade de São Paulo, por sua generosidade em compartilhar publicamente seu memorial no ResearchGate. Embora ainda não tenhamos tido a oportunidade de nos conhecer pessoalmente, a iniciativa do professor de disponibilizar seu trabalho tem sido de imensa valia para minha trajetória acadêmica e profissional.
+
 ## Dados pessoais
 
 **Nome Completo:** Marcel Rodrigues Ferreira.
@@ -23,7 +27,7 @@ lang: pt-br
 
 **Data de Nascimento:** 02/05/1991.
 
-**Estado Civil:** Solteiro.
+**Estado Civil:** Deb Deb 💖.
 
 **Local de Nascimento:** Itapetininga, São Paulo, Brasil.
 
@@ -67,7 +71,32 @@ lang: pt-br
 
 ## Atividades de Pesquisa
 
+### Linhas de Pesquisa
+
+### Rede de colaboração
+
+### Auxílio de Pesquisa
+
+### Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados, e Trabalhos Completos Publicados em Anais de Congressos
+
+### Análise Estatística das Publicações
+
+### Contribuições Científicas
+
 ## Atividades de Extensão e Serviços à Comunidade
+
+### Participação em Bancas Examinadoras e Julgadoras
+
+ddd
+
+### Cursos, Seminários e Palestras Ministradas
+
+ddd
+
+### 
+Organização de Eventos 
+
+### Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais  
 
 ## Atividades Administrativas
 
