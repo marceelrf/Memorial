@@ -1,0 +1,70 @@
+---
+title: "Memorial circunstanciado para concurso de Professor Doutor junto ao Departamento de Bioquímica"
+author: "Dr. Marcel Rodrigues Ferreira"
+format: 
+  typst:
+    toc: true
+    section-numbering: 1.1.a
+    toc-title: "Índice"
+editor: visual
+date: today
+lang: pt-br
+---
+
+## Apresentação
+
+## Dados pessoais
+
+**Nome Completo:** Marcel Rodrigues Ferreira.
+
+**Nome Científico:** Marcel R. Ferreira
+
+**Nome em Citações:** M.R.Ferreira.
+
+**Data de Nascimento:** 02/05/1991.
+
+**Estado Civil:** Solteiro.
+
+**Local de Nascimento:** Itapetininga, São Paulo, Brasil.
+
+**Nacionalidade:** Brasileira.
+
+**Endereço Profissional:** Universidade Estadual Paulista "Júlio de Mesquita Filho", Faculdade de Medicina de Botucatu, Unidade de Pesquisa Experimental (UNIPEX). Av. Prof. Mário Rubens Guimarães Montenegro, s/n Bairro: Distrito de Rubião Júnior. Cep: 18.618-687 - Botucatu, SP
+
+**Telefone Profissional:** (14) 3880-1749.
+
+**E-mail:** marce.ferreira\@unesp.br.
+
+**CV Lattes:** http://lattes.cnpq.br/5630742099737794.
+
+**ORCID:** https://orcid.org/0000-0002-3445-0945.
+
+**Research ID:**
+
+**Google Scholar:** https://scholar.google.com.br/citations?user=lS42GYwAAAAJ&hl=pt-BR
+
+**Website:**
+
+**ResearchGate:** https://www.researchgate.net/profile/Marcel-Rodrigues-Ferreira?ev=hdr_xprf.
+
+**Linkedin:** https://www.linkedin.com/in/marceelrf/.
+
+## Formação Acadêmica e Científica
+
+## Atuação Profissional
+
+## Atividades Didáticas e Formação de Recursos Humanos
+
+## Atividades de Pesquisa
+
+## Atividades de Extensão e Serviços à Comunidade
+
+## Atividades Administrativas
+
+## Nomenclatura para Lista de Anexos
+
+## Considerações Finais
+
+\newpage
+
+## Anexos {.unnumbered}
