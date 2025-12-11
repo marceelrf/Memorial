@@ -20,7 +20,6 @@ Gostaria de expressar minha sincera gratidão ao Prof. Dr. Juarez Lopes Ferreira
 ```{=typst}
 #pagebreak()
 ```
-
 ## Dados pessoais
 
 **Nome Completo:** Marcel Rodrigues Ferreira.
@@ -41,7 +40,7 @@ Gostaria de expressar minha sincera gratidão ao Prof. Dr. Juarez Lopes Ferreira
 
 **Telefone Profissional:** (14) 3880-1749.
 
-**E-mail:** marce.ferreira\@unesp.br.
+**E-mail:** marcel.ferreira\@unesp.br.
 
 **CV Lattes:** http://lattes.cnpq.br/5630742099737794.
 
@@ -60,7 +59,6 @@ Gostaria de expressar minha sincera gratidão ao Prof. Dr. Juarez Lopes Ferreira
 ```{=typst}
 #pagebreak()
 ```
-
 ## Formação Acadêmica e Científica
 
 ### Ensino Fundamental e Médio: 1998-2008
@@ -75,7 +73,25 @@ Ambas as escolas desempenharam um papel crucial na minha formação, reforçando
 
 ### Graduação: 2011--2014
 
-Após dois anos pessoalmente muito dificies, em 2011 entrei no curso de Bacharelado em Física Médica do Insituto de Biociências de Botucatu da Universidade Estadual Paulista "Júlio de Mesquita Filho" ([UNESP](https://www2.unesp.br/)). Durante os 4 anos de curso, tive a oportunidade de ter acesso a uma formação multidisciplinar.
+Após dois anos pessoalmente muito dificies, em 2011 entrei no curso de Bacharelado em Física Médica do Insituto de Biociências de Botucatu da Universidade Estadual Paulista "Júlio de Mesquita Filho" ([UNESP](https://www2.unesp.br/)). Durante os 4 anos de curso, tive acesso a uma formação multidisciplinar. Ainda nas primeiras semanas, ouvi a frase "aproveitem todos os espaços que a universidade pública lhes proporciona" e tomei-a como meu mantra. Participei de diversas atividades acadêmicas como: o cursinhos pré-vestibular Desafio e Eukaípia, empresa júnior Nucleon Jr, atlética, organização do Congresso de Física Aplicada a Medicina, monitorias, e iniciação cientifica.
+
+Após enfrentar dois anos de desafios pessoais significativos, ingressei, em 2011, no curso de Bacharelado em Física Médica do Instituto de Biociências de Botucatu da Universidade Estadual Paulista "Júlio de Mesquita Filho" ([UNESP](https://www2.unesp.br/)). Ao longo dos quatro anos de graduação, tive a oportunidade de acessar uma formação profundamente multidisciplinar, que abrangeu desde os fundamentos da física até aplicações práticas na medicina.
+
+Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um mantra: "*aproveitem todos os espaços que a universidade pública lhes proporciona*". Inspirado por essa mensagem, participei ativamente de diversas atividades acadêmicas e extracurriculares, incluindo:
+
+-   **Cursinhos pré-vestibular**: Contribuí como professor e monitor de matemática no [cursinho Desafio](https://www.fmb.unesp.br/#!/extensao/cursinho-desafio/)  (2011) e como professor e coordenador de matemática no projeto Eukaípia [^1] (2012-2013), ambos voltados para a preparação de estudantes de baixa renda para o vestibular.
+
+-   **Empresa júnior**: Fui membro da Nucleon Jr, onde adquiri experiência prática em consultoria e projetos relacionados à física médica.
+
+-   **Atlética**: Fui membro ativo da Associação Atlética Acadêmica de Botucatu, como atleta e, posteriormente, como Diretor de Modalidade de Tênis de Mesa. Nessa função, tive a oportunidade de influenciar significativamente a prática do esporte, conduzindo a equipe a resultados expressivos em competições e incentivando um aumento no número de praticantes da modalidade.
+
+-   **Organização de eventos**: Auxiliei na organização do Congresso de Física Aplicada à Medicina de 2014, uma experiência enriquecedora que me permitiu interagir com profissionais e pesquisadores renomados na área.
+
+-   **Monitorias**: Atuei como monitor nas disciplinas de Física 3 para os cursos de Física Médica e de Fundamentos de Física do curso de Ciências Biomédicas, reforçando meu conhecimento e auxiliando colegas em suas jornadas acadêmicas.
+
+-   **Iniciação científica**: Engajei-me em projetos de pesquisa, fundamentais para o desenvolvimento de meu pensamento crítico e habilidades científicas.
+
+[^1]: O cursinho Eukaípia, do qual fui participante, foi renomeado em 2014 para Cursinho do IB e, posteriormente, em 2017, para [Cursinho Athena](https://www.ibb.unesp.br/#!/extensao/cursinhos-athena/) --- denominação que tive a honra de sugerir. Durante as etapas de meu mestrado e doutorado, não apenas continuei como professor, mas também assumi a função de coordenador de disciplina nesses projetos, contribuindo para a sua evolução e impacto na comunidade.
 
 ### Mestrado: 2015--2017
 
