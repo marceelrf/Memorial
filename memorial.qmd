@@ -17,6 +17,10 @@ lang: pt-br
 
 Gostaria de expressar minha sincera gratidão ao Prof. Dr. Juarez Lopes Ferreira da Silva, ilustre membro do Departamento de Físico-Química do Instituto de Química de São Carlos da Universidade de São Paulo, por sua generosidade em compartilhar publicamente seu memorial no ResearchGate. Embora ainda não tenhamos tido a oportunidade de nos conhecer pessoalmente, a iniciativa do professor de disponibilizar seu trabalho tem sido de imensa valia para minha trajetória acadêmica e profissional.
 
+```{=typst}
+#pagebreak()
+```
+
 ## Dados pessoais
 
 **Nome Completo:** Marcel Rodrigues Ferreira.
@@ -53,11 +57,25 @@ Gostaria de expressar minha sincera gratidão ao Prof. Dr. Juarez Lopes Ferreira
 
 **Linkedin:** https://www.linkedin.com/in/marceelrf/.
 
+```{=typst}
+#pagebreak()
+```
+
 ## Formação Acadêmica e Científica
 
 ### Ensino Fundamental e Médio: 1998-2008
 
+Minha trajetória educacional começou na cidade de Itapetininga, interior de São Paulo, onde tive a sorte de ser cercado por um ambiente familiar que valorizava a educação e o desenvolvimento integral desde cedo. Meus pais, pertencentes à classe média baixa, fizeram um esforço considerável para me matricular em instituições de ensino que pudessem proporcionar uma formação de qualidade, entendendo que a educação seria a base para minhas futuras conquistas.
+
+O ensino fundamental foi realizado no Colégio Alpis, entre os anos de 1998 e 2005. Durante esse período, além do currículo escolar tradicional, meus pais incentivaram práticas esportivas, estudos de língua inglesa e artes, com aulas de violão, o que contribuiu significativamente para uma visão mais ampla e multidisciplinar do mundo.
+
+Entre 2006 e 2008, cursei o ensino médio no Sistema Educacional Quintal (Objetivo). Essa etapa foi particularmente inspiradora, graças às aulas de laboratório de química, física e biologia que frequentava no período vespertino. Essas experiências práticas foram fundamentais para despertar meu interesse por uma carreira científica, mostrando-me a importância da experimentação e do conhecimento aplicado.
+
+Ambas as escolas desempenharam um papel crucial na minha formação, reforçando a ideia de que uma educação abrangente e multidisciplinar é essencial para o desenvolvimento pessoal e profissional. Sou extremamente grato aos meus pais pelo sacrifício em custear escolas particulares, que, apesar dos desafios financeiros, sempre priorizaram meu aprendizado e crescimento.
+
 ### Graduação: 2011--2014
+
+Após dois anos pessoalmente muito dificies, em 2011 entrei no curso de Bacharelado em Física Médica do Insituto de Biociências de Botucatu da Universidade Estadual Paulista "Júlio de Mesquita Filho" ([UNESP](https://www2.unesp.br/)). Durante os 4 anos de curso, tive a oportunidade de ter acesso a uma formação multidisciplinar.
 
 ### Mestrado: 2015--2017
 
