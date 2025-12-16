@@ -73,21 +73,25 @@ Gostaria de expressar minha sincera gratidão ao Prof. Dr. Juarez Lopes Ferreira
 
 **Telefone Profissional:** (14) 3880-1749.
 
-**E-mail:** marcel.ferreira\@unesp.br.
+**E-mail:** [marcel.ferreira\@unesp.br](mailto:marcel.ferreira@unesp.br).
 
-**CV Lattes:** http://lattes.cnpq.br/5630742099737794.
+**CV Lattes:** <http://lattes.cnpq.br/5630742099737794>.
 
-**ORCID:** https://orcid.org/0000-0002-3445-0945.
+**ORCID:** <https://orcid.org/0000-0002-3445-0945>.
 
-**Research ID:**
+**Web of Science ResearcherID:** A-5830-2018
 
-**Google Scholar:** https://scholar.google.com.br/citations?user=lS42GYwAAAAJ&hl=pt-BR
+**Google Scholar:** <https://scholar.google.com.br/citations?user=lS42GYwAAAAJ&hl=pt-BR>
+
+**Scopus**[^2]**:** <https://www.scopus.com/authid/detail.uri?authorId=56765071000>
+
+[^2]: Na plataforma Scopus meu nome esta como Marcel Rodrigues Rodrigues Ferreira. Já foi solicitado mais de uma vez a correção, porém até a presente data não foi realizada.
 
 **Website:**
 
-**ResearchGate:** https://www.researchgate.net/profile/Marcel-Rodrigues-Ferreira?ev=hdr_xprf.
+**ResearchGate:** <https://www.researchgate.net/profile/Marcel-Rodrigues-Ferreira?ev=hdr_xprf.>
 
-**Linkedin:** https://www.linkedin.com/in/marceelrf/.
+**Linkedin:** <https://www.linkedin.com/in/marceelrf/>.
 
 ```{=typst}
 #pagebreak()
@@ -112,7 +116,7 @@ Após enfrentar dois anos de desafios pessoais significativos, ingressei, em 201
 
 Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um mantra: "*aproveitem todos os espaços que a universidade pública lhes proporciona*". Inspirado por essa mensagem, participei ativamente de diversas atividades acadêmicas e extracurriculares, incluindo:
 
--   **Cursinhos pré-vestibular**: Contribuí como professor e monitor de matemática no [cursinho Desafio](https://www.fmb.unesp.br/#!/extensao/cursinho-desafio/) (2011) e como professor e coordenador de matemática no projeto Eukaípia [^2] (2012-2013), ambos voltados para a preparação de estudantes de baixa renda para o vestibular.
+-   **Cursinhos pré-vestibular**: Contribuí como professor e monitor de matemática no [cursinho Desafio](https://www.fmb.unesp.br/#!/extensao/cursinho-desafio/) (2011) e como professor e coordenador de matemática no projeto Eukaípia [^3] (2012-2013), ambos voltados para a preparação de estudantes de baixa renda para o vestibular.
 
 -   **Empresa júnior**: Fui membro da Nucleon Jr, onde adquiri experiência prática em consultoria e projetos relacionados à física médica.
 
@@ -124,7 +128,7 @@ Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um 
 
 -   **Iniciação científica**: Engajei-me em projetos de pesquisa, fundamentais para o desenvolvimento de meu pensamento crítico e habilidades científicas.
 
-[^2]: O cursinho Eukaípia, do qual fui participante, foi renomeado em 2014 para Cursinho do IB e, posteriormente, em 2017, para [Cursinho Athena](https://www.ibb.unesp.br/#!/extensao/cursinhos-athena/) --- denominação que tive a honra de sugerir. Durante as etapas de meu mestrado e doutorado, não apenas continuei como professor, mas também assumi a função de coordenador de disciplina nesses projetos, contribuindo para a sua evolução e impacto na comunidade.
+[^3]: O cursinho Eukaípia, do qual fui participante, foi renomeado em 2014 para Cursinho do IB e, posteriormente, em 2017, para [Cursinho Athena](https://www.ibb.unesp.br/#!/extensao/cursinhos-athena/) --- denominação que tive a honra de sugerir. Durante as etapas de meu mestrado e doutorado, não apenas continuei como professor, mas também assumi a função de coordenador de disciplina nesses projetos, contribuindo para a sua evolução e impacto na comunidade.
 
 ### Mestrado: 2015--2017
 
@@ -137,8 +141,14 @@ Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um 
 
 ### Pós-doutorados: 2023-Presente
 
+```{=typst}
+#pagebreak()
+```
 ## Atividades Didáticas e Formação de Recursos Humanos
 
+```{=typst}
+#pagebreak()
+```
 ## Atividades de Pesquisa
 
 ### Linhas de Pesquisa
@@ -223,16 +233,27 @@ Abaixo, estão listados em ordem cronológica de publicação todos os artigos c
 
 34. Castelli, E.C., Pereira, R.N., Paes, G.S., Andrade, H.S., Ferreira, M.R., de Freitas Santos, Í.S., Vince, N., Pollock, N.R., Norman, P.J. and Meyer, D. (2025), kir-mapper: A Toolkit for Killer-Cell Immunoglobulin-Like Receptor (KIR) Genotyping From Short-Read Second-Generation Sequencing Data. HLA, 105: e70092. <https://doi.org/10.1111/tan.70092>
 
-35. Willian Fernando Zambuzzi, Marcel Rodrigues Ferreira,
-
-    Dynamic ion-releasing biomaterials actively shape the microenvironment to enhance healing, Journal of Trace Elements in Medicine and Biology, Volume 89, 2025, 127657, ISSN 0946-672X, <https://doi.org/10.1016/j.jtemb.2025.127657>.
+35. Willian Fernando Zambuzzi, Marcel Rodrigues Ferreira, Dynamic ion-releasing biomaterials actively shape the microenvironment to enhance healing, Journal of Trace Elements in Medicine and Biology, Volume 89, 2025, 127657, ISSN 0946-672X, <https://doi.org/10.1016/j.jtemb.2025.127657>.
 
 36. Zambuzzi, W.F.; Ferreira, M.R.; Wang, Z.; Peppelenbosch, M.P. A Biochemical View on Intermittent Fasting\'s Effects on Human Physiology---Not Always a Beneficial Strategy. *Biology* **2025**, *14*, 669. <https://doi.org/10.3390/biology14060669>
 
 ### Análise Estatística das Publicações
 
+1.  Número de publicações: 36.
+
+2.  Número de artigos completos em periódicos: 35.
+
+3.  Número de citações: 632 (Google Scholar), 540 (ResearchGate), 502 (Scopus), 479 (ResearcherID).
+
+4.  Média de citações: 18,06 (Google Scholar), 15,43 (ResearchGate), 14,34 (Scopus), 13,31 (ResearcherID).
+
+5.  h-index: 14 (Google Scholar), 13 (ResearchGate), 13 (Scopus), 12 (ResearcherID).
+
 ### Contribuições Científicas
 
+```{=typst}
+#pagebreak()
+```
 ## Atividades de Extensão e Serviços à Comunidade
 
 ### Participação em Bancas Examinadoras e Julgadoras
@@ -249,6 +270,9 @@ ddd
 
 ## Atividades Administrativas
 
+```{=typst}
+#pagebreak()
+```
 ## Nomenclatura para Lista de Anexos
 
 ## Considerações Finais
