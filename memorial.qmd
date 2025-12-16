@@ -6,6 +6,10 @@ format:
     toc: true
     section-numbering: 1.1.a
     toc-title: "Índice"
+    include-in-header:
+        - text: |
+            /* Color links */
+            #show link: set text(fill: rgb(0, 0, 255))
 editor: visual
 date: today
 lang: pt-br
@@ -147,6 +151,84 @@ Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um 
 
 ### Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados, e Trabalhos Completos Publicados em Anais de Congressos
 
+Abaixo, estão listados em ordem cronológica de publicação todos os artigos completos aceitos e publicados em periódicos internacionais, capítulos de livros e trabalhos completos publicados em anais de congressos. As informações fornecidas para cada publicação incluem: autores, título, link para acesso direto ao artigo, nome do periódico (ou livro ou anais do congresso), volume, número de página e ano de publicação.
+
+1.  Alvarez, T.M., Liberato, M.V., Cairo, J.P.L.F. *et al.* A Novel Member of GH16 Family Derived from Sugarcane Soil Metagenome. *Appl Biochem Biotechnol* **177**, 304--317 (2015). <https://doi.org/10.1007/s12010-015-1743-7>
+
+2.  Bezerra, F., Ferreira, M.R., Fontes, G.N., da Costa Fernandes, C.J., Andia, D.C., Cruz, N.C., da Silva, R.A. and Zambuzzi, W.F. (2017), Nano hydroxyapatite-blasted titanium surface affects pre-osteoblast morphology by modulating critical intracellular pathways. Biotechnol. Bioeng., 114: 1888-1898. <https://doi.org/10.1002/bit.26310>
+
+3.  Célio J.C. Fernandes, Fábio Bezerra, Marcel R. Ferreira, Amanda F.C. Andrade, Thais Silva Pinto, Willian F. Zambuzzi, Nano hydroxyapatite-blasted titanium surface creates a biointerface able to govern Src-dependent osteoblast metabolism as prerequisite to ECM remodeling, Colloids and Surfaces B: Biointerfaces, Volume 163, 2018, Pages 321-328, ISSN 0927-7765, <https://doi.org/10.1016/j.colsurfb.2017.12.049>.
+
+4.  da Costa Fernandes, C.J., Ferreira, M.R., Bezerra, F.J.B. et al. Zirconia stimulates ECM-remodeling as a prerequisite to pre-osteoblast adhesion/proliferation by possible interference with cellular anchorage. J Mater Sci: Mater Med 29, 41 (2018). <https://doi.org/10.1007/s10856-018-6041-9>
+
+5.  Rodrigo A. da Silva, Amanda Fantini de Camargo Andrade, Geórgia da Silva Feltran, Célio Júnior da C. Fernandes, Rahyza Inacio F. de Assis, Marcel Rodrigues Ferreira, Denise C. Andia, Willian F. Zambuzzi, The role of triiodothyronine hormone and mechanically-stressed endothelial cell paracrine signalling synergism in gene reprogramming during hBMSC-stimulated osteogenic phenotype in vitro, Molecular and Cellular Endocrinology, Volume 478, 2018, Pages 151-167, ISSN 0303-7207,<https://doi.org/10.1016/j.mce.2018.08.008>.
+
+6.  Geórgia da Silva Feltran, Célio Junior da Costa Fernandes, Marcel Rodrigues Ferreira, Ha Ram Kang, Ana Lívia de Carvalho Bovolato, Márjorie de Assis Golim, Elenice Deffune, Ivan Hong Jun Koh, Vera Regina Leopoldo Constantino, Willian F. Zambuzzi, Sonic hedgehog drives layered double hydroxides-induced acute inflammatory landscape, Colloids and Surfaces B: Biointerfaces, Volume 174, 2019, Pages 467-475, ISSN 0927-7765, <https://doi.org/10.1016/j.colsurfb.2018.11.051>.
+
+7.  Mariana Issler Pinheiro Machado, Anderson Moreira Gomes, Marcel Ferreira Rodrigues, Thais Silva Pinto, Célio Júnior da Costa Fernandes, Fábio J. Bezerra, Willian Fernando Zambuzzi,
+
+    Cobalt-chromium-enriched medium ameliorates shear-stressed endothelial cell performance, Journal of Trace Elements in Medicine and Biology, Volume 54, 2019, Pages 163-171, ISSN 0946-672X, <https://doi.org/10.1016/j.jtemb.2019.04.012>.
+
+8.  da S. Feltran G, Bezerra F, da Costa Fernandes CJ, Ferreira MR, Zambuzzi WF. 2019. Differential inflammatory landscape stimulus during titanium surfaces obtained osteogenic phenotype. *J Biomed Mater Res Part A* 2019: 107A: 1597--1604. <https://doi.org/10.1002/jbm.a.36673>
+
+9.  Rodrigo A. da Silva, Gwenny M. Fuhler, Vincent T. Janmaat, Célio Júnior da C. Fernandes, Geórgia da Silva Feltran, Flávia Amadeu Oliveira, Adriana Arruda Matos, Rodrigo Cardoso Oliveira, Marcel Rodrigues Ferreira, Willian F. Zambuzzi, Maikel P. Peppelenbosch, HOXA cluster gene expression during osteoblast differentiation involves epigenetic control, Bone, Volume 125, 2019, Pages 74-86, ISSN 8756-3282, <https://doi.org/10.1016/j.bone.2019.04.026>.
+
+10. da Silva, Rodrigo A., da Silva Feltran, Geórgia, Ferreira, Marcel Rodrigues, Wood, Patrícia Fretes, Bezerra, Fabio, Zambuzzi, Willian F., The Impact of Bioactive Surfaces in the Early Stages of Osseointegration: An *In Vitro* Comparative Study Evaluating the HAnano® and SLActive® Super Hydrophilic Surfaces, *BioMed Research International*, 2020, 3026893, 11 pages, 2020. <https://doi.org/10.1155/2020/3026893>
+
+11. da Silva RA, Ferreira MR, Gomes AM, Zambuzzi WF. LncRNA HOTAIR is a novel endothelial mechanosensitive gene. *J Cell Physiol*. 2020; 235: 4631--4642. <https://doi.org/10.1002/jcp.29340>
+
+12. O.P. Gomes, G.S. Feltran, M.R. Ferreira, C.S. Albano, W.F. Zambuzzi, P.N. Lisboa-Filho, A novel BSA immobilizing manner on modified titanium surface ameliorates osteoblast performance, Colloids and Surfaces B: Biointerfaces, Volume 190, 2020, 110888, ISSN 0927-7765, <https://doi.org/10.1016/j.colsurfb.2020.110888>.
+
+13. Ferreira MR, Milani R, Rangel EC, Peppelenbosch M and Zambuzzi W (2020) OsteoBLAST: Computational Routine of Global Molecular Analysis Applied to Biomaterials Development. *Front. Bioeng. Biotechnol.* 8:565901. doi: [10.3389/fbioe.2020.565901](https://doi.org/10.3389/fbioe.2020.565901)
+
+14. Rahyza I.F. Assis, Geórgia da S. Feltran, Maria Eduarda Salomão Silva, Iasmin Caroline do Rosário Palma, Emanuel Silva Rovai, Taís Browne de Miranda, Marcel Rodrigues Ferreira, Willian F. Zambuzzi, Alexander Birbrair, Denise C. Andia, Rodrigo A. da Silva, Non-coding RNAs repressive role in post-transcriptional processing of RUNX2 during the acquisition of the osteogenic phenotype of periodontal ligament mesenchymal stem cells, Developmental Biology, Volume 470, 2021, Pages 37-48, ISSN 0012-1606, <https://doi.org/10.1016/j.ydbio.2020.10.012>.
+
+15. Ferreira MR, Santos GA, Biagi CA, Silva Junior WA, Zambuzzi WF. GSVA score reveals molecular signatures from transcriptomes for biomaterials comparison. *J Biomed Mater Res*. 2021; 109: 1004--1014. <https://doi.org/10.1002/jbm.a.37090>
+
+16. Ferreira MR, Zambuzzi WF. Platelet microparticles load a repertory of miRNAs programmed to drive osteogenic phenotype. *J Biomed Mater Res*. 2021; 109: 1502--1511. <https://doi.org/10.1002/jbm.a.37140>
+
+17. Pinto, T. S., Martins, B. R., Ferreira, M. R., Bezerra, F., Zambuzzi, W. F., Nanohydroxyapatite-Blasted Bioactive Surface Drives Shear-Stressed Endothelial Cell Growth and Angiogenesis, *BioMed Research International*, 2022, 1433221, 11 pages, 2022. <https://doi.org/10.1155/2022/1433221>
+
+18. João Paulo L Franco Cairo, Fernanda Mandelli, Robson Tramontina, David Cannella, Alessandro Paradisi, Luisa Ciano, Marcel R Ferreira, Marcelo V Liberato, Lívia B Brenelli, Thiago A Gonçalves, Gisele N Rodrigues, Thabata M Alvarez, Luciana S Mofatto, Marcelo F Carazzolle, José GC Pradella, Adriana F Paes Leme, Ana M Costa-Leonardo, Mário Oliveira-Neto, André Damasio, Gideon J Davies, Claus Felby, Paul H Walton, Fabio M Squina, Oxidative cleavage of polysaccharides by a termite-derived superoxide dismutase boosts the degradation of biomass by glycoside hydrolases, Green Chemistry, **2022**, 24, 4845-4858, DOI: [ https://doi.org/10.1039/D1GC04519A]( https://doi.org/10.1039/D1GC04519A)
+
+19. da C. Fernandes, C.J.; da Silva, R.A.F.; de Almeida, G.S.; Ferreira, M.R.; de Morais, P.B.; Bezerra, F.; Zambuzzi, W.F. Epigenetic Differences Arise in Endothelial Cells Responding to Cobalt--Chromium. *J. Funct. Biomater.* **2023**, *14*, 127. <https://doi.org/10.3390/jfb14030127>
+
+20. Fernandes, C.J.d.C.; da Silva, R.A.F.; Wood, P.F.; Ferreira, M.R.; de Almeida, G.S.; de Moraes, J.F.; Bezerra, F.J.; Zambuzzi, W.F. Titanium-Enriched Medium Promotes Environment-Induced Epigenetic Machinery Changes in Human Endothelial Cells. J. Funct. Biomater. 2023, 14, 131. <https://doi.org/10.3390/jfb14030131>
+
+21. Célio J. da Costa Fernandes, Marcel Rodrigues Ferreira, Willian Fernando Zambuzzi, Cyclopamine targeting hedgehog modulates nuclear control of the osteoblast activity, Cells & Development, Volume 174, 2023, 203836, ISSN 2667-2901, <https://doi.org/10.1016/j.cdev.2023.203836>.
+
+22. Flávia Amadeu de Oliveira, Cintia K. Tokuhara, Vimal Veeriah, João Paulo Domezi, Mariana R. Santesso, Tania M. Cestari, Talita M.O. Ventura, Adriana A. Matos, Thiago Dionísio, Marcel R. Ferreira, Rafael C. Ortiz, Marco A.H. Duarte, Marília A.R. Buzalaf, José B. Ponce, Carlos A. Sorgi, Lucia H. Faccioli, Camila Peres Buzalaf, Rodrigo Cardoso de Oliveira, The Multifarious Functions of Leukotrienes in Bone Metabolism, *Journal of Bone and Mineral Research*, Volume 38, Issue 8, 1 August 2023, Pages 1135--1153, <https://doi.org/10.1002/jbmr.4867>
+
+23. Liebert Bernardes Carvalho, Paula Lemes dos Santos Sanna, Camila Cristina dos Santos Afonso, Eduardo F. Bondan, Geórgia da Silva Feltran, Marcel Rodrigues Ferreira, Alexander Birbrair, Denise Carleto Andia, Alexandra Latini, Rodrigo A. Foganholi da Silva, MicroRNA biogenesis machinery activation and lncRNA and REST overexpression as neuroprotective responses to fight inflammation in the hippocampus, Journal of Neuroimmunology, Volume 382, 2023, 578149, ISSN 0165-5728, <https://doi.org/10.1016/j.jneuroim.2023.578149>.
+
+24. Bergamo ETP, Balderrama Ísis de Fátima, Ferreira MR, et al. Osteogenic differentiation and reconstruction of mandible defects using a novel resorbable membrane: An in vitro and in vivo experimental study. *J Biomed Mater Res*. 2023; 111(11): 1966-1978. doi:[10.1002/jbm.b.35299](https://doi.org/10.1002/jbm.b.35299 "Link to external resource: 10.1002/jbm.b.35299")
+
+25. de Almeida GS, Ferreira MR, da Costa Fernandes CJ, et al. Development of cobalt (Co)-doped monetites for bone regeneration. *J Biomed Mater Res*. 2024; 112(1):e35319. doi:[10.1002/jbm.b.35319](https://doi.org/10.1002/jbm.b.35319 "Link to external resource: 10.1002/jbm.b.35319")
+
+26. de Almeida GS, Ferreira MR, Fernandes CC Jr, et al. Combination of *in silico* and cell culture strategies to predict biomaterial performance: Effects of sintering temperature on the biological properties of hydroxyapatite. *J Biomed Mater Res*. 2024; 112(2):e35389. doi:[10.1002/jbm.b.35389](https://doi.org/10.1002/jbm.b.35389 "Link to external resource: 10.1002/jbm.b.35389")
+
+27. Paula Lemes dos Santos Sanna, Liebert Bernardes Carvalho, Camila Cristina dos Santos Afonso, Kassia de Carvalho, Rogério Aires, Jennyffer Souza, Marcel Rodrigues Ferreira, Alexander Birbrair, Maria Martha Bernardi, Alexandra Latini, Rodrigo A. Foganholi da Silva, Adora2A downregulation promotes caffeine neuroprotective effect against LPS-induced neuroinflammation in the hippocampus, Brain Research, Volume 1833, 2024, 148866, ISSN 0006-8993, <https://doi.org/10.1016/j.brainres.2024.148866>.
+
+28. Geórgia da Silva Feltran, Rodrigo Augusto da Silva, Célio Junior da Costa Fernandes, Marcel Rodrigues Ferreira, Sérgio Alexandre Alcântara dos Santos, Luis Antônio Justulin Junior, Liliana del Valle Sosa, Willian Fernando Zambuzzi, Vascular smooth muscle cells exhibit elevated hypoxia-inducible Factor-1α expression in human blood vessel organoids, influencing osteogenic performance, Experimental Cell Research, Volume 440, Issue 2, 2024, 114136, ISSN 0014-4827, <https://doi.org/10.1016/j.yexcr.2024.114136>.
+
+29. Célio J.C. Fernandes, Rodrigo A. Silva, Marcel R. Ferreira, Gwenny M. Fuhler, Maikel P. Peppelenbosch, Bram CJ. van der Eerden, Willian F. Zambuzzi, Vascular smooth muscle cell-derived exosomes promote osteoblast-to-osteocyte transition via β-catenin signaling, Experimental Cell Research, Volume 442, Issue 1, 2024, 114211, ISSN 0014-4827, <https://doi.org/10.1016/j.yexcr.2024.114211>.
+
+30. Matheus Naia Fioretto, Flávia Alessandra Maciel, Luísa Annibal Barata, Isabelle Tenori Ribeiro, Carolina Beatriz Pinheiro Basso, Marcel Rodrigues Ferreira, Sérgio Alexandre Alcantara dos Santos, Renato Mattos, Hecttor Sebastian Baptista, Luiz Marcos Frediane Portela, Pedro Magalhães Padilha, Sérgio Luis Felisbino, Wellerson Rodrigo Scarano, Elena Zambrano, Luis Antonio Justulin, Impact of maternal protein restriction on the proteomic landscape of male rat lungs across the lifespan, Molecular and Cellular Endocrinology, Volume 592, 2024, 112348, ISSN 0303-7207, <https://doi.org/10.1016/j.mce.2024.112348>.
+
+31. L Urbano Pagan, M Gatto, M R Ferreira, M J Gomes, J P G Oliveira, G A F Mota, F C Damatto, L M Souza, A C C Santos, E A Rodrigues, P A Borim, D H S Campos, M P Okoshi, K Okoshi, Effects of empagliflozin on myocardial transcriptome in rats with aortic stenosis-induced heart failure, *European Heart Journal*, Volume 45, Issue Supplement_1, October 2024, ehae666.1829, <https://doi.org/10.1093/eurheartj/ehae666.1829>
+
+32. Marcel Rodrigues Ferreira, Thássia Mayra Telles Carratto, Tamara Soledad Frontanilla, Raphael Severino Bonadio, Miten Jain, Silviene Fabiana de Oliveira, Erick C. Castelli, Celso Teixeira Mendes-Junior, Advances in forensic genetics: Exploring the potential of long read sequencing, Forensic Science International: Genetics, Volume 74, 2025, 103156, ISSN 1872-4973, <https://doi.org/10.1016/j.fsigen.2024.103156>.
+
+33. Ferreira, M. R., G. S. Feltran, A. M. Gomes, et al. 2025. \"Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis.\" *Cell Biology International* 50: 1--17. <https://doi.org/10.1002/cbin.70101>.
+
+34. Castelli, E.C., Pereira, R.N., Paes, G.S., Andrade, H.S., Ferreira, M.R., de Freitas Santos, Í.S., Vince, N., Pollock, N.R., Norman, P.J. and Meyer, D. (2025), kir-mapper: A Toolkit for Killer-Cell Immunoglobulin-Like Receptor (KIR) Genotyping From Short-Read Second-Generation Sequencing Data. HLA, 105: e70092. <https://doi.org/10.1111/tan.70092>
+
+35. Willian Fernando Zambuzzi, Marcel Rodrigues Ferreira,
+
+    Dynamic ion-releasing biomaterials actively shape the microenvironment to enhance healing, Journal of Trace Elements in Medicine and Biology, Volume 89, 2025, 127657, ISSN 0946-672X, <https://doi.org/10.1016/j.jtemb.2025.127657>.
+
+36. Zambuzzi, W.F.; Ferreira, M.R.; Wang, Z.; Peppelenbosch, M.P. A Biochemical View on Intermittent Fasting\'s Effects on Human Physiology---Not Always a Beneficial Strategy. *Biology* **2025**, *14*, 669. <https://doi.org/10.3390/biology14060669>
+
 ### Análise Estatística das Publicações
 
 ### Contribuições Científicas
@@ -161,9 +243,7 @@ ddd
 
 ddd
 
-### 
-
-Organização de Eventos
+### Organização de Eventos
 
 ### Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais
 
