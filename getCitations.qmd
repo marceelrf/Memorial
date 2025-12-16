@@ -1,0 +1,10 @@
+---
+title: "pseudoArticles"
+format: pdf
+editor: visual
+bibliography: references.bib
+---
+
+## My papers
+
+Marcel [@Zambuzzi2025; @Ferreira2025; @Naia2024; @de2024; @da2023; @da2023a; @da2020; @Zambuzzi2025a; @da2019; @da2019a; @Fernandes2023; @da2019b; @Lemes2024; @Carvalho2023; @Bergamo2023; @da2024; @Ferreira2021; @Assis2021; @da2018; @Ferreira2026; @Castelli2025; @da2020a; @Ferreira2020; @da2018a; @Fernandes2024; @de2024a; @amadeudeoliveira2023; @Franco2022; @Pinto2022; @Ferreira2021a; @Ferreira2021b; @Gomes2020; @das.feltran2019; @Machado2019; @Fernandes2018; @Bezerra2017][@Fernandes2024][@de2024a][@amadeudeoliveira2023][@Franco2022][@Pinto2022][@Ferreira2021a][@Ferreira2021b][@Gomes2020][@das.feltran2019][@Machado2019][@Fernandes2018][@Bezerra2017][@Alvarez2015]
