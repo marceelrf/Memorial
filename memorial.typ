@@ -298,7 +298,7 @@
       affiliation: [],
       email: [] ),
     ),
-  date: [2025-12-17],
+  date: [2025-12-18],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -379,7 +379,9 @@ Gostaria de expressar minha sincera gratidão ao Prof.~Dr.~Juarez Lopes Ferreira
 
 #strong[ResearchGate:] #link("https://www.researchgate.net/profile/Marcel-Rodrigues-Ferreira?ev=hdr_xprf.")
 
-#strong[Linkedin:] #link("https://www.linkedin.com/in/marceelrf/");.
+#strong[Linkedin:] #link("https://www.linkedin.com/in/marceelrf/")
+
+#strong[GitHub:] #link("https://github.com/marceelrf")
 
 #pagebreak()
 = Formação Acadêmica e Científica
@@ -431,6 +433,10 @@ Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um 
 <atividades-de-pesquisa>
 == Linhas de Pesquisa
 <linhas-de-pesquisa>
++ Aspectos moleculares da regeneração óssea;
+
++ Desenvolvimento de métodos computacionais para análise de biomateriais ósseos;
+
 == Rede de colaboração
 <rede-de-colaboração>
 === Professores (IBB)

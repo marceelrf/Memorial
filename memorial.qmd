@@ -92,7 +92,9 @@ Gostaria de expressar minha sincera gratidão ao Prof. Dr. Juarez Lopes Ferreira
 
 **ResearchGate:** <https://www.researchgate.net/profile/Marcel-Rodrigues-Ferreira?ev=hdr_xprf.>
 
-**Linkedin:** <https://www.linkedin.com/in/marceelrf/>.
+**Linkedin:** <https://www.linkedin.com/in/marceelrf/>
+
+**GitHub:** <https://github.com/marceelrf>
 
 ```{=typst}
 #pagebreak()
@@ -153,6 +155,10 @@ Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um 
 ## Atividades de Pesquisa
 
 ### Linhas de Pesquisa
+
+1.  Aspectos moleculares da regeneração óssea;
+
+2.  Desenvolvimento de métodos computacionais para análise de biomateriais ósseos;
 
 ### Rede de colaboração
 
