@@ -295,8 +295,8 @@
   title: [Memorial circunstanciado para concurso de Professor Doutor junto ao Departamento de Bioquímica],
   authors: (
     ( name: [Dr.~Marcel Rodrigues Ferreira],
-      affiliation: [],
-      email: [] ),
+      affiliation: [Brown University],
+      email: [josiah\@psychoceramics.org] ),
     ),
   date: [2025-12-19],
   lang: "pt",

@@ -1,6 +1,14 @@
 ---
 title: "Memorial circunstanciado para concurso de Professor Doutor junto ao Departamento de Bioquímica"
-author: "Dr. Marcel Rodrigues Ferreira"
+author: 
+  - name: "Dr. Marcel Rodrigues Ferreira"
+    id: "MRF"
+    email: josiah@psychoceramics.org
+    affiliation: 
+      - name: Brown University
+        city: Providence
+        state: RI
+        url: www.brown.edu
 format: 
   typst:
     keep-typ: true
