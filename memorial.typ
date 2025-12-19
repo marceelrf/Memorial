@@ -298,7 +298,7 @@
       affiliation: [],
       email: [] ),
     ),
-  date: [2025-12-18],
+  date: [2025-12-19],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -311,7 +311,17 @@
 
 #pagebreak()
 = Apresentação
-<apresentação>
+<sec-1>
+Ao longo da minha trajetória acadêmica, alguns acontecimentos foram particularmente marcantes e contribuíram de forma decisiva para a construção da minha identidade como pesquisador e educador. Entre eles, destaco a conclusão do ensino médio, o ingresso no curso de #link("https://www.ibb.unesp.br/#!/ensino/graduacao/curso/fisica-medica/")[Física Médica] na Universidade Estadual Paulista "Júlio de Mesquita Filho" (#link("https://www2.unesp.br/")[UNESP];), o desenvolvimento das atividades de iniciação científica, a defesa da dissertação de mestrado e da tese de doutorado, bem como o início das atividades de pós-doutorado. Esses momentos, mais do que marcos formais, representaram etapas fundamentais de reflexão, amadurecimento e definição de objetivos acadêmicos e profissionais.
+
+Embora tais conquistas sejam, frequentemente, associadas a celebrações, sempre as compreendi como oportunidades de análise crítica da própria trajetória, permitindo ajustes de rota e o delineamento de novos objetivos. Mesmo diante dos desafios e das incertezas inerentes à carreira acadêmica, mantive de forma consistente o propósito de me tornar professor universitário em regime de dedicação integral ao ensino, à pesquisa e à formação de recursos humanos, entendendo a universidade pública como espaço privilegiado de produção de conhecimento, inclusão e transformação social.
+
+Minha formação científica foi construída em ambientes interdisciplinares, com forte integração entre ciências básicas, biologia molecular, bioinformática e ciência dos biomateriais, possibilitando uma atuação científica que transita entre abordagens experimentais e computacionais. Ao longo desse percurso, busquei consolidar uma base sólida em pesquisa, ampliar redes de colaboração nacionais e internacionais e desenvolver competências didáticas voltadas à formação crítica de estudantes de graduação e pós-graduação.
+
+O presente memorial tem como objetivo apresentar uma análise circunstanciada da minha trajetória acadêmica e profissional, no contexto de minha candidatura à carreira docente. Este documento reúne informações que não se encontram integralmente descritas em currículos ou bases públicas, oferecendo uma visão integrada das atividades desenvolvidas, das contribuições científicas realizadas e das perspectivas futuras de atuação acadêmica.
+
+As informações pessoais relevantes estão resumidas na #link(<sec-2>)[Seção 2];. As Seções 3 e 4 apresentam, respectivamente, minha formação acadêmica e científica e minha atuação profissional. As seções subsequentes estão organizadas da seguinte forma: (i) Atividades Didáticas e Formação de Recursos Humanos (Seção 5); (ii) Atividades de Pesquisa (Seção 6); (iii) Atividades de Extensão e Serviços à Comunidade (Seção 7); e (iv) Atividades Administrativas (Seção 8). Na Seção 9 é apresentada a nomenclatura adotada para os anexos. Por fim, na Seção 10, apresento considerações finais, sintetizando minha trajetória e as perspectivas de desenvolvimento acadêmico.
+
 == Missão
 <missão>
 #quote(block: true)[
@@ -344,7 +354,7 @@ Gostaria de expressar minha sincera gratidão ao Prof.~Dr.~Juarez Lopes Ferreira
 
 #pagebreak()
 = Dados pessoais
-<dados-pessoais>
+<sec-2>
 #strong[Nome Completo:] Marcel Rodrigues Ferreira.
 
 #strong[Nome Científico:] Marcel R. Ferreira
