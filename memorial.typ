@@ -295,10 +295,10 @@
   title: [Memorial circunstanciado para concurso de Professor Doutor junto ao Departamento de Bioquímica],
   authors: (
     ( name: [Dr.~Marcel Rodrigues Ferreira],
-      affiliation: [Brown University],
-      email: [josiah\@psychoceramics.org] ),
+      affiliation: [UNESP],
+      email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2025-12-19],
+  date: [2025-12-20],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -443,9 +443,27 @@ Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um 
 <atividades-de-pesquisa>
 == Linhas de Pesquisa
 <linhas-de-pesquisa>
-+ Aspectos moleculares da regeneração óssea;
+Ao longo de minha trajetória acadêmica, concentrei-me em explorar e aprofundar o conhecimento em áreas-chave da regeneração óssea e análise de dados genômicos. Atualmente, minhas principais linhas de pesquisa podem ser resumidas em cinco vertentes interconectadas:
 
-+ Desenvolvimento de métodos computacionais para análise de biomateriais ósseos;
++ #strong[Aspectos moleculares e epigenéticos da regeneração óssea]
+
+  Investigação dos mecanismos moleculares, epigenéticos e de sinalização celular envolvidos na resposta de células osteogênicas e endoteliais a biomateriais, com ênfase em processos de adesão celular, remodelação da matriz extracelular, osteogênese e angiogênese.
+
++ #strong[Desenvolvimento de métodos computacionais e ferramentas para análise de biomateriais ósseos]
+
+  Desenvolvimento de metodologias computacionais, softwares e pacotes em R voltados à análise integrada de dados transcriptômicos, espectrais e funcionais, visando a comparação, classificação e predição do desempenho biológico de biomateriais ósseos.
+
++ #strong[Análise de dados de sequenciamento de terceira geração e genômica funcional]
+
+  Desenvolvimento e aplicação de pipelines analíticos para dados de sequenciamento de longa leitura, com foco em variantes estruturais, modificações epigenéticas e integração de dados ômicos, aplicados a estudos funcionais, forense, biomédicos e translacionais.
+
++ #strong[Métodos de identificação humana e fenotipagem forense baseados em DNA]
+
+  Desenvolvimento e validação de abordagens computacionais e estatísticas para identificação humana, genotipagem e inferência fenotípica a partir de dados genômicos, incluindo aplicações em genética forense e populacional, com ênfase em dados de sequenciamento de nova e terceira geração.
+
++ #strong[Avaliação da osteoimunidade no desenvolvimento e na regeneração óssea]
+
+  Investigação da interação entre o sistema imune e o tecido ósseo durante processos de desenvolvimento, reparo e regeneração, com foco na resposta inflamatória induzida por biomateriais, no papel de células imunes e mediadores inflamatórios, e na integração entre sinais imunológicos e vias osteogênicas.
 
 == Rede de colaboração
 <rede-de-colaboração>
@@ -519,6 +537,8 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 
 + #underline[#strong[Ferreira MR];];, Carratto TMT, Frontanilla TS, Bonadio RS, Jain M, de Oliveira SF, Castelli EC, Mendes-Junior CT. #emph[Advances in forensic genetics: Exploring the potential of long read sequencing];. Forensic Sci Int Genet. 2025 Jan;74:103156. doi: #link("https://www.doi.org/10.1016/j.fsigen.2024")[10.1016/j.fsigen.2024];.103156. Epub 2024 Oct 10. PMID: 39427416.
 
++ L Urbano Pagan, M Gatto, #underline[#strong[MR Ferreira];];, MJ Gomes, JPG Oliveira, GAF Mota, FC Damatto, LM Souza, ACC Santos, EA Rodrigues, PA Borim, DHS Campos, MP Okoshi, K Okoshi. #emph[Effects of empagliflozin on myocardial transcriptome in rats with aortic stenosis-induced heart failure];. European Heart Volume 45, Issue Supplement\_1, October 2024, ehae666.1829. doi: #link("https://doi.org/10.1093/eurheartj/ehae666.1829")[10.1093/eurheartj/ehae6]
+
 + Castelli EC, Pereira RN, Paes GS, Andrade HS, #underline[#strong[Ferreira MR];];, de Freitas Santos ÍS, Vince N, Pollock NR, Norman PJ, Meyer D. #emph[kir-mapper: A Toolkit for Killer-Cell Immunoglobulin-Like Receptor (KIR) Genotyping From Short-Read Second-Generation Sequencing Data];. HLA. 2025 Mar;105(3):e70092. doi: #link("https://www.doi.org/")[10.1111/tan.70092];. PMID: 40095784; PMCID: PMC11927768.
 
 + Zambuzzi WF, #underline[#strong[Ferreira MR];];. #emph[Dynamic ion-releasing biomaterials actively shape the microenvironment to enhance healing];. J Trace Elem Med Biol. 2025 Jun;89:127657. doi: #link("https://www.doi.org/10.1016/j.jtemb.2025.127657")[10.1016/j.jtemb.2025.127657];. Epub 2025 Apr 17. PMID: 40250222.
@@ -541,6 +561,58 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 
 == Contribuições Científicas
 <contribuições-científicas>
+Uma das vertentes centrais da minha atuação científica tem sido o desenvolvimento de ferramentas computacionais voltadas à análise, integração e interpretação de dados biológicos complexos, com ênfase em transcriptômica, biomateriais e ciência de dados reprodutível. Essas iniciativas surgiram da necessidade de traduzir questões biológicas e experimentais em soluções metodológicas acessíveis, padronizadas e reutilizáveis pela comunidade científica.
+
+Nesse contexto, desenvolvi e registrei o software #strong[OsteoCLUST] – Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos (Processo nº BR512024004865-0), cuja titularidade pertence à Universidade Estadual Paulista "Júlio de Mesquita Filho". O #strong[OsteoCLUST] integra rotinas estatísticas e visualizações interativas para a comparação global de assinaturas moleculares associadas à resposta celular a biomateriais, utilizando dados transcriptômicos. O aplicativo foi implementado utilizando as linguagens R, HTML, JavaScript e CSS, refletindo uma abordagem interdisciplinar entre análise de dados e desenvolvimento de interfaces amigáveis ao usuário.
+
+Anteriormente, participei do desenvolvimento e registro do software #strong[previewDeconv] – um aplicativo para pré-visualização de bandas deconvoluídas (Processo nº BR512023000985-7), também com titularidade da UNESP. Esse aplicativo, implementado em C++, R e HTML, foi concebido para auxiliar na análise e interpretação de dados espectrais, contribuindo para a padronização de etapas analíticas em estudos físico-químicos e de biomateriais.
+
+Além dos softwares registrados, sou autor do pacote #strong[tidyspec] (Ferreira 2025), publicado no repositório oficial do #link("https://cran.r-project.org/")[CRAN];#footnote[O CRAN, ou #emph[Comprehensive R Archive Network];, é um repositório online que armazena pacotes de software para a linguagem de programação R. Ele é mantido por uma comunidade global de desenvolvedores e usuários de R, e permite que os usuários acessem e baixem pacotes de software que expandem as funcionalidades básicas do R. O CRAN é essencial para o ecossistema R, pois facilita a distribuição de pacotes e garante que eles sejam de código aberto, documentados e testados.];, voltado à organização, processamento e análise de dados espectrais no ambiente R, seguindo princípios do ecossistema tidyverse. Esse pacote tem sido utilizado tanto em minhas pesquisas quanto em atividades didáticas, contribuindo para a formação de estudantes em análise de dados reprodutível.
+
+Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos (OsteoCLUST)
+
+Processo Nº: BR512024004865-0
+
+Título: Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos
+
+Data de criação: 31/07/2024
+
+Titular(es): UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO
+
+Autor(es): MARCEL RODRIGUES FERREIRA; WILLIAN FERNANDO ZAMBUZZI; MATHEUS AMARAL SILVA
+
+Linguagem: HTML; JAVA SCRIPT; CSS; R
+
+Campo de aplicação: BL-01; BL-02; SD-09; SD-11
+
+Tipo de programa: AP-01
+
+Algoritmo hash: SHA-512
+
+Resumo digital hash: cd598a23d0c6ff8bdd0135060116bc5066aed84dd6252cb47831bacf4656c3f8a90ae94c7513addd572c91c20aab4140e2 4465caa515da6e966d0baf742002a0
+
+Expedido em: 17/12/2024
+
+Processo Nº: BR512023000985-7 Título: previewDeconv: um aplicativo para pré-visualização de bandas deconvoluídas Data de criação: 13/09/2021
+
+Titular(es): UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO Autor(es): WILLIAN FERANDO ZAMBUZZI; MARCEL RODRIGUES FERREIRA Linguagem: C++; HTML; R
+
+Campo de aplicação: FQ-01; FQ-06; FQ-14; FQ-17
+
+Tipo de programa: AP-01 Algoritmo hash: SHA-512
+
+Resumo digital hash:
+
+58c79b6c8e6d67cfbccb7a4a357c1ae895a9d25b5eb310a512655f1a7fa46257f826b0fe75917085af0e322e31f00e855f8d ef4c642d0c8f260ddd051143ba9b
+
+Expedido em: 18/04/2023 \
+
+Softwares registrados: previewDeconv e OsteoCLUST ;
+
+Pacotes de R publicados no CRAN: tidyspec (Ferreira 2025);
+
+Softwares sem registros publicados em artigos científicos: kir-mapper (Castelli et al. 2025);
+
 #pagebreak()
 = Atividades de Extensão e Serviços à Comunidade
 <atividades-de-extensão-e-serviços-à-comunidade>
@@ -564,6 +636,18 @@ ddd
 = Considerações Finais
 <considerações-finais>
 #pagebreak()
+= Bibliografia
+<bibliografia>
+#block[
+#block[
+Castelli, Erick C., Raphaela Neto Pereira, Gabriela Sato Paes, Heloisa S. Andrade, Marcel Rodrigues Ferreira, Ícaro Scalisse de Freitas Santos, Nicolas Vince, Nicholas R. Pollock, Paul J. Norman, e Diogo Meyer. 2025. “Kir-Mapper: A Toolkit for Killer-Cell Immunoglobulin-Like Receptor (KIR) Genotyping From Short-Read Second-Generation Sequencing Data”. #emph[HLA] 105 (3). #link("https://doi.org/10.1111/tan.70092");.
+
+] <ref-Castelli2025>
+#block[
+Ferreira, Marcel. 2025. “tidyspec: Spectroscopy Analysis Using the Tidy Data Philosophy”. #link("https://CRAN.R-project.org/package=tidyspec");.
+
+] <ref-tidyspec>
+] <refs>
 #block[
 #heading(
 level: 
@@ -577,7 +661,6 @@ Anexos
 ]
 )
 ]
-
 
 
 
