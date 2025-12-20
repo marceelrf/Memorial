@@ -467,8 +467,26 @@ Ao longo de minha trajetória acadêmica, concentrei-me em explorar e aprofundar
 
 == Rede de colaboração
 <rede-de-colaboração>
-=== Professores (IBB)
-<professores-ibb>
+Willian Fernando Zambuzzi (IBB/UNESP);
+
+Erick da Cruz Castelli (FMB/UNESP);
+
+Celso Teixeira Mendes Junior (FFCLRP/USP);
+
+Silviene Fabiana de Oliveira (IB/UnB);
+
+Luis Antonio Justulin Junior (IBB/UNESP);
+
+Rodrigo Augusto Foganholi da Silva (UNIP);
+
+Denise Carletto Andia (UNIP);
+
+Lukasz Witek (NYU);
+
+Flavia Amadeu de Oliveira (Sanford);
+
+Miten Jain (Northeastern University);
+
 == Auxílio de Pesquisa
 <auxílio-de-pesquisa>
 == Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados, e Trabalhos Completos Publicados em Anais de Congressos
