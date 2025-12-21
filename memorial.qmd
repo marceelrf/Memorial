@@ -40,13 +40,13 @@ Minha formação científica foi construída em ambientes interdisciplinares, co
 
 O presente memorial tem como objetivo apresentar uma análise circunstanciada da minha trajetória acadêmica e profissional, no contexto de minha candidatura à carreira docente. Este documento reúne informações que não se encontram integralmente descritas em currículos ou bases públicas, oferecendo uma visão integrada das atividades desenvolvidas, das contribuições científicas realizadas e das perspectivas futuras de atuação acadêmica.
 
-As informações pessoais relevantes estão resumidas na [Seção 2](#sec-2). As Seções 3 e 4 apresentam, respectivamente, minha formação acadêmica e científica e minha atuação profissional. As seções subsequentes estão organizadas da seguinte forma: (i) Atividades Didáticas e Formação de Recursos Humanos (Seção 5); (ii) Atividades de Pesquisa (Seção 6); (iii) Atividades de Extensão e Serviços à Comunidade (Seção 7); e (iv) Atividades Administrativas (Seção 8). Na Seção 9 é apresentada a nomenclatura adotada para os anexos. Por fim, na Seção 10, apresento considerações finais, sintetizando minha trajetória e as perspectivas de desenvolvimento acadêmico.
+As informações pessoais relevantes estão resumidas na Seção [2](#sec-2). As Seções [3](#sec-3) e [4](#sec-4) apresentam, respectivamente, minha formação acadêmica e científica e minha atuação profissional. As seções subsequentes estão organizadas da seguinte forma: (i) Atividades Didáticas e Formação de Recursos Humanos (Seção [5](#sec-5)); (ii) Atividades de Pesquisa (Seção [6](#sec-6)); (iii) Atividades de Extensão e Serviços à Comunidade (Seção [7](#sec-7)); e (iv) Atividades Administrativas (Seção [8](#sec-8)). Na Seção [9](#sec-9) é apresentada a nomenclatura adotada para os anexos. Por fim, na Seção [10](#sec-10), apresento considerações finais, sintetizando minha trajetória e as perspectivas de desenvolvimento acadêmico.
 
 ### Missão
 
 > *Ser um laboratório que proporciona um ambiente estimulante, visando maximizar o potencial dos alunos tanto como cientistas quanto como indivíduos.*[^1]
 
-[^1]: *Esta frase foi retirada de um artigo do professor Uri Alon. Poucas vezes em minha vida puder ler meus valores em uma frase de outra pessoa como esta vez.*
+[^1]: *Esta frase foi retirada de um artigo do professor Uri Alon [@alon2009]. Poucas vezes em minha vida puder ler meus valores em uma frase de outra pessoa como esta vez.*
 
 ### Visão
 
@@ -120,7 +120,7 @@ Gostaria de expressar minha sincera gratidão ao Prof. Dr. Juarez Lopes Ferreira
 ```{=typst}
 #pagebreak()
 ```
-## Formação Acadêmica e Científica
+## Formação Acadêmica e Científica {#sec-3}
 
 ### Ensino Fundamental e Médio: 1998-2008
 
@@ -152,28 +152,54 @@ Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um 
 
 -   **Iniciação científica**: Engajei-me em projetos de pesquisa, fundamentais para o desenvolvimento de meu pensamento crítico e habilidades científicas.
 
+-   **Recepção universitária**: Nos anos de 2012 e 2013 participei da organização da recepção do calouros do Instituto de Biociências de Botucatu.
+
 [^3]: O cursinho Eukaípia, do qual fui participante, foi renomeado em 2014 para Cursinho do IB e, posteriormente, em 2017, para [Cursinho Athena](https://www.ibb.unesp.br/#!/extensao/cursinhos-athena/) --- denominação que tive a honra de sugerir. Durante as etapas de meu mestrado e doutorado, não apenas continuei como professor, mas também assumi a função de coordenador de disciplina nesses projetos, contribuindo para a sua evolução e impacto na comunidade.
+
+Tive a oportunidade de cursar diversas disciplinas durante os 4 anos de curso de Física Médica, abrangendo várias áreas do conhecimento, incluindo Humanas, Biológicas e, claro, Exatas. Essa diversidade de temas enriqueceu minha formação e proporcionou uma visão mais holística e integrada das ciências. Essa abordagem multidisciplinar foi essencial para minha formação, com destaque para as disciplinas de Linguagem de Programação, Bioquímica Básica, Biofísica Molecular e Física Computacional, que foram fundamentais para minha trajetória acadêmica e profissional.
+No terceiro ano, iniciei minha jornada científica sob a orientação do [Prof. Dr. Mario de Oliveira Neto](http://lattes.cnpq.br/8213371495151651), do Departamento de Física e Biofísica (atualmente Biofísica e Farmacologia), com uma bolsa PIBIC/PROPe[^4] via CNPq. Nesse período, mergulhei no estudo da estrutura de proteínas, utilizando dados de espalhamento de raios X a baixo ângulo (SAXS) e tive meu primeiro contato com bases de dados biológicas. Embora o projeto original, focado em proteínas relacionadas ao câncer bucal, não tenha avançado, desenvolvi outro sobre proteínas envolvidas na produção de etanol de segunda geração, que, embora não alinhasse diretamente com meu desejo de atuar no setor da saúde, proporcionou valiosos aprendizados. Durante quase dois anos, refinei minhas habilidades na extração de informações de bases de dados públicas, culminando na apresentação do trabalho no congresso de iniciação científica da UNESP, no qual fui classificado para a fase final do evento. Esse período resultou na participação em dois artigos científicos, publicados em 2015 [@Alvarez2015] e em 2022 [@Franco2022]. As principais informações estão resumidas a seguir:
+
+[^4]: PIBIC: Programa Institucional de Bolsas de Iniciação Científica. PROPe: Pró-Reitoria de Pesquisa.
+
+**Curso:** Bacharelado em Física Médica.
+
+**Instituição:** Instituto de Biociências de Botucatu, da Universidade Estadual Paulista "Júlio de Mesquita Filho".
+
+**Local:** Campus Rubião Junior, Botucatu, São Paulo, Brasil.
+
+**Monografia:** Espalhamento de raios-X a baixo ângulo aplicado a caracterização de enzimas celulolíticas com potencial na transformação enzimática da biomassa.
+
+**Orientador**: Prof. Dr. José Mario de Oliveira Neto.
+
+**Iniciação Científica**: 12 meses com bolsa fornecida pelo CNPq,Universidade Estadual Paulista "Júlio de Mesquita Filho".
 
 ### Mestrado: 2015--2017
 
+No último ano de graduação tive a oportunidade de assistir uma palestra do [Prof. Dr. Willian Fernando Zambuzzi](http://lattes.cnpq.br/9087428606376572) sobre a utilização de mecanismos de transdução de sinais intracelulares com fator para a predição para o desenvolvimento de biomateriais. Fiquei impactado com essa perspectiva e quando ao final de sua apresentação ele declarou que procurava alunos de pósgraduação para orientar no [PPG de Biotecnologia](https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/biotecnologia/) que teria suas primeiras turmas de mestrado e doutorado não hesitei em enviar um e-mail sobre a possibilidade de fazer mestrado sob sua orientação. Fiz parte da primeira geração de pós-graduandos no recém fundado Laboratório de Bioensaios e Dinâmica celular no departamento de Química e Bioquímica, e pude acompanhar, e trabalhar para a consolidação dela como um grupo de excelência em pesquisa. Meu projeto de mestrado visava utilizar mecanismos de transdução de sinais de células cultivadas diretamente sobre superfícies de biomateriais. Para isso, utilizamos o método de avaliação do quinoma por meio de microarranjo de peptídeos (PamChip®). Tive o privilégio de ter meu projeto financiado pela FAPESP (2015/03639-8) e vivi um período de muito aprendizado durante sua execução.
+\
+
 ### Doutorado: 2017-2023
+
+Ao final do mestrado, eu percebia que, por mais que as premissas de nosso trabalho fossem importantes, havia claras limitações nas metodologias propostas. A primeira foi o uso de uma tecnologia fechada, como a PamChip®, exclusiva da empresa PamGene. Este fato, somado a empresa não ter atuação no Brasil, diminuía o potencial de escalabilidade da tecnologia por nós proposta.
+
+Embora a avaliação da atividade de quinases possua um elevado valor no entendimento do fluxo de informação biológica, hoje tenho o entendimento que o uso de métodos baseados em transcriptoma, são uma solução melhor para nossa proposta uma vez que são métodos amplamente difundidos na comunidade científica. A segunda limitação se dava na falta de conhecimento em métodos de análise físico-química das superfícies dos biomateriais. Esta segunda limitação me fez propor um projeto de doutorado que envolvesse mais métodos de síntese e caracterização de biomateriais, no caso fosfatos de cálcio. Meu orientador concordou e sugeriu que buscássemos trabalhar com a modificação destas superfícies com fatores de crescimento através do uso de plasma-rico em plaquetas (PRP).
 
 ```{=typst}
 #pagebreak()
 ```
-## Atuação Profissional
+## Atuação Profissional {#sec-4}
 
 ### Pós-doutorados: 2023-Presente
 
 ```{=typst}
 #pagebreak()
 ```
-## Atividades Didáticas e Formação de Recursos Humanos
+## Atividades Didáticas e Formação de Recursos Humanos {#sec-5}
 
 ```{=typst}
 #pagebreak()
 ```
-## Atividades de Pesquisa
+## Atividades de Pesquisa {#sec-6}
 
 ### Linhas de Pesquisa
 
@@ -239,7 +265,7 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 
 6.  da Silva Feltran G, da Costa Fernandes CJ, [**Rodrigues Ferreira M**]{.underline}, Kang HR, de Carvalho Bovolato AL, de Assis Golim M, Deffune E, Koh IHJ, Constantino VRL, Zambuzzi WF. *Sonic hedgehog drives layered double hydroxides-induced acute inflammatory landscape*. Colloids Surf B Biointerfaces. 2019 Feb 1;174:467-475. doi: [10.1016/j.colsurfb.2018.11.051](https://www.doi.org/10.1016/j.colsurfb.2018.11.051). Epub 2018 Nov 22. PMID: 30497008.
 
-7.  Machado MIP, Gomes AM, [Rodrigues MF]{.underline}[^4] , Silva Pinto T, da Costa Fernandes CJ, Bezerra FJ, Zambuzzi WF. *Cobalt-chromium-enriched medium ameliorates shear-stressed endothelial cell performance*. J Trace Elem Med Biol. 2019 Jul;54:163-171. doi: [10.1016/j.jtemb.2019.04.012](https://www.doi.org/10.1016/j.jtemb.2019.04.012). Epub 2019 Apr 24. PMID: 31109607.
+7.  Machado MIP, Gomes AM, [Rodrigues MF]{.underline}[^5] , Silva Pinto T, da Costa Fernandes CJ, Bezerra FJ, Zambuzzi WF. *Cobalt-chromium-enriched medium ameliorates shear-stressed endothelial cell performance*. J Trace Elem Med Biol. 2019 Jul;54:163-171. doi: [10.1016/j.jtemb.2019.04.012](https://www.doi.org/10.1016/j.jtemb.2019.04.012). Epub 2019 Apr 24. PMID: 31109607.
 
 8.  da S Feltran G, Bezerra F, da Costa Fernandes CJ, [**Ferreira MR**]{.underline}, Zambuzzi WF. *Differential inflammatory landscape stimulus during titanium surfaces obtained osteogenic phenotype*. J Biomed Mater Res A. 2019 Aug;107(8):1597-1604. doi: [10.1002/jbm.a.36673](https://www.doi.org/10.1002/jbm.a.36673). Epub 2019 Apr 9. PMID: 30884166.
 
@@ -299,7 +325,7 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 
 36. [**Ferreira MR**]{.underline}, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. *Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis*. Cell Biol Int. 2026 Jan;50(1):e70101. doi: [10.1002/cbin.70101](https://www.doi.org/10.1002/cbin.70101). Epub 2025 Nov 13. PMID: 41230788.
 
-[^4]: Houve um erro na submissão, resultando na inversão dos sobrenomes. Portanto, o nome correto é Marcel Rodrigues Ferreira. Caso queira confirmar a veracidade desse artigo, o professor Dr. Willian Zambuzzi ([w.zambuzzi\@unesp.br](mailto:w.zambuzzi@unesp.br)) pode ser consultado.
+[^5]: Houve um erro na submissão, resultando na inversão dos sobrenomes. Portanto, o nome correto é Marcel Rodrigues Ferreira. Caso queira confirmar a veracidade desse artigo, o professor Dr. Willian Zambuzzi ([w.zambuzzi\@unesp.br](mailto:w.zambuzzi@unesp.br)) pode ser consultado.
 
 ### Análise Estatística das Publicações
 
@@ -321,9 +347,9 @@ Nesse contexto, desenvolvi e registrei o software **OsteoCLUST** -- Aplicativo p
 
 Anteriormente, participei do desenvolvimento e registro do software **previewDeconv** -- um aplicativo para pré-visualização de bandas deconvoluídas (Processo nº BR512023000985-7), também com titularidade da UNESP. Esse aplicativo, implementado em C++, R e HTML, foi concebido para auxiliar na análise e interpretação de dados espectrais, contribuindo para a padronização de etapas analíticas em estudos físico-químicos e de biomateriais.
 
-Além dos softwares registrados, sou autor do pacote **tidyspec** [@tidyspec], publicado no repositório oficial do [CRAN](https://cran.r-project.org/)[^5], voltado à organização, processamento e análise de dados espectrais no ambiente R, seguindo princípios do ecossistema tidyverse. Esse pacote tem sido utilizado tanto em minhas pesquisas quanto em atividades didáticas, contribuindo para a formação de estudantes em análise de dados reprodutível.
+Além dos softwares registrados, sou autor do pacote **tidyspec** [@tidyspec], publicado no repositório oficial do [CRAN](https://cran.r-project.org/)[^6], voltado à organização, processamento e análise de dados espectrais no ambiente R, seguindo princípios do ecossistema tidyverse. Esse pacote tem sido utilizado tanto em minhas pesquisas quanto em atividades didáticas, contribuindo para a formação de estudantes em análise de dados reprodutível.
 
-[^5]: O CRAN, ou *Comprehensive R Archive Network*, é um repositório online que armazena pacotes de software para a linguagem de programação R. Ele é mantido por uma comunidade global de desenvolvedores e usuários de R, e permite que os usuários acessem e baixem pacotes de software que expandem as funcionalidades básicas do R. O CRAN é essencial para o ecossistema R, pois facilita a distribuição de pacotes e garante que eles sejam de código aberto, documentados e testados.
+[^6]: O CRAN, ou *Comprehensive R Archive Network*, é um repositório online que armazena pacotes de software para a linguagem de programação R. Ele é mantido por uma comunidade global de desenvolvedores e usuários de R, e permite que os usuários acessem e baixem pacotes de software que expandem as funcionalidades básicas do R. O CRAN é essencial para o ecossistema R, pois facilita a distribuição de pacotes e garante que eles sejam de código aberto, documentados e testados.
 
 Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos (OsteoCLUST)
 
@@ -349,8 +375,7 @@ Resumo digital hash: cd598a23d0c6ff8bdd0135060116bc5066aed84dd6252cb47831bacf465
 
 Expedido em: 17/12/2024
 
-Processo Nº: BR512023000985-7
-Título: previewDeconv: um aplicativo para pré-visualização de bandas deconvoluídas Data de criação: 13/09/2021
+Processo Nº: BR512023000985-7 Título: previewDeconv: um aplicativo para pré-visualização de bandas deconvoluídas Data de criação: 13/09/2021
 
 Titular(es): UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO Autor(es): WILLIAN FERANDO ZAMBUZZI; MARCEL RODRIGUES FERREIRA Linguagem: C++; HTML; R
 
@@ -362,7 +387,7 @@ Resumo digital hash:
 
 58c79b6c8e6d67cfbccb7a4a357c1ae895a9d25b5eb310a512655f1a7fa46257f826b0fe75917085af0e322e31f00e855f8d ef4c642d0c8f260ddd051143ba9b
 
-Expedido em: 18/04/2023 \
+Expedido em: 18/04/2023\
 
 Softwares registrados: previewDeconv e OsteoCLUST ;
 
@@ -373,7 +398,7 @@ Softwares sem registros publicados em artigos científicos: kir-mapper [@Castell
 ```{=typst}
 #pagebreak()
 ```
-## Atividades de Extensão e Serviços à Comunidade
+## Atividades de Extensão e Serviços à Comunidade {#sec-7}
 
 ### Participação em Bancas Examinadoras e Julgadoras
 
@@ -387,14 +412,14 @@ ddd
 
 ### Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais
 
-## Atividades Administrativas
+## Atividades Administrativas {#sec-8}
 
 ```{=typst}
 #pagebreak()
 ```
-## Nomenclatura para Lista de Anexos
+## Nomenclatura para Lista de Anexos {#sec-9}
 
-## Considerações Finais
+## Considerações Finais {#sec-10}
 
 ```{=typst}
 #pagebreak()

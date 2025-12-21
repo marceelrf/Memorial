@@ -298,7 +298,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2025-12-20],
+  date: [2025-12-21],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -320,12 +320,12 @@ Minha formação científica foi construída em ambientes interdisciplinares, co
 
 O presente memorial tem como objetivo apresentar uma análise circunstanciada da minha trajetória acadêmica e profissional, no contexto de minha candidatura à carreira docente. Este documento reúne informações que não se encontram integralmente descritas em currículos ou bases públicas, oferecendo uma visão integrada das atividades desenvolvidas, das contribuições científicas realizadas e das perspectivas futuras de atuação acadêmica.
 
-As informações pessoais relevantes estão resumidas na #link(<sec-2>)[Seção 2];. As Seções 3 e 4 apresentam, respectivamente, minha formação acadêmica e científica e minha atuação profissional. As seções subsequentes estão organizadas da seguinte forma: (i) Atividades Didáticas e Formação de Recursos Humanos (Seção 5); (ii) Atividades de Pesquisa (Seção 6); (iii) Atividades de Extensão e Serviços à Comunidade (Seção 7); e (iv) Atividades Administrativas (Seção 8). Na Seção 9 é apresentada a nomenclatura adotada para os anexos. Por fim, na Seção 10, apresento considerações finais, sintetizando minha trajetória e as perspectivas de desenvolvimento acadêmico.
+As informações pessoais relevantes estão resumidas na Seção #link(<sec-2>)[2];. As Seções #link(<sec-3>)[3] e #link(<sec-4>)[4] apresentam, respectivamente, minha formação acadêmica e científica e minha atuação profissional. As seções subsequentes estão organizadas da seguinte forma: (i) Atividades Didáticas e Formação de Recursos Humanos (Seção #link(<sec-5>)[5];); (ii) Atividades de Pesquisa (Seção #link(<sec-6>)[6];); (iii) Atividades de Extensão e Serviços à Comunidade (Seção #link(<sec-7>)[7];); e (iv) Atividades Administrativas (Seção #link(<sec-8>)[8];). Na Seção #link(<sec-9>)[9] é apresentada a nomenclatura adotada para os anexos. Por fim, na Seção #link(<sec-10>)[10];, apresento considerações finais, sintetizando minha trajetória e as perspectivas de desenvolvimento acadêmico.
 
 == Missão
 <missão>
 #quote(block: true)[
-#emph[Ser um laboratório que proporciona um ambiente estimulante, visando maximizar o potencial dos alunos tanto como cientistas quanto como indivíduos.];#footnote[#emph[Esta frase foi retirada de um artigo do professor Uri Alon. Poucas vezes em minha vida puder ler meus valores em uma frase de outra pessoa como esta vez.];]
+#emph[Ser um laboratório que proporciona um ambiente estimulante, visando maximizar o potencial dos alunos tanto como cientistas quanto como indivíduos.];#footnote[#emph[Esta frase foi retirada de um artigo do professor Uri Alon (Alon 2009). Poucas vezes em minha vida puder ler meus valores em uma frase de outra pessoa como esta vez.];]
 ]
 
 == Visão
@@ -395,7 +395,7 @@ Gostaria de expressar minha sincera gratidão ao Prof.~Dr.~Juarez Lopes Ferreira
 
 #pagebreak()
 = Formação Acadêmica e Científica
-<formação-acadêmica-e-científica>
+<sec-3>
 == Ensino Fundamental e Médio: 1998-2008
 <ensino-fundamental-e-médio-1998-2008>
 Minha trajetória educacional começou na cidade de Itapetininga, interior de São Paulo, onde tive a sorte de ser cercado por um ambiente familiar que valorizava a educação e o desenvolvimento integral desde cedo. Meus pais, pertencentes à classe média baixa, fizeram um esforço considerável para me matricular em instituições de ensino que pudessem proporcionar uma formação de qualidade, entendendo que a educação seria a base para minhas futuras conquistas.
@@ -426,21 +426,43 @@ Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um 
 
 - #strong[Iniciação científica];: Engajei-me em projetos de pesquisa, fundamentais para o desenvolvimento de meu pensamento crítico e habilidades científicas.
 
+- #strong[Recepção universitária];: Nos anos de 2012 e 2013 participei da organização da recepção do calouros do Instituto de Biociências de Botucatu.
+
+Tive a oportunidade de cursar diversas disciplinas durante os 4 anos de curso de Física Médica, abrangendo várias áreas do conhecimento, incluindo Humanas, Biológicas e, claro, Exatas. Essa diversidade de temas enriqueceu minha formação e proporcionou uma visão mais holística e integrada das ciências. Essa abordagem multidisciplinar foi essencial para minha formação, com destaque para as disciplinas de Linguagem de Programação, Bioquímica Básica, Biofísica Molecular e Física Computacional, que foram fundamentais para minha trajetória acadêmica e profissional. No terceiro ano, iniciei minha jornada científica sob a orientação do #link("http://lattes.cnpq.br/8213371495151651")[Prof.~Dr.~Mario de Oliveira Neto];, do Departamento de Física e Biofísica (atualmente Biofísica e Farmacologia), com uma bolsa PIBIC/PROPe#footnote[PIBIC: Programa Institucional de Bolsas de Iniciação Científica. PROPe: Pró-Reitoria de Pesquisa.] via CNPq. Nesse período, mergulhei no estudo da estrutura de proteínas, utilizando dados de espalhamento de raios X a baixo ângulo (SAXS) e tive meu primeiro contato com bases de dados biológicas. Embora o projeto original, focado em proteínas relacionadas ao câncer bucal, não tenha avançado, desenvolvi outro sobre proteínas envolvidas na produção de etanol de segunda geração, que, embora não alinhasse diretamente com meu desejo de atuar no setor da saúde, proporcionou valiosos aprendizados. Durante quase dois anos, refinei minhas habilidades na extração de informações de bases de dados públicas, culminando na apresentação do trabalho no congresso de iniciação científica da UNESP, no qual fui classificado para a fase final do evento. Esse período resultou na participação em dois artigos científicos, publicados em 2015 (Alvarez et al. 2015) e em 2022 (Franco Cairo et al. 2022). As principais informações estão resumidas a seguir:
+
+#strong[Curso:] Bacharelado em Física Médica.
+
+#strong[Instituição:] Instituto de Biociências de Botucatu, da Universidade Estadual Paulista "Júlio de Mesquita Filho".
+
+#strong[Local:] Campus Rubião Junior, Botucatu, São Paulo, Brasil.
+
+#strong[Monografia:] Espalhamento de raios-X a baixo ângulo aplicado a caracterização de enzimas celulolíticas com potencial na transformação enzimática da biomassa.
+
+#strong[Orientador];: Prof.~Dr.~José Mario de Oliveira Neto.
+
+#strong[Iniciação Científica];: 12 meses com bolsa fornecida pelo CNPq,Universidade Estadual Paulista "Júlio de Mesquita Filho".
+
 == Mestrado: 2015–2017
 <mestrado-20152017>
+No último ano de graduação tive a oportunidade de assistir uma palestra do #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi] sobre a utilização de mecanismos de transdução de sinais intracelulares com fator para a predição para o desenvolvimento de biomateriais. Fiquei impactado com essa perspectiva e quando ao final de sua apresentação ele declarou que procurava alunos de pósgraduação para orientar no #link("https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/biotecnologia/")[PPG de Biotecnologia] que teria suas primeiras turmas de mestrado e doutorado não hesitei em enviar um e-mail sobre a possibilidade de fazer mestrado sob sua orientação. Fiz parte da primeira geração de pós-graduandos no recém fundado Laboratório de Bioensaios e Dinâmica celular no departamento de Química e Bioquímica, e pude acompanhar, e trabalhar para a consolidação dela como um grupo de excelência em pesquisa. Meu projeto de mestrado visava utilizar mecanismos de transdução de sinais de células cultivadas diretamente sobre superfícies de biomateriais. Para isso, utilizamos o método de avaliação do quinoma por meio de microarranjo de peptídeos (PamChip®). Tive o privilégio de ter meu projeto financiado pela FAPESP (2015/03639-8) e vivi um período de muito aprendizado durante sua execução. \
+
 == Doutorado: 2017-2023
 <doutorado-2017-2023>
+Ao final do mestrado eu percebia que por mais que as premissas de nosso trabalho fossem importantes havia claras limitações nas metodologias propostas. A primeira foi o uso de uma tecnologia fechada como PamChip®, que é exclusiva da empresa PamGene. Este fato, somado a empresanão ter atuação no Brasil, diminuía o potencial de escalabilidade da tecnologia por nós proposta.
+
+Embora a avaliação da atividade de quinases possua um elevado valor no entendimento do fluxo de informação biológica, hoje tenho o entendimento que o uso de métodos baseados em transcriptoma, são uma solução melhor para nossa proposta uma vez que são métodos amplamente difundidos na comunidade científica. A segunda limitação se dava na falta de conhecimento em métodos de análise físico-químicas das superfícies dos biomateriais. Esta segunda limitação me fez propor um projeto de doutorado que envolvesse mais métodos de síntese e caracterização de biomateriais, no caso fosfatos de cálcio. Meu orientador concordou e sugeriu que buscássemos trabalhar com a modificação destas superfícies com fatores de crescimento através do uso de plasma-rico em plaquetas.
+
 #pagebreak()
 = Atuação Profissional
-<atuação-profissional>
+<sec-4>
 == Pós-doutorados: 2023-Presente
 <pós-doutorados-2023-presente>
 #pagebreak()
 = Atividades Didáticas e Formação de Recursos Humanos
-<atividades-didáticas-e-formação-de-recursos-humanos>
+<sec-5>
 #pagebreak()
 = Atividades de Pesquisa
-<atividades-de-pesquisa>
+<sec-6>
 == Linhas de Pesquisa
 <linhas-de-pesquisa>
 Ao longo de minha trajetória acadêmica, concentrei-me em explorar e aprofundar o conhecimento em áreas-chave da regeneração óssea e análise de dados genômicos. Atualmente, minhas principais linhas de pesquisa podem ser resumidas em cinco vertentes interconectadas:
@@ -633,7 +655,7 @@ Softwares sem registros publicados em artigos científicos: kir-mapper (Castelli
 
 #pagebreak()
 = Atividades de Extensão e Serviços à Comunidade
-<atividades-de-extensão-e-serviços-à-comunidade>
+<sec-7>
 == Participação em Bancas Examinadoras e Julgadoras
 <participação-em-bancas-examinadoras-e-julgadoras>
 ddd
@@ -647,16 +669,24 @@ ddd
 == Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais
 <assessor-ad-hoc-agências-de-fomento-instituições-acadêmicas-e-avaliação-de-artigos-para-periódicos-nacionais-e-internacionais>
 = Atividades Administrativas
-<atividades-administrativas>
+<sec-8>
 #pagebreak()
 = Nomenclatura para Lista de Anexos
-<nomenclatura-para-lista-de-anexos>
+<sec-9>
 = Considerações Finais
-<considerações-finais>
+<sec-10>
 #pagebreak()
 = Bibliografia
 <bibliografia>
 #block[
+#block[
+Alon, Uri. 2009. “How To Choose a Good Scientific Problem”. #emph[Molecular Cell] 35 (6): 726–28. #link("https://doi.org/10.1016/j.molcel.2009.09.013");.
+
+] <ref-alon2009>
+#block[
+Alvarez, Thabata Maria, Marcelo Vizoná Liberato, João Paulo L. Franco Cairo, Douglas A. A. Paixão, Bruna M. Campos, Marcel R. Ferreira, Rodrigo F. Almeida, et al. 2015. “A Novel Member of GH16 Family Derived from Sugarcane Soil Metagenome”. #emph[Applied Biochemistry and Biotechnology] 177 (2): 304–17. #link("https://doi.org/10.1007/s12010-015-1743-7");.
+
+] <ref-Alvarez2015>
 #block[
 Castelli, Erick C., Raphaela Neto Pereira, Gabriela Sato Paes, Heloisa S. Andrade, Marcel Rodrigues Ferreira, Ícaro Scalisse de Freitas Santos, Nicolas Vince, Nicholas R. Pollock, Paul J. Norman, e Diogo Meyer. 2025. “Kir-Mapper: A Toolkit for Killer-Cell Immunoglobulin-Like Receptor (KIR) Genotyping From Short-Read Second-Generation Sequencing Data”. #emph[HLA] 105 (3). #link("https://doi.org/10.1111/tan.70092");.
 
@@ -665,6 +695,10 @@ Castelli, Erick C., Raphaela Neto Pereira, Gabriela Sato Paes, Heloisa S. Andrad
 Ferreira, Marcel. 2025. “tidyspec: Spectroscopy Analysis Using the Tidy Data Philosophy”. #link("https://CRAN.R-project.org/package=tidyspec");.
 
 ] <ref-tidyspec>
+#block[
+Franco Cairo, João Paulo L., Fernanda Mandelli, Robson Tramontina, David Cannella, Alessandro Paradisi, Luisa Ciano, Marcel R. Ferreira, et al. 2022. “Oxidative Cleavage of Polysaccharides by a Termite-Derived #emph[Superoxide Dismutase] Boosts the Degradation of Biomass by Glycoside Hydrolases”. #emph[Green Chemistry] 24 (12): 4845–58. #link("https://doi.org/10.1039/d1gc04519a");.
+
+] <ref-Franco2022>
 ] <refs>
 #block[
 #heading(
