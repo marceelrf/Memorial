@@ -160,6 +160,9 @@ Tive a oportunidade de cursar diversas disciplinas durante os 4 anos de curso de
 
 [^4]: PIBIC: Programa Institucional de Bolsas de Iniciação Científica. PROPe: Pró-Reitoria de Pesquisa.
 
+```{=typst}
+#line(length: 50%, stroke: white)
+```
 **Curso:** Bacharelado em Física Médica.
 
 **Instituição:** Instituto de Biociências de Botucatu, da Universidade Estadual Paulista "Júlio de Mesquita Filho".
@@ -174,7 +177,26 @@ Tive a oportunidade de cursar diversas disciplinas durante os 4 anos de curso de
 
 ### Mestrado: 2015--2017
 
-No último ano de graduação tive a oportunidade de assistir uma palestra do [Prof. Dr. Willian Fernando Zambuzzi](http://lattes.cnpq.br/9087428606376572) sobre a utilização de mecanismos de transdução de sinais intracelulares com fator para a predição para o desenvolvimento de biomateriais. Fiquei impactado com essa perspectiva e quando ao final de sua apresentação ele declarou que procurava alunos de pósgraduação para orientar no [PPG de Biotecnologia](https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/biotecnologia/) que teria suas primeiras turmas de mestrado e doutorado não hesitei em enviar um e-mail sobre a possibilidade de fazer mestrado sob sua orientação. Fiz parte da primeira geração de pós-graduandos no recém fundado Laboratório de Bioensaios e Dinâmica celular no departamento de Química e Bioquímica, e pude acompanhar, e trabalhar para a consolidação dela como um grupo de excelência em pesquisa. Meu projeto de mestrado visava utilizar mecanismos de transdução de sinais de células cultivadas diretamente sobre superfícies de biomateriais. Para isso, utilizamos o método de avaliação do quinoma por meio de microarranjo de peptídeos (PamChip®). Tive o privilégio de ter meu projeto financiado pela FAPESP (2015/03639-8) e vivi um período de muito aprendizado durante sua execução.\
+No último ano de graduação tive a oportunidade de assistir uma palestra do [Prof. Dr. Willian Fernando Zambuzzi](http://lattes.cnpq.br/9087428606376572) sobre a utilização de mecanismos de transdução de sinais intracelulares com fator para a predição para o desenvolvimento de biomateriais. Fiquei impactado com essa perspectiva e quando ao final de sua apresentação ele declarou que procurava alunos de pósgraduação para orientar no [PPG de Biotecnologia](https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/biotecnologia/) que teria suas primeiras turmas de mestrado e doutorado não hesitei em enviar um e-mail sobre a possibilidade de fazer mestrado sob sua orientação. Fiz parte da primeira geração de pós-graduandos no recém fundado Laboratório de Bioensaios e Dinâmica celular no departamento de Química e Bioquímica, e pude acompanhar, e trabalhar para a consolidação dela como um grupo de excelência em pesquisa. Meu projeto de mestrado visava utilizar mecanismos de transdução de sinais de células cultivadas diretamente sobre superfícies de biomateriais. Para isso, utilizamos o método de avaliação do quinoma por meio de microarranjo de peptídeos (PamChip®). Tive o privilégio de ter meu projeto financiado pela FAPESP (2015/03639-8) e vivi um período de muito aprendizado durante sua execução.
+
+```{=typst}
+#line(length: 50%, stroke: white)
+```
+**Instituição:** Universidade Estadual Paulista, Insituto de Biociências de Botucatu.
+
+**Local:** Botucatu, São Paulo, Brasil.
+
+**Título**: Mestre em Biotecnologia.
+
+**Área:** Biotecnologia.
+
+**Dissertação:** OsteoBLAST: Rotina computacional de análise molecular global aliada à biologia sistêmica e aplicada à produção de biomateriais.
+
+**Orientador:** [Prof. Dr. Willian Fernando Zambuzzi](http://lattes.cnpq.br/9087428606376572)
+
+**Data de defesa:** 24/02/2017
+
+**Bolsa:** FAPESP (2015/03639-8)
 
 ### Doutorado: 2017-2023
 
@@ -182,6 +204,27 @@ Ao final do mestrado, eu percebia que, por mais que as premissas de nosso trabal
 
 Embora a avaliação da atividade de quinases possua um elevado valor no entendimento do fluxo de informação biológica, hoje tenho o entendimento que o uso de métodos baseados em transcriptoma, são uma solução melhor para nossa proposta uma vez que são métodos amplamente difundidos na comunidade científica. A segunda limitação se dava na falta de conhecimento em métodos de análise físico-química das superfícies dos biomateriais. Esta segunda limitação me fez propor um projeto de doutorado que envolvesse mais métodos de síntese e caracterização de biomateriais, no caso fosfatos de cálcio. Meu orientador concordou e sugeriu que buscássemos trabalhar com a modificação destas superfícies com fatores de crescimento através do uso de plasma-rico em plaquetas (PRP).
 
+```{=typst}
+#line(length: 50%, stroke: white)
+```
+
+**Instituição:** Universidade Estadual Paulista, Insituto de Biociências de Botucatu.
+
+**Local:** Botucatu, São Paulo, Brasil.
+
+**Título**: Doutor em Biotecnologia.
+
+**Área:** Biotecnologia.
+
+**Dissertação:** Plasma-rico em plaquetas liofilizado associado à nanohidroxiapatita na performance celular e regeneração óssea.
+
+**Orientador:** [Prof. Dr. Willian Fernando Zambuzzi](http://lattes.cnpq.br/9087428606376572)
+
+**Data de defesa:** 20/01/2023
+
+**Bolsa:** FAPESP (2018/05731-7)
+
+**Internacionalização:** Universidade de Nova Iorque (NYU), supervisão do Prof. Dr. Lukasz Witek. BEPE: "Plasma rico em plaquetas e fabricação de aditivos como uma alternativa promissora para ajudar a desenvolver ossos verdadeiro". Bolsa:  FAPESP(2021/14271-2).
 ```{=typst}
 #pagebreak()
 ```
@@ -349,10 +392,9 @@ Além dos softwares registrados, sou autor do pacote **tidyspec** [@tidyspec], p
 
 [^6]: O CRAN, ou *Comprehensive R Archive Network*, é um repositório online que armazena pacotes de software para a linguagem de programação R. Ele é mantido por uma comunidade global de desenvolvedores e usuários de R, e permite que os usuários acessem e baixem pacotes de software que expandem as funcionalidades básicas do R. O CRAN é essencial para o ecossistema R, pois facilita a distribuição de pacotes e garante que eles sejam de código aberto, documentados e testados.
 
-``` {=typst}
+```{=typst}
 #line(length: 50%, stroke: white)
 ```
-
 #### Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos (OsteoCLUST) {.unnumbered}
 
 **Processo Nº:** BR512024004865-0
@@ -377,10 +419,9 @@ Além dos softwares registrados, sou autor do pacote **tidyspec** [@tidyspec], p
 
 **Expedido em:** 17/12/2024
 
-``` {=typst}
+```{=typst}
 #line(length: 50%)
 ```
-
 #### previewDeconv: um aplicativo para pré-visualização de bandas deconvoluídas Data de criação {.unnumbered}
 
 **Processo Nº:** BR512023000985-7
@@ -407,10 +448,9 @@ Além dos softwares registrados, sou autor do pacote **tidyspec** [@tidyspec], p
 
 **Expedido em:** 18/04/2023
 
-``` {=typst}
+```{=typst}
 #line(length: 50%)
 ```
-
 #### Resumo: {.unnumbered}
 
 -   Softwares registrados: *previewDeconv* e *OsteoCLUST* ;

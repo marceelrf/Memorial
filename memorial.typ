@@ -430,6 +430,7 @@ Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um 
 
 Tive a oportunidade de cursar diversas disciplinas durante os 4 anos de curso de Física Médica, abrangendo várias áreas do conhecimento, incluindo Humanas, Biológicas e, claro, Exatas. Essa diversidade de temas enriqueceu minha formação e proporcionou uma visão mais holística e integrada das ciências. Essa abordagem multidisciplinar foi essencial para minha formação, com destaque para as disciplinas de Linguagem de Programação, Bioquímica Básica, Biofísica Molecular e Física Computacional, que foram fundamentais para minha trajetória acadêmica e profissional. No terceiro ano, iniciei minha jornada científica sob a orientação do #link("http://lattes.cnpq.br/8213371495151651")[Prof.~Dr.~Mario de Oliveira Neto];, do Departamento de Física e Biofísica (atualmente Biofísica e Farmacologia), com uma bolsa PIBIC/PROPe#footnote[PIBIC: Programa Institucional de Bolsas de Iniciação Científica. PROPe: Pró-Reitoria de Pesquisa.] via CNPq. Nesse período, mergulhei no estudo da estrutura de proteínas, utilizando dados de espalhamento de raios X a baixo ângulo (SAXS) e tive meu primeiro contato com bases de dados biológicas. Embora o projeto original, focado em proteínas relacionadas ao câncer bucal, não tenha avançado, desenvolvi outro sobre proteínas envolvidas na produção de etanol de segunda geração, que, embora não alinhasse diretamente com meu desejo de atuar no setor da saúde, proporcionou valiosos aprendizados. Durante quase dois anos, refinei minhas habilidades na extração de informações de bases de dados públicas, culminando na apresentação do trabalho no congresso de iniciação científica da UNESP, no qual fui classificado para a fase final do evento. Esse período resultou na participação em dois artigos científicos, publicados em 2015 (Alvarez et al. 2015) e em 2022 (Franco Cairo et al. 2022). As principais informações estão resumidas a seguir:
 
+#line(length: 50%, stroke: white)
 #strong[Curso:] Bacharelado em Física Médica.
 
 #strong[Instituição:] Instituto de Biociências de Botucatu, da Universidade Estadual Paulista "Júlio de Mesquita Filho".
@@ -444,13 +445,49 @@ Tive a oportunidade de cursar diversas disciplinas durante os 4 anos de curso de
 
 == Mestrado: 2015–2017
 <mestrado-20152017>
-No último ano de graduação tive a oportunidade de assistir uma palestra do #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi] sobre a utilização de mecanismos de transdução de sinais intracelulares com fator para a predição para o desenvolvimento de biomateriais. Fiquei impactado com essa perspectiva e quando ao final de sua apresentação ele declarou que procurava alunos de pósgraduação para orientar no #link("https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/biotecnologia/")[PPG de Biotecnologia] que teria suas primeiras turmas de mestrado e doutorado não hesitei em enviar um e-mail sobre a possibilidade de fazer mestrado sob sua orientação. Fiz parte da primeira geração de pós-graduandos no recém fundado Laboratório de Bioensaios e Dinâmica celular no departamento de Química e Bioquímica, e pude acompanhar, e trabalhar para a consolidação dela como um grupo de excelência em pesquisa. Meu projeto de mestrado visava utilizar mecanismos de transdução de sinais de células cultivadas diretamente sobre superfícies de biomateriais. Para isso, utilizamos o método de avaliação do quinoma por meio de microarranjo de peptídeos (PamChip®). Tive o privilégio de ter meu projeto financiado pela FAPESP (2015/03639-8) e vivi um período de muito aprendizado durante sua execução. \
+No último ano de graduação tive a oportunidade de assistir uma palestra do #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi] sobre a utilização de mecanismos de transdução de sinais intracelulares com fator para a predição para o desenvolvimento de biomateriais. Fiquei impactado com essa perspectiva e quando ao final de sua apresentação ele declarou que procurava alunos de pósgraduação para orientar no #link("https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/biotecnologia/")[PPG de Biotecnologia] que teria suas primeiras turmas de mestrado e doutorado não hesitei em enviar um e-mail sobre a possibilidade de fazer mestrado sob sua orientação. Fiz parte da primeira geração de pós-graduandos no recém fundado Laboratório de Bioensaios e Dinâmica celular no departamento de Química e Bioquímica, e pude acompanhar, e trabalhar para a consolidação dela como um grupo de excelência em pesquisa. Meu projeto de mestrado visava utilizar mecanismos de transdução de sinais de células cultivadas diretamente sobre superfícies de biomateriais. Para isso, utilizamos o método de avaliação do quinoma por meio de microarranjo de peptídeos (PamChip®). Tive o privilégio de ter meu projeto financiado pela FAPESP (2015/03639-8) e vivi um período de muito aprendizado durante sua execução.
+
+#line(length: 50%, stroke: white)
+#strong[Instituição:] Universidade Estadual Paulista, Insituto de Biociências de Botucatu.
+
+#strong[Local:] Botucatu, São Paulo, Brasil.
+
+#strong[Título];: Mestre em Biotecnologia.
+
+#strong[Área:] Biotecnologia.
+
+#strong[Dissertação:] OsteoBLAST: Rotina computacional de análise molecular global aliada à biologia sistêmica e aplicada à produção de biomateriais.
+
+#strong[Orientador:] #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi]
+
+#strong[Data de defesa:] 24/02/2017
+
+#strong[Bolsa:] FAPESP (2015/03639-8)
 
 == Doutorado: 2017-2023
 <doutorado-2017-2023>
 Ao final do mestrado, eu percebia que, por mais que as premissas de nosso trabalho fossem importantes, havia claras limitações nas metodologias propostas. A primeira foi o uso de uma tecnologia fechada, como a PamChip®, exclusiva da empresa PamGene. Este fato, somado a empresa não ter atuação no Brasil, diminuía o potencial de escalabilidade da tecnologia por nós proposta.
 
 Embora a avaliação da atividade de quinases possua um elevado valor no entendimento do fluxo de informação biológica, hoje tenho o entendimento que o uso de métodos baseados em transcriptoma, são uma solução melhor para nossa proposta uma vez que são métodos amplamente difundidos na comunidade científica. A segunda limitação se dava na falta de conhecimento em métodos de análise físico-química das superfícies dos biomateriais. Esta segunda limitação me fez propor um projeto de doutorado que envolvesse mais métodos de síntese e caracterização de biomateriais, no caso fosfatos de cálcio. Meu orientador concordou e sugeriu que buscássemos trabalhar com a modificação destas superfícies com fatores de crescimento através do uso de plasma-rico em plaquetas (PRP).
+
+#line(length: 50%, stroke: white)
+#strong[Instituição:] Universidade Estadual Paulista, Insituto de Biociências de Botucatu.
+
+#strong[Local:] Botucatu, São Paulo, Brasil.
+
+#strong[Título];: Doutor em Biotecnologia.
+
+#strong[Área:] Biotecnologia.
+
+#strong[Dissertação:] Plasma-rico em plaquetas liofilizado associado à nanohidroxiapatita na performance celular e regeneração óssea.
+
+#strong[Orientador:] #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi]
+
+#strong[Data de defesa:] 20/01/2023
+
+#strong[Bolsa:] FAPESP (2018/05731-7)
+
+#strong[Internacionalização:] Universidade de Nova Iorque (NYU), supervisão do Prof.~Dr.~Lukasz Witek. BEPE: "Plasma rico em plaquetas e fabricação de aditivos como uma alternativa promissora para ajudar a desenvolver ossos verdadeiro". Bolsa: FAPESP(2021/14271-2).
 
 #pagebreak()
 = Atuação Profissional
