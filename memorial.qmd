@@ -8,7 +8,7 @@ author:
       - name: UNESP
         city: Botucatu
         state: SP
-        url: www.brown.edu
+        url: https://www2.unesp.br/
 format: 
   typst:
     keep-typ: true
@@ -109,7 +109,7 @@ Gostaria de expressar minha sincera gratidão ao Prof. Dr. Juarez Lopes Ferreira
 
 [^2]: Na plataforma Scopus meu nome esta como Marcel Rodrigues Rodrigues Ferreira. Já foi solicitado mais de uma vez a correção, porém até a presente data não foi realizada.
 
-**Website:**
+**Website:** <http://marceelrf.netlify.app/>
 
 **ResearchGate:** <https://www.researchgate.net/profile/Marcel-Rodrigues-Ferreira?ev=hdr_xprf.>
 
@@ -156,8 +156,7 @@ Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um 
 
 [^3]: O cursinho Eukaípia, do qual fui participante, foi renomeado em 2014 para Cursinho do IB e, posteriormente, em 2017, para [Cursinho Athena](https://www.ibb.unesp.br/#!/extensao/cursinhos-athena/) --- denominação que tive a honra de sugerir. Durante as etapas de meu mestrado e doutorado, não apenas continuei como professor, mas também assumi a função de coordenador de disciplina nesses projetos, contribuindo para a sua evolução e impacto na comunidade.
 
-Tive a oportunidade de cursar diversas disciplinas durante os 4 anos de curso de Física Médica, abrangendo várias áreas do conhecimento, incluindo Humanas, Biológicas e, claro, Exatas. Essa diversidade de temas enriqueceu minha formação e proporcionou uma visão mais holística e integrada das ciências. Essa abordagem multidisciplinar foi essencial para minha formação, com destaque para as disciplinas de Linguagem de Programação, Bioquímica Básica, Biofísica Molecular e Física Computacional, que foram fundamentais para minha trajetória acadêmica e profissional.
-No terceiro ano, iniciei minha jornada científica sob a orientação do [Prof. Dr. Mario de Oliveira Neto](http://lattes.cnpq.br/8213371495151651), do Departamento de Física e Biofísica (atualmente Biofísica e Farmacologia), com uma bolsa PIBIC/PROPe[^4] via CNPq. Nesse período, mergulhei no estudo da estrutura de proteínas, utilizando dados de espalhamento de raios X a baixo ângulo (SAXS) e tive meu primeiro contato com bases de dados biológicas. Embora o projeto original, focado em proteínas relacionadas ao câncer bucal, não tenha avançado, desenvolvi outro sobre proteínas envolvidas na produção de etanol de segunda geração, que, embora não alinhasse diretamente com meu desejo de atuar no setor da saúde, proporcionou valiosos aprendizados. Durante quase dois anos, refinei minhas habilidades na extração de informações de bases de dados públicas, culminando na apresentação do trabalho no congresso de iniciação científica da UNESP, no qual fui classificado para a fase final do evento. Esse período resultou na participação em dois artigos científicos, publicados em 2015 [@Alvarez2015] e em 2022 [@Franco2022]. As principais informações estão resumidas a seguir:
+Tive a oportunidade de cursar diversas disciplinas durante os 4 anos de curso de Física Médica, abrangendo várias áreas do conhecimento, incluindo Humanas, Biológicas e, claro, Exatas. Essa diversidade de temas enriqueceu minha formação e proporcionou uma visão mais holística e integrada das ciências. Essa abordagem multidisciplinar foi essencial para minha formação, com destaque para as disciplinas de Linguagem de Programação, Bioquímica Básica, Biofísica Molecular e Física Computacional, que foram fundamentais para minha trajetória acadêmica e profissional. No terceiro ano, iniciei minha jornada científica sob a orientação do [Prof. Dr. Mario de Oliveira Neto](http://lattes.cnpq.br/8213371495151651), do Departamento de Física e Biofísica (atualmente Biofísica e Farmacologia), com uma bolsa PIBIC/PROPe[^4] via CNPq. Nesse período, mergulhei no estudo da estrutura de proteínas, utilizando dados de espalhamento de raios X a baixo ângulo (SAXS) e tive meu primeiro contato com bases de dados biológicas. Embora o projeto original, focado em proteínas relacionadas ao câncer bucal, não tenha avançado, desenvolvi outro sobre proteínas envolvidas na produção de etanol de segunda geração, que, embora não alinhasse diretamente com meu desejo de atuar no setor da saúde, proporcionou valiosos aprendizados. Durante quase dois anos, refinei minhas habilidades na extração de informações de bases de dados públicas, culminando na apresentação do trabalho no congresso de iniciação científica da UNESP, no qual fui classificado para a fase final do evento. Esse período resultou na participação em dois artigos científicos, publicados em 2015 [@Alvarez2015] e em 2022 [@Franco2022]. As principais informações estão resumidas a seguir:
 
 [^4]: PIBIC: Programa Institucional de Bolsas de Iniciação Científica. PROPe: Pró-Reitoria de Pesquisa.
 
@@ -175,8 +174,7 @@ No terceiro ano, iniciei minha jornada científica sob a orientação do [Prof. 
 
 ### Mestrado: 2015--2017
 
-No último ano de graduação tive a oportunidade de assistir uma palestra do [Prof. Dr. Willian Fernando Zambuzzi](http://lattes.cnpq.br/9087428606376572) sobre a utilização de mecanismos de transdução de sinais intracelulares com fator para a predição para o desenvolvimento de biomateriais. Fiquei impactado com essa perspectiva e quando ao final de sua apresentação ele declarou que procurava alunos de pósgraduação para orientar no [PPG de Biotecnologia](https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/biotecnologia/) que teria suas primeiras turmas de mestrado e doutorado não hesitei em enviar um e-mail sobre a possibilidade de fazer mestrado sob sua orientação. Fiz parte da primeira geração de pós-graduandos no recém fundado Laboratório de Bioensaios e Dinâmica celular no departamento de Química e Bioquímica, e pude acompanhar, e trabalhar para a consolidação dela como um grupo de excelência em pesquisa. Meu projeto de mestrado visava utilizar mecanismos de transdução de sinais de células cultivadas diretamente sobre superfícies de biomateriais. Para isso, utilizamos o método de avaliação do quinoma por meio de microarranjo de peptídeos (PamChip®). Tive o privilégio de ter meu projeto financiado pela FAPESP (2015/03639-8) e vivi um período de muito aprendizado durante sua execução.
-\
+No último ano de graduação tive a oportunidade de assistir uma palestra do [Prof. Dr. Willian Fernando Zambuzzi](http://lattes.cnpq.br/9087428606376572) sobre a utilização de mecanismos de transdução de sinais intracelulares com fator para a predição para o desenvolvimento de biomateriais. Fiquei impactado com essa perspectiva e quando ao final de sua apresentação ele declarou que procurava alunos de pósgraduação para orientar no [PPG de Biotecnologia](https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/biotecnologia/) que teria suas primeiras turmas de mestrado e doutorado não hesitei em enviar um e-mail sobre a possibilidade de fazer mestrado sob sua orientação. Fiz parte da primeira geração de pós-graduandos no recém fundado Laboratório de Bioensaios e Dinâmica celular no departamento de Química e Bioquímica, e pude acompanhar, e trabalhar para a consolidação dela como um grupo de excelência em pesquisa. Meu projeto de mestrado visava utilizar mecanismos de transdução de sinais de células cultivadas diretamente sobre superfícies de biomateriais. Para isso, utilizamos o método de avaliação do quinoma por meio de microarranjo de peptídeos (PamChip®). Tive o privilégio de ter meu projeto financiado pela FAPESP (2015/03639-8) e vivi um período de muito aprendizado durante sua execução.\
 
 ### Doutorado: 2017-2023
 
@@ -351,49 +349,75 @@ Além dos softwares registrados, sou autor do pacote **tidyspec** [@tidyspec], p
 
 [^6]: O CRAN, ou *Comprehensive R Archive Network*, é um repositório online que armazena pacotes de software para a linguagem de programação R. Ele é mantido por uma comunidade global de desenvolvedores e usuários de R, e permite que os usuários acessem e baixem pacotes de software que expandem as funcionalidades básicas do R. O CRAN é essencial para o ecossistema R, pois facilita a distribuição de pacotes e garante que eles sejam de código aberto, documentados e testados.
 
-Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos (OsteoCLUST)
+``` {=typst}
+#line(length: 50%, stroke: white)
+```
 
-Processo Nº: BR512024004865-0
+#### Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos (OsteoCLUST) {.unnumbered}
 
-Título: Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos
+**Processo Nº:** BR512024004865-0
 
-Data de criação: 31/07/2024
+**Título:** Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos
 
-Titular(es): UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO
+**Data de criação:** 31/07/2024
 
-Autor(es): MARCEL RODRIGUES FERREIRA; WILLIAN FERNANDO ZAMBUZZI; MATHEUS AMARAL SILVA
+**Titular(es):** UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO
 
-Linguagem: HTML; JAVA SCRIPT; CSS; R
+**Autor(es):** MARCEL RODRIGUES FERREIRA; WILLIAN FERNANDO ZAMBUZZI; MATHEUS AMARAL SILVA
 
-Campo de aplicação: BL-01; BL-02; SD-09; SD-11
+**Linguagem:** HTML; JAVA SCRIPT; CSS; R
 
-Tipo de programa: AP-01
+**Campo de aplicação:** BL-01; BL-02; SD-09; SD-11
 
-Algoritmo hash: SHA-512
+**Tipo de programa:** AP-01
 
-Resumo digital hash: cd598a23d0c6ff8bdd0135060116bc5066aed84dd6252cb47831bacf4656c3f8a90ae94c7513addd572c91c20aab4140e2 4465caa515da6e966d0baf742002a0
+**Algoritmo hash:** SHA-512
 
-Expedido em: 17/12/2024
+**Resumo digital hash:** cd598a23d0c6ff8bdd0135060116bc5066aed84dd6252cb47831bacf4656c3f8a90ae94c7513addd572c91c20aab4140e2 4465caa515da6e966d0baf742002a0
 
-Processo Nº: BR512023000985-7 Título: previewDeconv: um aplicativo para pré-visualização de bandas deconvoluídas Data de criação: 13/09/2021
+**Expedido em:** 17/12/2024
 
-Titular(es): UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO Autor(es): WILLIAN FERANDO ZAMBUZZI; MARCEL RODRIGUES FERREIRA Linguagem: C++; HTML; R
+``` {=typst}
+#line(length: 50%)
+```
 
-Campo de aplicação: FQ-01; FQ-06; FQ-14; FQ-17
+#### previewDeconv: um aplicativo para pré-visualização de bandas deconvoluídas Data de criação {.unnumbered}
 
-Tipo de programa: AP-01 Algoritmo hash: SHA-512
+**Processo Nº:** BR512023000985-7
 
-Resumo digital hash:
+**Título:** previewDeconv: um aplicativo para pré-visualização de bandas deconvoluídas
+
+**Data de criação:** 13/09/2021
+
+**Titular(es):** UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO
+
+**Autor(es):** WILLIAN FERANDO ZAMBUZZI; MARCEL RODRIGUES FERREIRA
+
+**Linguagem:** C++; HTML; R
+
+**Campo de aplicação:** FQ-01; FQ-06; FQ-14; FQ-17
+
+**Tipo de programa:** AP-01
+
+**Algoritmo hash:** SHA-512
+
+**Resumo digital hash:**
 
 58c79b6c8e6d67cfbccb7a4a357c1ae895a9d25b5eb310a512655f1a7fa46257f826b0fe75917085af0e322e31f00e855f8d ef4c642d0c8f260ddd051143ba9b
 
-Expedido em: 18/04/2023\
+**Expedido em:** 18/04/2023
 
-Softwares registrados: previewDeconv e OsteoCLUST ;
+``` {=typst}
+#line(length: 50%)
+```
 
-Pacotes de R publicados no CRAN: tidyspec [@tidyspec];
+#### Resumo: {.unnumbered}
 
-Softwares sem registros publicados em artigos científicos: kir-mapper [@Castelli2025];
+-   Softwares registrados: *previewDeconv* e *OsteoCLUST* ;
+
+-   Pacotes de R publicados no CRAN: *tidyspec* [@tidyspec];
+
+-   Softwares sem registros publicados em artigos científicos: *kir-mapper* [@Castelli2025];
 
 ```{=typst}
 #pagebreak()

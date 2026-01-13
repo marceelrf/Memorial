@@ -298,7 +298,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2025-12-21],
+  date: [2026-01-13],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -385,7 +385,7 @@ Gostaria de expressar minha sincera gratidão ao Prof.~Dr.~Juarez Lopes Ferreira
 
 #strong[Scopus];#footnote[Na plataforma Scopus meu nome esta como Marcel Rodrigues Rodrigues Ferreira. Já foi solicitado mais de uma vez a correção, porém até a presente data não foi realizada.];#strong[:] #link("https://www.scopus.com/authid/detail.uri?authorId=56765071000")
 
-#strong[Website:]
+#strong[Website:] #link("http://marceelrf.netlify.app/")
 
 #strong[ResearchGate:] #link("https://www.researchgate.net/profile/Marcel-Rodrigues-Ferreira?ev=hdr_xprf.")
 
@@ -448,9 +448,9 @@ No último ano de graduação tive a oportunidade de assistir uma palestra do #l
 
 == Doutorado: 2017-2023
 <doutorado-2017-2023>
-Ao final do mestrado eu percebia que por mais que as premissas de nosso trabalho fossem importantes havia claras limitações nas metodologias propostas. A primeira foi o uso de uma tecnologia fechada como PamChip®, que é exclusiva da empresa PamGene. Este fato, somado a empresanão ter atuação no Brasil, diminuía o potencial de escalabilidade da tecnologia por nós proposta.
+Ao final do mestrado, eu percebia que, por mais que as premissas de nosso trabalho fossem importantes, havia claras limitações nas metodologias propostas. A primeira foi o uso de uma tecnologia fechada, como a PamChip®, exclusiva da empresa PamGene. Este fato, somado a empresa não ter atuação no Brasil, diminuía o potencial de escalabilidade da tecnologia por nós proposta.
 
-Embora a avaliação da atividade de quinases possua um elevado valor no entendimento do fluxo de informação biológica, hoje tenho o entendimento que o uso de métodos baseados em transcriptoma, são uma solução melhor para nossa proposta uma vez que são métodos amplamente difundidos na comunidade científica. A segunda limitação se dava na falta de conhecimento em métodos de análise físico-químicas das superfícies dos biomateriais. Esta segunda limitação me fez propor um projeto de doutorado que envolvesse mais métodos de síntese e caracterização de biomateriais, no caso fosfatos de cálcio. Meu orientador concordou e sugeriu que buscássemos trabalhar com a modificação destas superfícies com fatores de crescimento através do uso de plasma-rico em plaquetas.
+Embora a avaliação da atividade de quinases possua um elevado valor no entendimento do fluxo de informação biológica, hoje tenho o entendimento que o uso de métodos baseados em transcriptoma, são uma solução melhor para nossa proposta uma vez que são métodos amplamente difundidos na comunidade científica. A segunda limitação se dava na falta de conhecimento em métodos de análise físico-química das superfícies dos biomateriais. Esta segunda limitação me fez propor um projeto de doutorado que envolvesse mais métodos de síntese e caracterização de biomateriais, no caso fosfatos de cálcio. Meu orientador concordou e sugeriu que buscássemos trabalhar com a modificação destas superfícies com fatores de crescimento através do uso de plasma-rico em plaquetas (PRP).
 
 #pagebreak()
 = Atuação Profissional
@@ -609,49 +609,99 @@ Anteriormente, participei do desenvolvimento e registro do software #strong[prev
 
 Além dos softwares registrados, sou autor do pacote #strong[tidyspec] (Ferreira 2025), publicado no repositório oficial do #link("https://cran.r-project.org/")[CRAN];#footnote[O CRAN, ou #emph[Comprehensive R Archive Network];, é um repositório online que armazena pacotes de software para a linguagem de programação R. Ele é mantido por uma comunidade global de desenvolvedores e usuários de R, e permite que os usuários acessem e baixem pacotes de software que expandem as funcionalidades básicas do R. O CRAN é essencial para o ecossistema R, pois facilita a distribuição de pacotes e garante que eles sejam de código aberto, documentados e testados.];, voltado à organização, processamento e análise de dados espectrais no ambiente R, seguindo princípios do ecossistema tidyverse. Esse pacote tem sido utilizado tanto em minhas pesquisas quanto em atividades didáticas, contribuindo para a formação de estudantes em análise de dados reprodutível.
 
+#line(length: 50%, stroke: white)
+#block[
+#heading(
+level: 
+4
+, 
+numbering: 
+none
+, 
+[
 Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos (OsteoCLUST)
+]
+)
+]
+#strong[Processo Nº:] BR512024004865-0
 
-Processo Nº: BR512024004865-0
+#strong[Título:] Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos
 
-Título: Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos
+#strong[Data de criação:] 31/07/2024
 
-Data de criação: 31/07/2024
+#strong[Titular(es):] UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO
 
-Titular(es): UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO
+#strong[Autor(es):] MARCEL RODRIGUES FERREIRA; WILLIAN FERNANDO ZAMBUZZI; MATHEUS AMARAL SILVA
 
-Autor(es): MARCEL RODRIGUES FERREIRA; WILLIAN FERNANDO ZAMBUZZI; MATHEUS AMARAL SILVA
+#strong[Linguagem:] HTML; JAVA SCRIPT; CSS; R
 
-Linguagem: HTML; JAVA SCRIPT; CSS; R
+#strong[Campo de aplicação:] BL-01; BL-02; SD-09; SD-11
 
-Campo de aplicação: BL-01; BL-02; SD-09; SD-11
+#strong[Tipo de programa:] AP-01
 
-Tipo de programa: AP-01
+#strong[Algoritmo hash:] SHA-512
 
-Algoritmo hash: SHA-512
+#strong[Resumo digital hash:] cd598a23d0c6ff8bdd0135060116bc5066aed84dd6252cb47831bacf4656c3f8a90ae94c7513addd572c91c20aab4140e2 4465caa515da6e966d0baf742002a0
 
-Resumo digital hash: cd598a23d0c6ff8bdd0135060116bc5066aed84dd6252cb47831bacf4656c3f8a90ae94c7513addd572c91c20aab4140e2 4465caa515da6e966d0baf742002a0
+#strong[Expedido em:] 17/12/2024
 
-Expedido em: 17/12/2024
+#line(length: 50%)
+#block[
+#heading(
+level: 
+4
+, 
+numbering: 
+none
+, 
+[
+previewDeconv: um aplicativo para pré-visualização de bandas deconvoluídas Data de criação
+]
+)
+]
+#strong[Processo Nº:] BR512023000985-7
 
-Processo Nº: BR512023000985-7 Título: previewDeconv: um aplicativo para pré-visualização de bandas deconvoluídas Data de criação: 13/09/2021
+#strong[Título:] previewDeconv: um aplicativo para pré-visualização de bandas deconvoluídas
 
-Titular(es): UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO Autor(es): WILLIAN FERANDO ZAMBUZZI; MARCEL RODRIGUES FERREIRA Linguagem: C++; HTML; R
+#strong[Data de criação:] 13/09/2021
 
-Campo de aplicação: FQ-01; FQ-06; FQ-14; FQ-17
+#strong[Titular(es):] UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO
 
-Tipo de programa: AP-01 Algoritmo hash: SHA-512
+#strong[Autor(es):] WILLIAN FERANDO ZAMBUZZI; MARCEL RODRIGUES FERREIRA
 
-Resumo digital hash:
+#strong[Linguagem:] C++; HTML; R
+
+#strong[Campo de aplicação:] FQ-01; FQ-06; FQ-14; FQ-17
+
+#strong[Tipo de programa:] AP-01
+
+#strong[Algoritmo hash:] SHA-512
+
+#strong[Resumo digital hash:]
 
 58c79b6c8e6d67cfbccb7a4a357c1ae895a9d25b5eb310a512655f1a7fa46257f826b0fe75917085af0e322e31f00e855f8d ef4c642d0c8f260ddd051143ba9b
 
-Expedido em: 18/04/2023 \
+#strong[Expedido em:] 18/04/2023
 
-Softwares registrados: previewDeconv e OsteoCLUST ;
+#line(length: 50%)
+#block[
+#heading(
+level: 
+4
+, 
+numbering: 
+none
+, 
+[
+Resumo:
+]
+)
+]
+- Softwares registrados: #emph[previewDeconv] e #emph[OsteoCLUST] ;
 
-Pacotes de R publicados no CRAN: tidyspec (Ferreira 2025);
+- Pacotes de R publicados no CRAN: #emph[tidyspec] (Ferreira 2025);
 
-Softwares sem registros publicados em artigos científicos: kir-mapper (Castelli et al. 2025);
+- Softwares sem registros publicados em artigos científicos: #emph[kir-mapper] (Castelli et al. 2025);
 
 #pagebreak()
 = Atividades de Extensão e Serviços à Comunidade
