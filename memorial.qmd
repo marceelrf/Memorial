@@ -207,7 +207,6 @@ Embora a avaliação da atividade de quinases possua um elevado valor no entendi
 ```{=typst}
 #line(length: 50%, stroke: white)
 ```
-
 **Instituição:** Universidade Estadual Paulista, Insituto de Biociências de Botucatu.
 
 **Local:** Botucatu, São Paulo, Brasil.
@@ -224,7 +223,8 @@ Embora a avaliação da atividade de quinases possua um elevado valor no entendi
 
 **Bolsa:** FAPESP (2018/05731-7)
 
-**Internacionalização:** Universidade de Nova Iorque (NYU), supervisão do Prof. Dr. Lukasz Witek. BEPE: "Plasma rico em plaquetas e fabricação de aditivos como uma alternativa promissora para ajudar a desenvolver ossos verdadeiro". Bolsa:  FAPESP(2021/14271-2).
+**Internacionalização:** Universidade de Nova Iorque (NYU), supervisão do Prof. Dr. Lukasz Witek. BEPE: "Plasma rico em plaquetas e fabricação de aditivos como uma alternativa promissora para ajudar a desenvolver ossos verdadeiro". Bolsa: FAPESP(2021/14271-2).
+
 ```{=typst}
 #pagebreak()
 ```
@@ -470,11 +470,17 @@ ddd
 
 ### Cursos, Seminários e Palestras Ministradas
 
-ddd
+Esta seção reúne os cursos, seminários e palestras ministrados ao longo da trajetória acadêmica e profissional, em diferentes contextos institucionais e científicos. As atividades aqui descritas refletem a atuação na difusão do conhecimento, na formação de estudantes e profissionais, bem como na troca de experiências com a comunidade acadêmica e científica, abrangendo ações de caráter didático, técnico e científico, realizadas em âmbito presencial e remoto.
+
+1.  dddd
 
 ### Organização de Eventos
 
 ### Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais
+
+```{=typst}
+#pagebreak()
+```
 
 ## Atividades Administrativas {#sec-8}
 

@@ -4,9 +4,7 @@
   #block(inset: (left: 1.5em, top: 0.2em, bottom: 0.2em))[#body]
 ]
 
-#let horizontalrule = [
-  #line(start: (25%,0%), end: (75%,0%))
-]
+#let horizontalrule = line(start: (25%,0%), end: (75%,0%))
 
 #let endnote(num, contents) = [
   #stack(dir: ltr, spacing: 3pt, super[#num], contents)
@@ -37,17 +35,17 @@
   if fields.at("below", default: none) != none {
     // TODO: this is a hack because below is a "synthesized element"
     // according to the experts in the typst discord...
-    fields.below = fields.below.amount
+    fields.below = fields.below.abs
   }
   return block.with(..fields)(new_content)
 }
 
 #let empty(v) = {
-  if type(v) == "string" {
+  if type(v) == str {
     // two dollar signs here because we're technically inside
     // a Pandoc template :grimace:
     v.matches(regex("^\\s*$")).at(0, default: none) != none
-  } else if type(v) == "content" {
+  } else if type(v) == content {
     if v.at("text", default: none) != none {
       return empty(v.text)
     }
@@ -110,7 +108,7 @@
 // callout rendering
 // this is a figure show rule because callouts are crossreferenceable
 #show figure: it => {
-  if type(it.kind) != "string" {
+  if type(it.kind) != str {
     return it
   }
   let kind_match = it.kind.matches(regex("^quarto-callout-(.*)")).at(0, default: none)
@@ -147,7 +145,7 @@
 }
 
 // 2023-10-09: #fa-icon("fa-info") is not working, so we'll eval "#fa-info()" instead
-#let callout(body: [], title: "Callout", background_color: rgb("#dddddd"), icon: none, icon_color: black) = {
+#let callout(body: [], title: "Callout", background_color: rgb("#dddddd"), icon: none, icon_color: black, body_background_color: white) = {
   block(
     breakable: false, 
     fill: background_color, 
@@ -166,7 +164,7 @@
         block(
           inset: 1pt, 
           width: 100%, 
-          block(fill: white, width: 100%, inset: 8pt, body))
+          block(fill: body_background_color, width: 100%, inset: 8pt, body))
       }
     )
 }
@@ -181,15 +179,13 @@
   abstract: none,
   abstract-title: none,
   cols: 1,
-  margin: (x: 1.25in, y: 1.25in),
-  paper: "us-letter",
   lang: "en",
   region: "US",
-  font: "linux libertine",
+  font: "libertinus serif",
   fontsize: 11pt,
   title-size: 1.5em,
   subtitle-size: 1.25em,
-  heading-family: "linux libertine",
+  heading-family: "libertinus serif",
   heading-weight: "bold",
   heading-style: "normal",
   heading-color: black,
@@ -201,11 +197,6 @@
   toc_indent: 1.5em,
   doc,
 ) = {
-  set page(
-    paper: paper,
-    margin: margin,
-    numbering: "1",
-  )
   set par(justify: true)
   set text(lang: lang,
            region: region,
@@ -216,8 +207,7 @@
     align(center)[#block(inset: 2em)[
       #set par(leading: heading-line-height)
       #if (heading-family != none or heading-weight != "bold" or heading-style != "normal"
-           or heading-color != black or heading-decoration == "underline"
-           or heading-background-color != none) {
+           or heading-color != black) {
         set text(font: heading-family, weight: heading-weight, style: heading-style, fill: heading-color)
         text(size: title-size)[#title]
         if subtitle != none {
@@ -291,6 +281,12 @@
 /* Color links */
 #show link: set text(fill: rgb(0, 0, 255))
 
+#set page(
+  paper: "us-letter",
+  margin: (x: 1.25in, y: 1.25in),
+  numbering: "1",
+)
+
 #show: doc => article(
   title: [Memorial circunstanciado para concurso de Professor Doutor junto ao Departamento de Bioquímica],
   authors: (
@@ -298,7 +294,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-01-13],
+  date: [2026-01-15],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -406,7 +402,7 @@ Entre 2006 e 2008, cursei o ensino médio no Sistema Educacional Quintal (Objeti
 
 Ambas as escolas desempenharam um papel crucial na minha formação, reforçando a ideia de que uma educação abrangente e multidisciplinar é essencial para o desenvolvimento pessoal e profissional. Sou extremamente grato aos meus pais pelo sacrifício em custear escolas particulares, que, apesar dos desafios financeiros, sempre priorizaram meu aprendizado e crescimento.
 
-== Graduação: 2011–2014
+== Graduação: 2011--2014
 <graduação-20112014>
 Após dois anos pessoalmente muito dificies, em 2011 entrei no curso de Bacharelado em Física Médica do Insituto de Biociências de Botucatu da Universidade Estadual Paulista "Júlio de Mesquita Filho" (#link("https://www2.unesp.br/")[UNESP];). Durante os 4 anos de curso, tive acesso a uma formação multidisciplinar. Ainda nas primeiras semanas, ouvi a frase "aproveitem todos os espaços que a universidade pública lhes proporciona" e tomei-a como meu mantra. Participei de diversas atividades acadêmicas como: o cursinhos pré-vestibular Desafio e Eukaípia, empresa júnior Nucleon Jr, atlética, organização do Congresso de Física Aplicada a Medicina, monitorias, e iniciação cientifica.
 
@@ -414,7 +410,7 @@ Após enfrentar dois anos de desafios pessoais significativos, ingressei, em 201
 
 Nas primeiras semanas de curso, uma orientação ressoou em minha mente como um mantra: "#emph[aproveitem todos os espaços que a universidade pública lhes proporciona];". Inspirado por essa mensagem, participei ativamente de diversas atividades acadêmicas e extracurriculares, incluindo:
 
-- #strong[Cursinhos pré-vestibular];: Contribuí como professor e monitor de matemática no #link("https://www.fmb.unesp.br/#!/extensao/cursinho-desafio/")[cursinho Desafio] (2011) e como professor e coordenador de matemática no projeto Eukaípia #footnote[O cursinho Eukaípia, do qual fui participante, foi renomeado em 2014 para Cursinho do IB e, posteriormente, em 2017, para #link("https://www.ibb.unesp.br/#!/extensao/cursinhos-athena/")[Cursinho Athena] — denominação que tive a honra de sugerir. Durante as etapas de meu mestrado e doutorado, não apenas continuei como professor, mas também assumi a função de coordenador de disciplina nesses projetos, contribuindo para a sua evolução e impacto na comunidade.] (2012-2013), ambos voltados para a preparação de estudantes de baixa renda para o vestibular.
+- #strong[Cursinhos pré-vestibular];: Contribuí como professor e monitor de matemática no #link("https://www.fmb.unesp.br/#!/extensao/cursinho-desafio/")[cursinho Desafio] (2011) e como professor e coordenador de matemática no projeto Eukaípia #footnote[O cursinho Eukaípia, do qual fui participante, foi renomeado em 2014 para Cursinho do IB e, posteriormente, em 2017, para #link("https://www.ibb.unesp.br/#!/extensao/cursinhos-athena/")[Cursinho Athena] --- denominação que tive a honra de sugerir. Durante as etapas de meu mestrado e doutorado, não apenas continuei como professor, mas também assumi a função de coordenador de disciplina nesses projetos, contribuindo para a sua evolução e impacto na comunidade.] (2012-2013), ambos voltados para a preparação de estudantes de baixa renda para o vestibular.
 
 - #strong[Empresa júnior];: Fui membro da Nucleon Jr, onde adquiri experiência prática em consultoria e projetos relacionados à física médica.
 
@@ -443,7 +439,7 @@ Tive a oportunidade de cursar diversas disciplinas durante os 4 anos de curso de
 
 #strong[Iniciação Científica];: 12 meses com bolsa fornecida pelo CNPq,Universidade Estadual Paulista "Júlio de Mesquita Filho".
 
-== Mestrado: 2015–2017
+== Mestrado: 2015--2017
 <mestrado-20152017>
 No último ano de graduação tive a oportunidade de assistir uma palestra do #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi] sobre a utilização de mecanismos de transdução de sinais intracelulares com fator para a predição para o desenvolvimento de biomateriais. Fiquei impactado com essa perspectiva e quando ao final de sua apresentação ele declarou que procurava alunos de pósgraduação para orientar no #link("https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/biotecnologia/")[PPG de Biotecnologia] que teria suas primeiras turmas de mestrado e doutorado não hesitei em enviar um e-mail sobre a possibilidade de fazer mestrado sob sua orientação. Fiz parte da primeira geração de pós-graduandos no recém fundado Laboratório de Bioensaios e Dinâmica celular no departamento de Química e Bioquímica, e pude acompanhar, e trabalhar para a consolidação dela como um grupo de excelência em pesquisa. Meu projeto de mestrado visava utilizar mecanismos de transdução de sinais de células cultivadas diretamente sobre superfícies de biomateriais. Para isso, utilizamos o método de avaliação do quinoma por meio de microarranjo de peptídeos (PamChip®). Tive o privilégio de ter meu projeto financiado pela FAPESP (2015/03639-8) e vivi um período de muito aprendizado durante sua execução.
 
@@ -620,7 +616,7 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 
 + Zambuzzi WF, #underline[#strong[Ferreira MR];];. #emph[Dynamic ion-releasing biomaterials actively shape the microenvironment to enhance healing];. J Trace Elem Med Biol. 2025 Jun;89:127657. doi: #link("https://www.doi.org/10.1016/j.jtemb.2025.127657")[10.1016/j.jtemb.2025.127657];. Epub 2025 Apr 17. PMID: 40250222.
 
-+ Zambuzzi WF, #underline[#strong[Ferreira MR];];, Wang Z, Peppelenbosch MP. #emph[A Biochemical View on Intermittent Fasting’s Effects on Human Physiology-Not Always a Beneficial Strategy];. Biology (Basel). 2025 Jun 9;14(6):669. doi: #link("https://www.doi.org/10.3390/biology14060669")[10.3390/biology14060669];. PMID: 40563920; PMCID: PMC12190167.
++ Zambuzzi WF, #underline[#strong[Ferreira MR];];, Wang Z, Peppelenbosch MP. #emph[A Biochemical View on Intermittent Fasting's Effects on Human Physiology-Not Always a Beneficial Strategy];. Biology (Basel). 2025 Jun 9;14(6):669. doi: #link("https://www.doi.org/10.3390/biology14060669")[10.3390/biology14060669];. PMID: 40563920; PMCID: PMC12190167.
 
 + #underline[#strong[Ferreira MR];];, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. #emph[Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis];. Cell Biol Int. 2026 Jan;50(1):e70101. doi: #link("https://www.doi.org/10.1002/cbin.70101")[10.1002/cbin.70101];. Epub 2025 Nov 13. PMID: 41230788.
 
@@ -640,9 +636,9 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 <contribuições-científicas>
 Uma das vertentes centrais da minha atuação científica tem sido o desenvolvimento de ferramentas computacionais voltadas à análise, integração e interpretação de dados biológicos complexos, com ênfase em transcriptômica, biomateriais e ciência de dados reprodutível. Essas iniciativas surgiram da necessidade de traduzir questões biológicas e experimentais em soluções metodológicas acessíveis, padronizadas e reutilizáveis pela comunidade científica.
 
-Nesse contexto, desenvolvi e registrei o software #strong[OsteoCLUST] – Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos (Processo nº BR512024004865-0), cuja titularidade pertence à Universidade Estadual Paulista "Júlio de Mesquita Filho". O #strong[OsteoCLUST] integra rotinas estatísticas e visualizações interativas para a comparação global de assinaturas moleculares associadas à resposta celular a biomateriais, utilizando dados transcriptômicos. O aplicativo foi implementado utilizando as linguagens R, HTML, JavaScript e CSS, refletindo uma abordagem interdisciplinar entre análise de dados e desenvolvimento de interfaces amigáveis ao usuário.
+Nesse contexto, desenvolvi e registrei o software #strong[OsteoCLUST] -- Aplicativo para Análise e Comparação de Biomateriais Ósseos com Base em Dados Transcriptômicos (Processo nº BR512024004865-0), cuja titularidade pertence à Universidade Estadual Paulista "Júlio de Mesquita Filho". O #strong[OsteoCLUST] integra rotinas estatísticas e visualizações interativas para a comparação global de assinaturas moleculares associadas à resposta celular a biomateriais, utilizando dados transcriptômicos. O aplicativo foi implementado utilizando as linguagens R, HTML, JavaScript e CSS, refletindo uma abordagem interdisciplinar entre análise de dados e desenvolvimento de interfaces amigáveis ao usuário.
 
-Anteriormente, participei do desenvolvimento e registro do software #strong[previewDeconv] – um aplicativo para pré-visualização de bandas deconvoluídas (Processo nº BR512023000985-7), também com titularidade da UNESP. Esse aplicativo, implementado em C++, R e HTML, foi concebido para auxiliar na análise e interpretação de dados espectrais, contribuindo para a padronização de etapas analíticas em estudos físico-químicos e de biomateriais.
+Anteriormente, participei do desenvolvimento e registro do software #strong[previewDeconv] -- um aplicativo para pré-visualização de bandas deconvoluídas (Processo nº BR512023000985-7), também com titularidade da UNESP. Esse aplicativo, implementado em C++, R e HTML, foi concebido para auxiliar na análise e interpretação de dados espectrais, contribuindo para a padronização de etapas analíticas em estudos físico-químicos e de biomateriais.
 
 Além dos softwares registrados, sou autor do pacote #strong[tidyspec] (Ferreira 2025), publicado no repositório oficial do #link("https://cran.r-project.org/")[CRAN];#footnote[O CRAN, ou #emph[Comprehensive R Archive Network];, é um repositório online que armazena pacotes de software para a linguagem de programação R. Ele é mantido por uma comunidade global de desenvolvedores e usuários de R, e permite que os usuários acessem e baixem pacotes de software que expandem as funcionalidades básicas do R. O CRAN é essencial para o ecossistema R, pois facilita a distribuição de pacotes e garante que eles sejam de código aberto, documentados e testados.];, voltado à organização, processamento e análise de dados espectrais no ambiente R, seguindo princípios do ecossistema tidyverse. Esse pacote tem sido utilizado tanto em minhas pesquisas quanto em atividades didáticas, contribuindo para a formação de estudantes em análise de dados reprodutível.
 
@@ -749,12 +745,15 @@ ddd
 
 == Cursos, Seminários e Palestras Ministradas
 <cursos-seminários-e-palestras-ministradas>
-ddd
+Esta seção reúne os cursos, seminários e palestras ministrados ao longo da trajetória acadêmica e profissional, em diferentes contextos institucionais e científicos. As atividades aqui descritas refletem a atuação na difusão do conhecimento, na formação de estudantes e profissionais, bem como na troca de experiências com a comunidade acadêmica e científica, abrangendo ações de caráter didático, técnico e científico, realizadas em âmbito presencial e remoto.
+
++ dddd
 
 == Organização de Eventos
 <organização-de-eventos>
 == Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais
 <assessor-ad-hoc-agências-de-fomento-instituições-acadêmicas-e-avaliação-de-artigos-para-periódicos-nacionais-e-internacionais>
+#pagebreak()
 = Atividades Administrativas
 <sec-8>
 #pagebreak()
@@ -767,11 +766,11 @@ ddd
 <bibliografia>
 #block[
 #block[
-Alon, Uri. 2009. “How To Choose a Good Scientific Problem”. #emph[Molecular Cell] 35 (6): 726–28. #link("https://doi.org/10.1016/j.molcel.2009.09.013");.
+Alon, Uri. 2009. “How To Choose a Good Scientific Problem”. #emph[Molecular Cell] 35 (6): 726--28. #link("https://doi.org/10.1016/j.molcel.2009.09.013");.
 
 ] <ref-alon2009>
 #block[
-Alvarez, Thabata Maria, Marcelo Vizoná Liberato, João Paulo L. Franco Cairo, Douglas A. A. Paixão, Bruna M. Campos, Marcel R. Ferreira, Rodrigo F. Almeida, et al. 2015. “A Novel Member of GH16 Family Derived from Sugarcane Soil Metagenome”. #emph[Applied Biochemistry and Biotechnology] 177 (2): 304–17. #link("https://doi.org/10.1007/s12010-015-1743-7");.
+Alvarez, Thabata Maria, Marcelo Vizoná Liberato, João Paulo L. Franco Cairo, Douglas A. A. Paixão, Bruna M. Campos, Marcel R. Ferreira, Rodrigo F. Almeida, et al. 2015. “A Novel Member of GH16 Family Derived from Sugarcane Soil Metagenome”. #emph[Applied Biochemistry and Biotechnology] 177 (2): 304--17. #link("https://doi.org/10.1007/s12010-015-1743-7");.
 
 ] <ref-Alvarez2015>
 #block[
@@ -783,7 +782,7 @@ Ferreira, Marcel. 2025. “tidyspec: Spectroscopy Analysis Using the Tidy Data P
 
 ] <ref-tidyspec>
 #block[
-Franco Cairo, João Paulo L., Fernanda Mandelli, Robson Tramontina, David Cannella, Alessandro Paradisi, Luisa Ciano, Marcel R. Ferreira, et al. 2022. “Oxidative Cleavage of Polysaccharides by a Termite-Derived #emph[Superoxide Dismutase] Boosts the Degradation of Biomass by Glycoside Hydrolases”. #emph[Green Chemistry] 24 (12): 4845–58. #link("https://doi.org/10.1039/d1gc04519a");.
+Franco Cairo, João Paulo L., Fernanda Mandelli, Robson Tramontina, David Cannella, Alessandro Paradisi, Luisa Ciano, Marcel R. Ferreira, et al. 2022. “Oxidative Cleavage of Polysaccharides by a Termite-Derived #emph[Superoxide Dismutase] Boosts the Degradation of Biomass by Glycoside Hydrolases”. #emph[Green Chemistry] 24 (12): 4845--58. #link("https://doi.org/10.1039/d1gc04519a");.
 
 ] <ref-Franco2022>
 ] <refs>
