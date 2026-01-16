@@ -268,27 +268,82 @@ Ao longo de minha trajetória acadêmica, concentrei-me em explorar e aprofundar
 
 ### Rede de colaboração
 
-Willian Fernando Zambuzzi (IBB/UNESP);
+A atuação em pesquisa desenvolvida ao longo da carreira tem sido fortemente sustentada por uma rede de colaborações interinstitucionais e, em alguns casos, internacionais, fundamentais para a consolidação e a ampliação das linhas de investigação. Essas parcerias têm possibilitado a integração de diferentes expertises, o desenvolvimento de projetos multidisciplinares, a coautoria de publicações científicas e a formação de recursos humanos, contribuindo de maneira consistente para a qualidade, o alcance e o impacto da produção científica. A seguir, são listados os principais colaboradores com os quais mantenho ou mantive projetos de pesquisa ativos.
 
-Erick da Cruz Castelli (FMB/UNESP);
+```{=typst}
+#line(length: 50%, stroke: white)
+```
+-   Prof. Dr. Willian Fernando Zambuzzi --- Instituto de Biociências de Botucatu, Universidade Estadual Paulista \"Júlio de Mesquita Filho\" (UNESP);
 
-Celso Teixeira Mendes Junior (FFCLRP/USP);
+```{=html}
+<!-- -->
+```
+-   Prof. Dr. Erick da Cruz Castelli --- Faculdade de Medicina de Botucatu, Universidade Estadual Paulista \"Júlio de Mesquita Filho\" (UNESP);
 
-Silviene Fabiana de Oliveira (IB/UnB);
+```{=html}
+<!-- -->
+```
+-    Prof. Dr. Celso Teixeira Mendes Junior --- Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (USP);
 
-Luis Antonio Justulin Junior (IBB/UNESP);
+```{=html}
+<!-- -->
+```
+-   Prof. Dra. Silviene Fabiana de Oliveira --- Instituto de Biologia, Universidade de Brasília (UnB);
 
-Rodrigo Augusto Foganholi da Silva (UNIP);
+```{=html}
+<!-- -->
+```
+-   Prof. Dr. Luis Antonio Justulin Junior --- Instituto de Biociências de Botucatu, Universidade Estadual Paulista \"Júlio de Mesquita Filho\" (UNESP);
 
-Denise Carletto Andia (UNIP);
+```{=html}
+<!-- -->
+```
+-   Prof. Dr. Rodrigo Augusto Foganholi da Silva --- Universidade Paulista (UNIP);
 
-Lukasz Witek (NYU);
+```{=html}
+<!-- -->
+```
+-   Prof. Dra. Denise Carletto Andia --- Universidade Paulista (UNIP);
 
-Flavia Amadeu de Oliveira (Sanford);
+```{=html}
+<!-- -->
+```
+-   Prof. Dr. Lukasz Witek --- New York University (NYU), Estados Unidos;
 
-Miten Jain (Northeastern University);
+```{=html}
+<!-- -->
+```
+-   Dra. Flavia Amadeu de Oliveira --- Sanford Burnham Prebys Medical Discovery Institute, Estados Unidos;
 
+```{=html}
+<!-- -->
+```
+-   Prof. Dr. Miten Jain --- Northeastern University, Estados Unidos.
+
+```{=typst}
+#line(length: 50%, stroke: white)
+```
 ### Auxílio de Pesquisa
+
+Nesta seção são apresentados os auxílios de pesquisa dos quais participei como pesquisador integrante ou colaborador, em projetos financiados por agências de fomento nacionais e internacionais. Embora não figure como pesquisador responsável, minha atuação nesses projetos envolveu contribuições científicas diretas para o desenvolvimento das atividades de pesquisa, a execução experimental e analítica, a produção de resultados e publicações, bem como a formação de recursos humanos. A participação nesses auxílios foi fundamental para a consolidação das linhas de pesquisa desenvolvidas e para o fortalecimento de colaborações interinstitucionais.
+
+1.  Genômica funcional em tecido epitelial de brasileiros miscigenados utilizando sequenciamento long-read Oxford Nanopore: análiseintegrada da diversidade genética e expressão gênica para a predição da pigmentação da pele e de idade epigenética
+
+    Descrição: Descrição: Edital Universal CNPq. Vigência: 23/11/2023 a 22/11/2026. Processo 408084/2023-5. Auxílio financeiro: R\$207.500,00..
+
+    Situação: Em andamento; Natureza: Pesquisa.
+
+    Alunos envolvidos: Doutorado: (3) .
+
+    Integrantes: Silviene Fabiana de Oliveira - Integrante / Celso Mendes Júnior - Coordenador / Erick da Cruz Castelli - Integrante / Marcel Rodrigues Ferreira - Integrante.
+
+2.  Validação e desenvolvimento de painéis de fenotipagem forense e ancestralidade biogeográfica como ferramenta auxiliar na genética forense, em especial para a busca de pessoas desaparecidas no Brasil
+
+    Descrição: Chamada CNPq/MCTI/FNDCT N 44/2024 - UNIVERSAL (Faixa A). Vigência: 2025 a 2028. Processo 409907/2025-1. Auxílio financeiro: R\$140.000,00..\
+    Situação: Em andamento; Natureza: Pesquisa.\
+    \
+    Integrantes: Celso Teixeira Mendes Junior - Integrante / Aguinaldo Luiz Simões - Integrante / Silviene Fabiana de Oliveira - Coordenador / Thássia Mayra Telles Carratto - Integrante / Ronaldo Carneiro da Silva Junior - Integrante / Marcel Rodrigues Ferreira - Integrante / Bruno Trindade - Integrante / Diana Vilas Boas e Silva - Integrante.\
+    Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
 
 ### Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados, e Trabalhos Completos Publicados em Anais de Congressos
 
@@ -366,7 +421,7 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 
 36. [**Ferreira MR**]{.underline}, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. *Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis*. Cell Biol Int. 2026 Jan;50(1):e70101. doi: [10.1002/cbin.70101](https://www.doi.org/10.1002/cbin.70101). Epub 2025 Nov 13. PMID: 41230788.
 
-37. C. J. C. Fernandes, R. A. Foganholi da Silva, [**M. R. Ferreira**]{.underline}, and W. F. Zambuzzi, \"*Venous Endothelial Cells Promote Osteoblast Differentiation More Effectively Than Arterial Cells via TGF-β/BMP9 and Notch Pathway-Related Gene Expression*,\" *Cell Biochemistry and Function* 44 (2026): 1-14. <https://doi.org/10.1002/cbf.70160>.
+37. C. J. C. Fernandes, R. A. Foganholi da Silva, [**M. R. Ferreira**]{.underline}, and W. F. Zambuzzi, "*Venous Endothelial Cells Promote Osteoblast Differentiation More Effectively Than Arterial Cells via TGF-β/BMP9 and Notch Pathway-Related Gene Expression*," *Cell Biochemistry and Function* 44 (2026): 1-14. <https://doi.org/10.1002/cbf.70160>.
 
 [^5]: Houve um erro na submissão, resultando na inversão dos sobrenomes. Portanto, o nome correto é Marcel Rodrigues Ferreira. Caso queira confirmar a veracidade desse artigo, o professor Dr. Willian Zambuzzi ([w.zambuzzi\@unesp.br](mailto:w.zambuzzi@unesp.br)) pode ser consultado.
 
