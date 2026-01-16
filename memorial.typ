@@ -294,7 +294,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-01-15],
+  date: [2026-01-16],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -620,11 +620,13 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 
 + #underline[#strong[Ferreira MR];];, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. #emph[Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis];. Cell Biol Int. 2026 Jan;50(1):e70101. doi: #link("https://www.doi.org/10.1002/cbin.70101")[10.1002/cbin.70101];. Epub 2025 Nov 13. PMID: 41230788.
 
++ C. J. C. Fernandes,~R. A. Foganholi da Silva,~#underline[#strong[\M. R. Ferreira];];, and~W. F. Zambuzzi, \"#emph[Venous Endothelial Cells Promote Osteoblast Differentiation More Effectively Than Arterial Cells via TGF-β/BMP9 and Notch Pathway-Related Gene Expression];,\"~#emph[Cell Biochemistry and Function];~44~(2026):~1-14.~#link("https://doi.org/10.1002/cbf.70160");.
+
 == Análise Estatística das Publicações
 <análise-estatística-das-publicações>
-+ Número de publicações: 36.
++ Número de publicações: 37.
 
-+ Número de artigos completos em periódicos: 35.
++ Número de artigos completos em periódicos: 36.
 
 + Número de citações: 632 (Google Scholar), 540 (ResearchGate), 502 (Scopus), 479 (ResearcherID).
 

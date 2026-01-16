@@ -366,13 +366,15 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 
 36. [**Ferreira MR**]{.underline}, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. *Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis*. Cell Biol Int. 2026 Jan;50(1):e70101. doi: [10.1002/cbin.70101](https://www.doi.org/10.1002/cbin.70101). Epub 2025 Nov 13. PMID: 41230788.
 
+37. C. J. C. Fernandes, R. A. Foganholi da Silva, [**M. R. Ferreira**]{.underline}, and W. F. Zambuzzi, \"*Venous Endothelial Cells Promote Osteoblast Differentiation More Effectively Than Arterial Cells via TGF-β/BMP9 and Notch Pathway-Related Gene Expression*,\" *Cell Biochemistry and Function* 44 (2026): 1-14. <https://doi.org/10.1002/cbf.70160>.
+
 [^5]: Houve um erro na submissão, resultando na inversão dos sobrenomes. Portanto, o nome correto é Marcel Rodrigues Ferreira. Caso queira confirmar a veracidade desse artigo, o professor Dr. Willian Zambuzzi ([w.zambuzzi\@unesp.br](mailto:w.zambuzzi@unesp.br)) pode ser consultado.
 
 ### Análise Estatística das Publicações
 
-1.  Número de publicações: 36.
+1.  Número de publicações: 37.
 
-2.  Número de artigos completos em periódicos: 35.
+2.  Número de artigos completos em periódicos: 36.
 
 3.  Número de citações: 632 (Google Scholar), 540 (ResearchGate), 502 (Scopus), 479 (ResearcherID).
 
@@ -481,7 +483,6 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 ```{=typst}
 #pagebreak()
 ```
-
 ## Atividades Administrativas {#sec-8}
 
 ```{=typst}
