@@ -294,7 +294,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-01-16],
+  date: [2026-01-18],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -443,6 +443,14 @@ Tive a oportunidade de cursar diversas disciplinas durante os 4 anos de curso de
 <mestrado-20152017>
 No último ano de graduação tive a oportunidade de assistir uma palestra do #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi] sobre a utilização de mecanismos de transdução de sinais intracelulares com fator para a predição para o desenvolvimento de biomateriais. Fiquei impactado com essa perspectiva e quando ao final de sua apresentação ele declarou que procurava alunos de pósgraduação para orientar no #link("https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/biotecnologia/")[PPG de Biotecnologia] que teria suas primeiras turmas de mestrado e doutorado não hesitei em enviar um e-mail sobre a possibilidade de fazer mestrado sob sua orientação. Fiz parte da primeira geração de pós-graduandos no recém fundado Laboratório de Bioensaios e Dinâmica celular no departamento de Química e Bioquímica, e pude acompanhar, e trabalhar para a consolidação dela como um grupo de excelência em pesquisa. Meu projeto de mestrado visava utilizar mecanismos de transdução de sinais de células cultivadas diretamente sobre superfícies de biomateriais. Para isso, utilizamos o método de avaliação do quinoma por meio de microarranjo de peptídeos (PamChip®). Tive o privilégio de ter meu projeto financiado pela FAPESP (2015/03639-8) e vivi um período de muito aprendizado durante sua execução.
 
+Durante a execução do projeto de mestrado, adquiri uma formação sólida em técnicas de cultivo celular, incluindo manutenção, expansão e experimentação com diferentes linhagens celulares, bem como a padronização de ensaios #emph[in vitro] aplicados à avaliação da interação célula--biomaterial. Nesse contexto, tive contato e treinamento em técnicas laboratoriais amplamente utilizadas em pesquisa biomédica, como Western blotting para análise de proteínas e vias de sinalização, microscopia eletrônica de varredura (MEV) associada à espectroscopia de energia dispersiva de raios X (EDX) para caracterização de superfícies de biomateriais e de células em adesão, além de ensaios de citotoxicidade baseados em MTT, cristal violeta e vermelho neutro. Esse período foi fundamental para o desenvolvimento de uma compreensão aprofundada dos mecanismos de sinalização celular, com ênfase em vias reguladas por quinases e fosfatases, possibilitando a interpretação crítica das respostas celulares diante de diferentes superfícies e estímulos físico-químicos.
+
+Paralelamente, o projeto demandou o tratamento e a análise de grandes volumes de dados oriundos de experimentos de alto rendimento, o que motivou meu primeiro contato sistemático com a programação em linguagem R. Nesse contexto, desenvolvi habilidades em bioestatística e análise de dados, aplicando métodos estatísticos apropriados à interpretação dos resultados experimentais e à visualização gráfica das informações obtidas. Esses aprendizados foram decisivos para a consolidação de uma abordagem quantitativa e integrada da pesquisa científica, influenciando de maneira permanente minha formação como pesquisador e servindo de base para as atividades desenvolvidas em etapas posteriores da carreira acadêmica.
+
+Foi também durante o mestrado que despertei um interesse consistente pelo desenvolvimento e pela aplicação de métodos alternativos ao uso de animais em pesquisa, especialmente no contexto da avaliação de biomateriais médico-odontológicos. A utilização de modelos celulares e abordagens baseadas em mecanismos de sinalização intracelular mostrou-se uma estratégia robusta, ética e cientificamente informativa, direcionando de forma permanente minhas linhas de investigação posteriores.
+
+Como resultado desse período de formação, o trabalho desenvolvido deu origem a um artigo científico diretamente relacionado à dissertação de mestrado (Marcel Rodrigues Ferreira et al. 2020), além de duas publicações adicionais, de caráter paralelo, construídas a partir de colaborações estabelecidas durante o projeto, com divisão de autoria entre os pesquisadores envolvidos Fernandes et al. (2018).
+
 #line(length: 50%, stroke: white)
 #strong[Instituição:] Universidade Estadual Paulista, Insituto de Biociências de Botucatu.
 
@@ -465,6 +473,16 @@ No último ano de graduação tive a oportunidade de assistir uma palestra do #l
 Ao final do mestrado, eu percebia que, por mais que as premissas de nosso trabalho fossem importantes, havia claras limitações nas metodologias propostas. A primeira foi o uso de uma tecnologia fechada, como a PamChip®, exclusiva da empresa PamGene. Este fato, somado a empresa não ter atuação no Brasil, diminuía o potencial de escalabilidade da tecnologia por nós proposta.
 
 Embora a avaliação da atividade de quinases possua um elevado valor no entendimento do fluxo de informação biológica, hoje tenho o entendimento que o uso de métodos baseados em transcriptoma, são uma solução melhor para nossa proposta uma vez que são métodos amplamente difundidos na comunidade científica. A segunda limitação se dava na falta de conhecimento em métodos de análise físico-química das superfícies dos biomateriais. Esta segunda limitação me fez propor um projeto de doutorado que envolvesse mais métodos de síntese e caracterização de biomateriais, no caso fosfatos de cálcio. Meu orientador concordou e sugeriu que buscássemos trabalhar com a modificação destas superfícies com fatores de crescimento através do uso de plasma-rico em plaquetas (PRP).
+
+Ao longo do doutorado, aprofundei e ampliei significativamente minha formação metodológica e conceitual, incorporando abordagens experimentais e analíticas que supriram limitações identificadas ao final do mestrado. Um dos avanços centrais desse período foi a incorporação de métodos baseados em transcriptômica, incluindo análise de miRNAs, aprendizado adquirido em um curso de verão realizado na Universidade de São Paulo, campus de Ribeirão Preto. Paralelamente, desenvolvi competências no processamento de plasma rico em plaquetas (PRP) e na síntese de diferentes fosfatos de cálcio, como hidroxiapatita, monetita e fosfato tricálcico (TCP), bem como na caracterização desses biomateriais por técnicas físico-químicas consolidadas, incluindo FTIR, difração de raios X (DRX), análise termogravimétrica (TGA) e ICP-MS. Também aprofundei o uso de métodos de análise de expressão gênica relativa, fortalecendo a integração entre dados moleculares e propriedades dos biomateriais. Ao longo desse período, busquei continuamente a qualificação em análise de dados, tendo realizado mais de vinte cursos de curta duração em programação e análise estatística utilizando as linguagens R e Python, o que contribuiu de forma decisiva para minha autonomia analítica e capacidade de lidar com dados complexos.
+
+A trajetória do doutorado, no entanto, não se deu sem desafios. Ao optar por permanecer em um programa de pós-graduação em estágio de consolidação, enfrentei inicialmente a ausência de bolsas de fomento, o que me levou a atuar como professor particular de matemática e física em Botucatu durante todo o ano de 2017 e início de 2018. Essa condição impactou o ritmo inicial do projeto, situação que começou a ser revertida com a aprovação da minha bolsa FAPESP em julho de 2018. Após um período de reorganização e normalização do cronograma experimental, um novo e inesperado desafio se impôs com a pandemia de COVID-19. O fechamento repentino do laboratório, aliado às restrições sanitárias, resultou em perdas experimentais significativas, incluindo experimentos de longa duração e grupos experimentais comprometidos por falhas em equipamentos, não prontamente detectadas devido à ausência de pessoal no laboratório. Apesar dos impactos científicos e emocionais desse período, considero que essa adversidade contribuiu para meu amadurecimento acadêmico, exigindo adaptações no projeto e na estrutura da tese, além de resiliência e capacidade de replanejamento.
+
+Entre as principais conquistas do doutorado, destaco a aprovação da bolsa FAPESP, cuja avaliação foi fortemente impactada pela perspectiva de realização de um estágio de pesquisa no exterior (BEPE), previamente alinhado com o Prof.~Dr.~Paulo G. Coelho, da New York University (NYU). No contexto dessa colaboração, o Prof.~Dr.~Lukasz Witek, então colaborador do Prof.~Paulo, esteve em Botucatu em 2018 para ministrar treinamento e disciplina, fortalecendo a interação entre os grupos. Posteriormente, considerando sua transição institucional, o Prof.~Paulo sugeriu que o Prof.~Dr.~Lukasz Witek assumisse a supervisão do estágio BEPE. Assim, entre 01/04/2022 e 31/12/2022, realizei estágio no Departamento de Patobiologia Molecular da Faculdade de Odontologia da NYU, sob supervisão do Prof.~Dr.~Lukasz Witek. Nesse período, tive contato com métodos avançados de análise in vitro de biomateriais ósseos, desenvolvimento de tintas para impressão 3D voltadas à regeneração óssea, técnicas de reologia, além de atuar na coordenação dos experimentos de cultura celular do laboratório. Essa experiência resultou em uma publicação científica direta com o grupo anfitrião e proporcionou uma vivência intensa em um ambiente internacional de excelência em pesquisa.
+
+Ao longo do doutorado, publiquei diversos trabalhos científicos, tanto como primeiro autor quanto como colaborador. Dentre eles, destaco o artigo "#emph[Platelet microparticles load a repertory of miRNAs programmed to drive osteogenic phenotype];" (Marcel Rodrigues Ferreira e Zambuzzi 2021), que compôs um dos capítulos da minha tese; o trabalho "#emph[GSVA score reveals molecular signatures from transcriptomes for biomaterials comparison];" (Marcel R. Ferreira et al. 2020), inicialmente concebido como um projeto paralelo e que se tornou o artigo com maior número de citações da minha produção; e o artigo "#emph[Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis];" (Marcel Rodrigues Ferreira et al. 2025), publicado em 2026, que representa o principal produto científico do doutorado.
+
+Adicionalmente, esse período marcou o início da minha consolidação como pesquisador independente, com o estabelecimento de novas colaborações, incluindo parcerias com o Prof.~Dr.~Rodrigo Cardoso de Oliveira (USP Bauru) e com os Profs. Rodrigo Augusto Foganholi da Silva e Denise Carletto Andia (Universidade Paulista). Tive também a oportunidade de coorientar alunos de iniciação científica em conjunto com o Prof.~Dr.~Willian Fernando Zambuzzi, participando ativamente da formação de Guilherme Gazolla Santana (FAPESP 2019/09943-1), Júlia Ferreira de Moraes (FAPESP 2022/14363-7) e Matheus Amaral Silva, experiência fundamental para o desenvolvimento da minha identidade como orientador e mentor acadêmico.
 
 #line(length: 50%, stroke: white)
 #strong[Instituição:] Universidade Estadual Paulista, Insituto de Biociências de Botucatu.
@@ -525,15 +543,15 @@ Ao longo de minha trajetória acadêmica, concentrei-me em explorar e aprofundar
 A atuação em pesquisa desenvolvida ao longo da carreira tem sido fortemente sustentada por uma rede de colaborações interinstitucionais e, em alguns casos, internacionais, fundamentais para a consolidação e a ampliação das linhas de investigação. Essas parcerias têm possibilitado a integração de diferentes expertises, o desenvolvimento de projetos multidisciplinares, a coautoria de publicações científicas e a formação de recursos humanos, contribuindo de maneira consistente para a qualidade, o alcance e o impacto da produção científica. A seguir, são listados os principais colaboradores com os quais mantenho ou mantive projetos de pesquisa ativos.
 
 #line(length: 50%, stroke: white)
-- Prof.~Dr.~Willian Fernando Zambuzzi --- Instituto de Biociências de Botucatu, Universidade Estadual Paulista \"Júlio de Mesquita Filho\" (UNESP);
+- Prof.~Dr.~Willian Fernando Zambuzzi --- Instituto de Biociências de Botucatu, Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP);
 
-- Prof.~Dr.~Erick da Cruz Castelli --- Faculdade de Medicina de Botucatu, Universidade Estadual Paulista \"Júlio de Mesquita Filho\" (UNESP);
+- Prof.~Dr.~Erick da Cruz Castelli --- Faculdade de Medicina de Botucatu, Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP);
 
 - Prof.~Dr.~Celso Teixeira Mendes Junior --- Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (USP);
 
 - Prof.~Dra. Silviene Fabiana de Oliveira --- Instituto de Biologia, Universidade de Brasília (UnB);
 
-- Prof.~Dr.~Luis Antonio Justulin Junior --- Instituto de Biociências de Botucatu, Universidade Estadual Paulista \"Júlio de Mesquita Filho\" (UNESP);
+- Prof.~Dr.~Luis Antonio Justulin Junior --- Instituto de Biociências de Botucatu, Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP);
 
 - Prof.~Dr.~Rodrigo Augusto Foganholi da Silva --- Universidade Paulista (UNIP);
 
@@ -666,7 +684,7 @@ Nesse contexto, desenvolvi e registrei o software #strong[OsteoCLUST] -- Aplicat
 
 Anteriormente, participei do desenvolvimento e registro do software #strong[previewDeconv] -- um aplicativo para pré-visualização de bandas deconvoluídas (Processo nº BR512023000985-7), também com titularidade da UNESP. Esse aplicativo, implementado em C++, R e HTML, foi concebido para auxiliar na análise e interpretação de dados espectrais, contribuindo para a padronização de etapas analíticas em estudos físico-químicos e de biomateriais.
 
-Além dos softwares registrados, sou autor do pacote #strong[tidyspec] (Ferreira 2025), publicado no repositório oficial do #link("https://cran.r-project.org/")[CRAN];#footnote[O CRAN, ou #emph[Comprehensive R Archive Network];, é um repositório online que armazena pacotes de software para a linguagem de programação R. Ele é mantido por uma comunidade global de desenvolvedores e usuários de R, e permite que os usuários acessem e baixem pacotes de software que expandem as funcionalidades básicas do R. O CRAN é essencial para o ecossistema R, pois facilita a distribuição de pacotes e garante que eles sejam de código aberto, documentados e testados.];, voltado à organização, processamento e análise de dados espectrais no ambiente R, seguindo princípios do ecossistema tidyverse. Esse pacote tem sido utilizado tanto em minhas pesquisas quanto em atividades didáticas, contribuindo para a formação de estudantes em análise de dados reprodutível.
+Além dos softwares registrados, sou autor do pacote #strong[tidyspec] (M. Ferreira 2025), publicado no repositório oficial do #link("https://cran.r-project.org/")[CRAN];#footnote[O CRAN, ou #emph[Comprehensive R Archive Network];, é um repositório online que armazena pacotes de software para a linguagem de programação R. Ele é mantido por uma comunidade global de desenvolvedores e usuários de R, e permite que os usuários acessem e baixem pacotes de software que expandem as funcionalidades básicas do R. O CRAN é essencial para o ecossistema R, pois facilita a distribuição de pacotes e garante que eles sejam de código aberto, documentados e testados.];, voltado à organização, processamento e análise de dados espectrais no ambiente R, seguindo princípios do ecossistema tidyverse. Esse pacote tem sido utilizado tanto em minhas pesquisas quanto em atividades didáticas, contribuindo para a formação de estudantes em análise de dados reprodutível.
 
 #line(length: 50%, stroke: white)
 #block[
@@ -758,7 +776,7 @@ Resumo:
 ]
 - Softwares registrados: #emph[previewDeconv] e #emph[OsteoCLUST] ;
 
-- Pacotes de R publicados no CRAN: #emph[tidyspec] (Ferreira 2025);
+- Pacotes de R publicados no CRAN: #emph[tidyspec] (M. Ferreira 2025);
 
 - Softwares sem registros publicados em artigos científicos: #emph[kir-mapper] (Castelli et al. 2025);
 
@@ -800,13 +818,37 @@ Alvarez, Thabata Maria, Marcelo Vizoná Liberato, João Paulo L. Franco Cairo, D
 
 ] <ref-Alvarez2015>
 #block[
+Bezerra, Fabio Fábio, Marcel R. Ferreira, Giselle N. G. N. Fontes, Célio Jr C. J. da Costa Fernandes, D. C. Denise C. Andia, Nilson C. N. C. Cruz, Rodrigo A. R. A. da Silva, et al. 2017. “Nano hydroxyapatite-blasted titanium surface affects pre-osteoblast morphology by modulating critical intracellular pathways”. #emph[Biotechnology and Bioengineering] 114 (8): 1888--98. #link("https://doi.org/10.1002/bit.26310");.
+
+] <ref-bezerra2017>
+#block[
 Castelli, Erick C., Raphaela Neto Pereira, Gabriela Sato Paes, Heloisa S. Andrade, Marcel Rodrigues Ferreira, Ícaro Scalisse de Freitas Santos, Nicolas Vince, Nicholas R. Pollock, Paul J. Norman, e Diogo Meyer. 2025. “Kir-Mapper: A Toolkit for Killer-Cell Immunoglobulin-Like Receptor (KIR) Genotyping From Short-Read Second-Generation Sequencing Data”. #emph[HLA] 105 (3). #link("https://doi.org/10.1111/tan.70092");.
 
 ] <ref-Castelli2025>
 #block[
+Fernandes, Célio J.C., Fábio Bezerra, Marcel R. Ferreira, Amanda F. C. Andrade, Thais Silva Pinto, e Willian F. Zambuzzi. 2018. “Nano Hydroxyapatite-Blasted Titanium Surface Creates a Biointerface Able to Govern Src-Dependent Osteoblast Metabolism as Prerequisite to ECM Remodeling”. #emph[Colloids and Surfaces B: Biointerfaces] 163 (março): 321--28. #link("https://doi.org/10.1016/j.colsurfb.2017.12.049");.
+
+] <ref-Fernandes2018>
+#block[
 Ferreira, Marcel. 2025. “tidyspec: Spectroscopy Analysis Using the Tidy Data Philosophy”. #link("https://CRAN.R-project.org/package=tidyspec");.
 
 ] <ref-tidyspec>
+#block[
+Ferreira, Marcel Rodrigues, Geórgia da Silva Feltran, Anderson Moreira Gomes, José Cavalcante Souza Vieira, Guilherme Gazolla Santana, Matheus Amaral Silva, Emerson Araújo Alves dos Santos, e Willian Fernando Zambuzzi. 2025. “Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis”. #emph[Cell Biology International] 50 (1). #link("https://doi.org/10.1002/cbin.70101");.
+
+] <ref-Ferreira2026>
+#block[
+Ferreira, Marcel Rodrigues, Renato Milani, Elidiane C. Rangel, Maikel Peppelenbosch, e Willian Zambuzzi. 2020. “OsteoBLAST: Computational Routine of Global Molecular Analysis Applied to Biomaterials Development”. #emph[Frontiers in Bioengineering and Biotechnology] 8 (outubro). #link("https://doi.org/10.3389/fbioe.2020.565901");.
+
+] <ref-ferreira2020>
+#block[
+Ferreira, Marcel Rodrigues, e Willian Fernando Zambuzzi. 2021. “Platelet microparticles load a repertory of miRNAs programmed to drive osteogenic phenotype”. #emph[Journal of Biomedical Materials Research Part A] 109 (8): 1502--11. #link("https://doi.org/10.1002/jbm.a.37140");.
+
+] <ref-ferreira2021>
+#block[
+Ferreira, Marcel R., Gerson A. Santos, Carlos A. Biagi, Wilson A. Silva Junior, e Willian F. Zambuzzi. 2020. “GSVA score reveals molecular signatures from transcriptomes for biomaterials comparison”. #emph[Journal of Biomedical Materials Research - Part A] 109 (March): 1--11. #link("https://doi.org/10.1002/jbm.a.37090");.
+
+] <ref-ferreira2020a>
 #block[
 Franco Cairo, João Paulo L., Fernanda Mandelli, Robson Tramontina, David Cannella, Alessandro Paradisi, Luisa Ciano, Marcel R. Ferreira, et al. 2022. “Oxidative Cleavage of Polysaccharides by a Termite-Derived #emph[Superoxide Dismutase] Boosts the Degradation of Biomass by Glycoside Hydrolases”. #emph[Green Chemistry] 24 (12): 4845--58. #link("https://doi.org/10.1039/d1gc04519a");.
 

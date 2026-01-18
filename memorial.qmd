@@ -179,6 +179,14 @@ Tive a oportunidade de cursar diversas disciplinas durante os 4 anos de curso de
 
 No último ano de graduação tive a oportunidade de assistir uma palestra do [Prof. Dr. Willian Fernando Zambuzzi](http://lattes.cnpq.br/9087428606376572) sobre a utilização de mecanismos de transdução de sinais intracelulares com fator para a predição para o desenvolvimento de biomateriais. Fiquei impactado com essa perspectiva e quando ao final de sua apresentação ele declarou que procurava alunos de pósgraduação para orientar no [PPG de Biotecnologia](https://www.ibb.unesp.br/#!/ensino/pos-graduacao/programas-stricto-sensu/biotecnologia/) que teria suas primeiras turmas de mestrado e doutorado não hesitei em enviar um e-mail sobre a possibilidade de fazer mestrado sob sua orientação. Fiz parte da primeira geração de pós-graduandos no recém fundado Laboratório de Bioensaios e Dinâmica celular no departamento de Química e Bioquímica, e pude acompanhar, e trabalhar para a consolidação dela como um grupo de excelência em pesquisa. Meu projeto de mestrado visava utilizar mecanismos de transdução de sinais de células cultivadas diretamente sobre superfícies de biomateriais. Para isso, utilizamos o método de avaliação do quinoma por meio de microarranjo de peptídeos (PamChip®). Tive o privilégio de ter meu projeto financiado pela FAPESP (2015/03639-8) e vivi um período de muito aprendizado durante sua execução.
 
+Durante a execução do projeto de mestrado, adquiri uma formação sólida em técnicas de cultivo celular, incluindo manutenção, expansão e experimentação com diferentes linhagens celulares, bem como a padronização de ensaios *in vitro* aplicados à avaliação da interação célula--biomaterial. Nesse contexto, tive contato e treinamento em técnicas laboratoriais amplamente utilizadas em pesquisa biomédica, como Western blotting para análise de proteínas e vias de sinalização, microscopia eletrônica de varredura (MEV) associada à espectroscopia de energia dispersiva de raios X (EDX) para caracterização de superfícies de biomateriais e de células em adesão, além de ensaios de citotoxicidade baseados em MTT, cristal violeta e vermelho neutro. Esse período foi fundamental para o desenvolvimento de uma compreensão aprofundada dos mecanismos de sinalização celular, com ênfase em vias reguladas por quinases e fosfatases, possibilitando a interpretação crítica das respostas celulares diante de diferentes superfícies e estímulos físico-químicos.
+
+Paralelamente, o projeto demandou o tratamento e a análise de grandes volumes de dados oriundos de experimentos de alto rendimento, o que motivou meu primeiro contato sistemático com a programação em linguagem R. Nesse contexto, desenvolvi habilidades em bioestatística e análise de dados, aplicando métodos estatísticos apropriados à interpretação dos resultados experimentais e à visualização gráfica das informações obtidas. Esses aprendizados foram decisivos para a consolidação de uma abordagem quantitativa e integrada da pesquisa científica, influenciando de maneira permanente minha formação como pesquisador e servindo de base para as atividades desenvolvidas em etapas posteriores da carreira acadêmica.
+
+Foi também durante o mestrado que despertei um interesse consistente pelo desenvolvimento e pela aplicação de métodos alternativos ao uso de animais em pesquisa, especialmente no contexto da avaliação de biomateriais médico-odontológicos. A utilização de modelos celulares e abordagens baseadas em mecanismos de sinalização intracelular mostrou-se uma estratégia robusta, ética e cientificamente informativa, direcionando de forma permanente minhas linhas de investigação posteriores.
+
+Como resultado desse período de formação, o trabalho desenvolvido deu origem a um artigo científico diretamente relacionado à dissertação de mestrado [@ferreira2020], além de duas publicações adicionais, de caráter paralelo, construídas a partir de colaborações estabelecidas durante o projeto, com divisão de autoria entre os pesquisadores envolvidos [@bezerra2017, @Fernandes2018].
+
 ```{=typst}
 #line(length: 50%, stroke: white)
 ```
@@ -203,6 +211,16 @@ No último ano de graduação tive a oportunidade de assistir uma palestra do [P
 Ao final do mestrado, eu percebia que, por mais que as premissas de nosso trabalho fossem importantes, havia claras limitações nas metodologias propostas. A primeira foi o uso de uma tecnologia fechada, como a PamChip®, exclusiva da empresa PamGene. Este fato, somado a empresa não ter atuação no Brasil, diminuía o potencial de escalabilidade da tecnologia por nós proposta.
 
 Embora a avaliação da atividade de quinases possua um elevado valor no entendimento do fluxo de informação biológica, hoje tenho o entendimento que o uso de métodos baseados em transcriptoma, são uma solução melhor para nossa proposta uma vez que são métodos amplamente difundidos na comunidade científica. A segunda limitação se dava na falta de conhecimento em métodos de análise físico-química das superfícies dos biomateriais. Esta segunda limitação me fez propor um projeto de doutorado que envolvesse mais métodos de síntese e caracterização de biomateriais, no caso fosfatos de cálcio. Meu orientador concordou e sugeriu que buscássemos trabalhar com a modificação destas superfícies com fatores de crescimento através do uso de plasma-rico em plaquetas (PRP).
+
+Ao longo do doutorado, aprofundei e ampliei significativamente minha formação metodológica e conceitual, incorporando abordagens experimentais e analíticas que supriram limitações identificadas ao final do mestrado. Um dos avanços centrais desse período foi a incorporação de métodos baseados em transcriptômica, incluindo análise de miRNAs, aprendizado adquirido em um curso de verão realizado na Universidade de São Paulo, campus de Ribeirão Preto. Paralelamente, desenvolvi competências no processamento de plasma rico em plaquetas (PRP) e na síntese de diferentes fosfatos de cálcio, como hidroxiapatita, monetita e fosfato tricálcico (TCP), bem como na caracterização desses biomateriais por técnicas físico-químicas consolidadas, incluindo FTIR, difração de raios X (DRX), análise termogravimétrica (TGA) e ICP-MS. Também aprofundei o uso de métodos de análise de expressão gênica relativa, fortalecendo a integração entre dados moleculares e propriedades dos biomateriais. Ao longo desse período, busquei continuamente a qualificação em análise de dados, tendo realizado mais de vinte cursos de curta duração em programação e análise estatística utilizando as linguagens R e Python, o que contribuiu de forma decisiva para minha autonomia analítica e capacidade de lidar com dados complexos.
+
+A trajetória do doutorado, no entanto, não se deu sem desafios. Ao optar por permanecer em um programa de pós-graduação em estágio de consolidação, enfrentei inicialmente a ausência de bolsas de fomento, o que me levou a atuar como professor particular de matemática e física em Botucatu durante todo o ano de 2017 e início de 2018. Essa condição impactou o ritmo inicial do projeto, situação que começou a ser revertida com a aprovação da minha bolsa FAPESP em julho de 2018. Após um período de reorganização e normalização do cronograma experimental, um novo e inesperado desafio se impôs com a pandemia de COVID-19. O fechamento repentino do laboratório, aliado às restrições sanitárias, resultou em perdas experimentais significativas, incluindo experimentos de longa duração e grupos experimentais comprometidos por falhas em equipamentos, não prontamente detectadas devido à ausência de pessoal no laboratório. Apesar dos impactos científicos e emocionais desse período, considero que essa adversidade contribuiu para meu amadurecimento acadêmico, exigindo adaptações no projeto e na estrutura da tese, além de resiliência e capacidade de replanejamento.
+
+Entre as principais conquistas do doutorado, destaco a aprovação da bolsa FAPESP, cuja avaliação foi fortemente impactada pela perspectiva de realização de um estágio de pesquisa no exterior (BEPE), previamente alinhado com o Prof. Dr. Paulo G. Coelho, da New York University (NYU). No contexto dessa colaboração, o Prof. Dr. Lukasz Witek, então colaborador do Prof. Paulo, esteve em Botucatu em 2018 para ministrar treinamento e disciplina, fortalecendo a interação entre os grupos. Posteriormente, considerando sua transição institucional, o Prof. Paulo sugeriu que o Prof. Dr. Lukasz Witek assumisse a supervisão do estágio BEPE. Assim, entre 01/04/2022 e 31/12/2022, realizei estágio no Departamento de Patobiologia Molecular da Faculdade de Odontologia da NYU, sob supervisão do Prof. Dr. Lukasz Witek. Nesse período, tive contato com métodos avançados de análise in vitro de biomateriais ósseos, desenvolvimento de tintas para impressão 3D voltadas à regeneração óssea, técnicas de reologia, além de atuar na coordenação dos experimentos de cultura celular do laboratório. Essa experiência resultou em uma publicação científica direta com o grupo anfitrião e proporcionou uma vivência intensa em um ambiente internacional de excelência em pesquisa.
+
+Ao longo do doutorado, publiquei diversos trabalhos científicos, tanto como primeiro autor quanto como colaborador. Dentre eles, destaco o artigo "*Platelet microparticles load a repertory of miRNAs programmed to drive osteogenic phenotype*" [@ferreira2021], que compôs um dos capítulos da minha tese; o trabalho "*GSVA score reveals molecular signatures from transcriptomes for biomaterials comparison*" [@ferreira2020a], inicialmente concebido como um projeto paralelo e que se tornou o artigo com maior número de citações da minha produção; e o artigo "*Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis*" [@Ferreira2026], publicado em 2026, que representa o principal produto científico do doutorado.
+
+Adicionalmente, esse período marcou o início da minha consolidação como pesquisador independente, com o estabelecimento de novas colaborações, incluindo parcerias com o Prof. Dr. Rodrigo Cardoso de Oliveira (USP Bauru) e com os Profs. Rodrigo Augusto Foganholi da Silva e Denise Carletto Andia (Universidade Paulista). Tive também a oportunidade de coorientar alunos de iniciação científica em conjunto com o Prof. Dr. Willian Fernando Zambuzzi, participando ativamente da formação de Guilherme Gazolla Santana (FAPESP 2019/09943-1), Júlia Ferreira de Moraes (FAPESP 2022/14363-7) e Matheus Amaral Silva, experiência fundamental para o desenvolvimento da minha identidade como orientador e mentor acadêmico.
 
 ```{=typst}
 #line(length: 50%, stroke: white)
@@ -273,51 +291,42 @@ A atuação em pesquisa desenvolvida ao longo da carreira tem sido fortemente su
 ```{=typst}
 #line(length: 50%, stroke: white)
 ```
--   Prof. Dr. Willian Fernando Zambuzzi --- Instituto de Biociências de Botucatu, Universidade Estadual Paulista \"Júlio de Mesquita Filho\" (UNESP);
+-   Prof. Dr. Willian Fernando Zambuzzi --- Instituto de Biociências de Botucatu, Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP);
 
-```{=html}
 <!-- -->
-```
--   Prof. Dr. Erick da Cruz Castelli --- Faculdade de Medicina de Botucatu, Universidade Estadual Paulista \"Júlio de Mesquita Filho\" (UNESP);
 
-```{=html}
-<!-- -->
-```
--    Prof. Dr. Celso Teixeira Mendes Junior --- Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (USP);
+-   Prof. Dr. Erick da Cruz Castelli --- Faculdade de Medicina de Botucatu, Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP);
 
-```{=html}
 <!-- -->
-```
+
+-   Prof. Dr. Celso Teixeira Mendes Junior --- Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (USP);
+
+<!-- -->
+
 -   Prof. Dra. Silviene Fabiana de Oliveira --- Instituto de Biologia, Universidade de Brasília (UnB);
 
-```{=html}
 <!-- -->
-```
--   Prof. Dr. Luis Antonio Justulin Junior --- Instituto de Biociências de Botucatu, Universidade Estadual Paulista \"Júlio de Mesquita Filho\" (UNESP);
 
-```{=html}
+-   Prof. Dr. Luis Antonio Justulin Junior --- Instituto de Biociências de Botucatu, Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP);
+
 <!-- -->
-```
+
 -   Prof. Dr. Rodrigo Augusto Foganholi da Silva --- Universidade Paulista (UNIP);
 
-```{=html}
 <!-- -->
-```
+
 -   Prof. Dra. Denise Carletto Andia --- Universidade Paulista (UNIP);
 
-```{=html}
 <!-- -->
-```
+
 -   Prof. Dr. Lukasz Witek --- New York University (NYU), Estados Unidos;
 
-```{=html}
 <!-- -->
-```
+
 -   Dra. Flavia Amadeu de Oliveira --- Sanford Burnham Prebys Medical Discovery Institute, Estados Unidos;
 
-```{=html}
 <!-- -->
-```
+
 -   Prof. Dr. Miten Jain --- Northeastern University, Estados Unidos.
 
 ```{=typst}
