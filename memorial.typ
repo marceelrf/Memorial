@@ -294,7 +294,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-01-18],
+  date: [2026-01-19],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -508,9 +508,19 @@ Adicionalmente, esse período marcou o início da minha consolidação como pesq
 <sec-4>
 == Pós-doutorados: 2023-Presente
 <pós-doutorados-2023-presente>
+Ao final do meu doutorado, eu percebi que para pôr em prática este projeto, eu precisava de uma maior base de programação para poder desenvolver esses métodos de análise. A implementação de modelos de machine learning me parecia algo fundamental para o sucesso desta proposta. Foi neste momento que vi a possibilidade de uma bolsa de pós-doutorado em um projeto sob supervisão do Dr.~Erick da Cruz Castelli, o qual eu já acompanhava a anos como um grande pesquisador na área de bioinformática, com uma habilidade excepcional de desenvolvimento de programas. Desde maio de 2023 venho trabalhando em seu grupo em diversos projetos que ampliaram meu conhecimento na área de ciências ômicas, especialmente genômica, epigenômica e transcriptômica, além de um maior entendimento de ferramentas de programação como Linux, containers docker, ambientes conda, programação em nuvem, além de ter a oportunidade de atuar em projetos de machine learning. Considerando toda essa trajetória eu meu considero apto para coordenar este importante projeto. \
+
 #pagebreak()
 = Atividades Didáticas e Formação de Recursos Humanos
 <sec-5>
+== Atividades de Monitoria
+<atividades-de-monitoria>
+== Disciplinas Ministradas
+<disciplinas-ministradas>
+== Orientações em Nível de Graduação
+<orientações-em-nível-de-graduação>
+== Orientações em Nível de Pós-graduação
+<orientações-em-nível-de-pós-graduação>
 #pagebreak()
 = Atividades de Pesquisa
 <sec-6>
