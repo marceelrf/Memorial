@@ -819,7 +819,29 @@ Resumo:
 <sec-7>
 == Participação em Bancas Examinadoras e Julgadoras
 <participação-em-bancas-examinadoras-e-julgadoras>
-ddd
+Sempre que solicitado, tenho participado na composição de bancas examinadoras de trabalho de conclusão de curso, qualificações de mestrado e doutorado, defesas de mestrado e doutorado, etc. Abaixo, estão listadas as participações em bancas examinadoras como membro titular das comissões:
+
++ #strong[06-02-2023] Membro da Banca Examinadora do TRABALHO DE CONCLUSÃO DE CURSO de MARIA GABRIELA JACHETO CARRA, discente do curso de Física Médica, Bacharelado;
+
++ #strong[09-03-2023] Membro da Banca Examinadora do TRABALHO DE CONCLUSÃO DE CURSO de ALLINE REGONATTI ARAUJO, discente do curso de Física Médica, Bacharelado;
+
++ #strong[30-08-2023] Membro da Comissão Examinadora da DEFESA DE TESE de ANDERSON MOREIRA GOMES, discente regular do Programa de Pós-Graduação em Biotecnologia, Curso de Doutorado;
+
++ #strong[31-10-2023] Membro da Banca Examinadora do TRABALHO DE CONCLUSÃO DE CURSO de CARLA CRISTINA ALBERTINI, discente do curso de Engenharia de Bioprocessos e Biotecnologia, Bacharelado;
+
++ #strong[31-10-2023] Membro da Banca Examinadora do TRABALHO DE CONCLUSÃO DE CURSO de PAULA BERTIN DE MORAIS, discente do curso de Engenharia de Bioprocessos e Biotecnologia, Bacharelado;
+
++ #strong[08-12-2023] Membro da Banca Examinadora do TRABALHO DE CONCLUSÃO DE CURSO de JÚLIA BUCCI, discente do curso de Física Médica, Bacharelado;
+
++ #strong[04-07-2024] Membro da Banca Examinadora do TRABALHO DE CONCLUSÃO DE CURSO de THAMIRES PRAZERES BARBOZA, discente do curso de Engenharia de Bioprocessos e Biotecnologia, Bacharelado;
+
++ #strong[30-10-2024] Membro da Banca Examinadora do TRABALHO DE CONCLUSÃO DE CURSO de CARLOS HENRIQUE SILVA SIMÕES, discente do curso de Engenharia de Bioprocessos e Biotecnologia, Bacharelado;
+
++ #strong[27-02-2025] Membro da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de RENATO MATTOS, discente regular do Programa de Pós-Graduação em Biologia Geral e Aplicada, Curso de Mestrado Acadêmico;
+
++ #strong[30-09-2025] Membro da Comissão Examinadora do Exame de QUALIFICAÇÃO de GABRIEL HENRIQUE CAXALI, discente regular do Programa de Pós-Graduação em Ciências Biológicas (Genética), Curso de Doutorado;
+
++ #strong[08-01-2026] Membro da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de LUISA ANNIBAL BARATA, discente regular do Programa de Pós-Graduação em Biologia Geral e Aplicada, Curso de Mestrado Acadêmico;
 
 == Cursos, Seminários e Palestras Ministradas
 <cursos-seminários-e-palestras-ministradas>
