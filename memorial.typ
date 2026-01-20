@@ -294,7 +294,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-01-19],
+  date: [2026-01-20],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -515,12 +515,36 @@ Ao final do meu doutorado, eu percebi que para pôr em prática este projeto, eu
 <sec-5>
 == Atividades de Monitoria
 <atividades-de-monitoria>
++ Monitor na disciplina de Física III do Curso de Física Médica (Ano #strong[2013];; Carga horária: 2). Responsável: #link("http://lattes.cnpq.br/8949540199759267")[Prof.~Dr.~Joel Mesa Hormaza];;
++ Monitor na disciplina de Fundamentos da Física do Curso de Ciências Biomédicas (Ano #strong[2013];; Carga horária: 1). Responsável: #link("http://lattes.cnpq.br/3740074012748153")[Proj. Dr.~Jose Luiz Rybarczyk Filho];;
+
 == Disciplinas Ministradas
 <disciplinas-ministradas>
+=== Disciplinas de pós-graduação
+<disciplinas-de-pós-graduação>
++ #strong[GEN001631] - Sequenciamento de Terceira Geração com Oxford Nanopore: Princípios e Aplicações em Bioinformática (Carga horária #underline[#strong[30 horas];];).
++ #strong[GEN001641] - Desenvolvimento de pacotes e aplicativos biológicos com R (Carga horária #underline[#strong[30 horas];];).
+
 == Orientações em Nível de Graduação
 <orientações-em-nível-de-graduação>
++ #link("http://lattes.cnpq.br/0088184184301073")[#strong[Juliana Azevedo Amaral];];. "#emph[Desenvolvimento de um Aplicativo para Gestão Integrada de Dados de Bioinformática em Análises Forenses];". Início: 2025. Fim: #strong[EM ANDAMENTO];. Iniciação científica (Graduando em Ciências Biomédicas);
+
+== Coorientações em Nível de Graduação
+<coorientações-em-nível-de-graduação>
++ #link("http://lattes.cnpq.br/7752316236611770")[#strong[Guilherme Gazolla Santana];];. Trabalho de conclusão de curso "#emph[Assinaturas moleculares do transcriptoma de células tronco mesenquimais do tecido adiposo em diferenciação: um olhar especial para a inflamação];" \[#link("https://repositorio.unesp.br/entities/publication/dc22dfd9-290c-4a29-94fa-31fca0da4d67")[link];\]. Início: 2019. Fim: 2023. Iniciação científica (Bacharel em Física Médica). FAPESP: 2019/09943-1. Orientador: #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi];;
++ #link("http://lattes.cnpq.br/4834833217154689")[#strong[Júlia Ferreira de Moraes];];. Trabalho de conclusão de curso "#emph[Construção e caracterização de um modelo de scaffolds ósseo á base de hidrogéis];" \[#link("https://repositorio.unesp.br/entities/publication/dbd6d766-312d-4a2c-8b90-347ca5023904")[link];\]. Início: 2021. Fim: 2023. Iniciação científica (Bacharel em Física Médica). FAPESP: 2022/14363-7. Orientador: #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi];;
++ #link("http://lattes.cnpq.br/0212300912963206")[#strong[Matheus Amaral Silva];];. Trabalho de conclusão de curso "#emph[OsteoCLUST: clusterização da resposta à biomateriais ósseos];" \[#link("https://repositorio.unesp.br/entities/publication/53dcc731-3e00-4626-acd9-0ae1d45bb8b7")[link];\]. Início: 2022. Fim: 2023. Iniciação científica (Bacharel em Física Médica). Orientador: #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi];;
++ #strong[Isabela Lorente Kraetzer];. Iniciação científica "#emph[Desenvolvimento de um Aplicativo para Visualização da Predição de Fenótipo e Ancestralidade com Base em Genótipos];". Início: 2025. Fim: #strong[EM ANDAMENTO];. Orientador: Prof.~Dr.~Erick da Cruz Castelli;
+
 == Orientações em Nível de Pós-graduação
 <orientações-em-nível-de-pós-graduação>
+Até o momento não existem orientações a serem reportadas.
+
+== Coorientações em Nível de Pós-graduação
+<coorientações-em-nível-de-pós-graduação>
++ #link("http://lattes.cnpq.br/0212300912963206")[#strong[Matheus Amaral Silva];];. "#emph[OsteoCLUST: framework para clusterização da resposta de biomateriais ósseos];" \[#link("https://repositorio.unesp.br/entities/publication/7f5dbc9f-d610-4ed2-bb56-ce3d92f40cb7")[link];\]. Início: 2023. Fim: 2025. Mestrado em Biotecnologia (IBB/UNESP). Orientador: #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi];;
++ #link("http://lattes.cnpq.br/4834833217154689")[#strong[Júlia Ferreira de Moraes];];. "#emph[Construção de unidades biomiméticas à partir de plasma rico em plaquetas associado ao fluído caótico utilizando misturadores estáticos: perspectivas de novos processos biotecnológicos para regeneração do tecido ósseo.];". Início: 2024. Fim: #strong[EM ANDAMENTO];. Mestrado em Biotecnologia (IBB/UNESP). FAPESP: 2023/14547-3. Orientador: #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi];;
+
 #pagebreak()
 = Atividades de Pesquisa
 <sec-6>
@@ -807,6 +831,18 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 <organização-de-eventos>
 == Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais
 <assessor-ad-hoc-agências-de-fomento-instituições-acadêmicas-e-avaliação-de-artigos-para-periódicos-nacionais-e-internacionais>
++ European Journal of Medical Research - Desde 2025 (01 parecer);
+
++ Cell Biology and Toxicology - Desde 2024 (02 pareceres);
+
++ Scientific Reports - Desde 2024 (02 pareceres);
+
++ Life Sciences - Desde 2023 (01 parecer);
+
++ Frontiers in Bioengineering and Biotechnology - Desde 2023 (01 parecer);
+
++ BMC Molecular and Cell Biology - Desde 2023 (01 parecer);
+
 #pagebreak()
 = Atividades Administrativas
 <sec-8>
