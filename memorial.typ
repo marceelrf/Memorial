@@ -831,6 +831,8 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 <organização-de-eventos>
 == Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais
 <assessor-ad-hoc-agências-de-fomento-instituições-acadêmicas-e-avaliação-de-artigos-para-periódicos-nacionais-e-internacionais>
+#strong[Avaliação de Artigos para Periódicos Nacionais e Internacionais:]
+
 + European Journal of Medical Research - Desde 2025 (01 parecer);
 
 + Cell Biology and Toxicology - Desde 2024 (02 pareceres);
