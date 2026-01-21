@@ -564,6 +564,32 @@ Além dos softwares registrados, sou autor do pacote **tidyspec** [@tidyspec], p
 ```
 ## Atividades de Extensão e Serviços à Comunidade {#sec-7}
 
+As atividades de extensão e os serviços prestados à comunidade constituem um eixo estruturante da minha trajetória acadêmica e profissional, estando presentes de forma contínua desde o início da formação universitária. Ao longo dos anos, tenho participado ativamente de iniciativas voltadas à democratização do acesso ao conhecimento, à formação educacional e científica de estudantes e à interação direta entre a universidade e a sociedade. Destacam-se, nesse contexto, os projetos de extensão relacionados a cursinhos pré-vestibulares e pré-universitários, nos quais atuei majoritariamente como responsável, evidenciando um compromisso duradouro com ações de impacto social e educacional.
+
+Paralelamente, minha atuação em extensão também se manifesta na participação em bancas examinadoras, na organização de eventos científicos e acadêmicos, na oferta de cursos, seminários e palestras, bem como no exercício de atividades de assessoramento e avaliação científica para periódicos nacionais e internacionais. Conjuntamente, essas ações refletem uma compreensão ampliada do papel do docente universitário, que articula ensino, pesquisa e extensão, contribuindo não apenas para a formação acadêmica qualificada, mas também para o fortalecimento do vínculo entre a universidade, a comunidade científica e a sociedade em geral.
+
+### Projetos de extensão
+
+1.  **Cursinho Pré Universitário Atena**
+
+    Situação: Concluído Natureza: Projeto de extensão. Integrantes: Marcel Rodrigues Ferreira (Responsável);
+
+2.  **Cursinho Pré Vestibular do Instituto de Biociências de Botucatu** (2015 - 2017)
+
+    Situação: Concluído Natureza: Projeto de extensão. Integrantes: [**Marcel Rodrigues Ferreira**]{.underline} (Responsável); ; Célio Junior da Costa Fernandes;
+
+3.  **Nucleon JR** (2013 - 2014	)
+
+    Descrição: Empresa junior dos alunos do curso de Física Médica do Instituto de Biociências de Botucatu/UNESP. Situação: Concluído Natureza: Projeto de extensão. Integrantes: [**Marcel Rodrigues Ferreira**]{.underline} (Responsável); ; Fernanda Nascimento Moura;
+
+4.  **Cursinho CAVJ/IB** (2012-2013).
+
+    Situação: Concluído Natureza: Projeto de extensão. Integrantes: [**Marcel Rodrigues Ferreira**]{.underline} (Responsável);
+
+5.  **Cursinho Desafio** (2011-2011).
+
+    Descrição: Cursinho pré vestibular destinado a estudantes de Escolas Públicas. Conta com a coordenação e participação de estudantes dos cursos da Unesp de Botucatu. Situação: Concluído Natureza: Projeto de extensão. Integrantes: [**Marcel Rodrigues Ferreira**]{.underline}; Raíssa Pierre Carvalho (Responsável)
+
 ### Participação em Bancas Examinadoras e Julgadoras
 
 Sempre que solicitado, tenho participado na composição de bancas examinadoras de trabalho de conclusão de curso, qualificações de mestrado e doutorado, defesas de mestrado e doutorado, etc. Abaixo, estão listadas as participações em bancas examinadoras como membro titular das comissões:
@@ -594,9 +620,38 @@ Sempre que solicitado, tenho participado na composição de bancas examinadoras 
 
 Esta seção reúne os cursos, seminários e palestras ministrados ao longo da trajetória acadêmica e profissional, em diferentes contextos institucionais e científicos. As atividades aqui descritas refletem a atuação na difusão do conhecimento, na formação de estudantes e profissionais, bem como na troca de experiências com a comunidade acadêmica e científica, abrangendo ações de caráter didático, técnico e científico, realizadas em âmbito presencial e remoto.
 
-1.  dddd
+**Palestras:**
+
+1.  FERREIRA, MR. *Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades*, **2025**. Evento: XXX; Modalidade: Presencial.
+2.  FERREIRA, M. R. *Bioinformática: Perspectivas para Físicos Médicos*, **2024**. Evento: XXX; Modalidade: Presencial.
+3.  FERREIRA, M. R. *Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA*, **2024**. Evento: XXX; Modalidade: Presencial.
+4.  FERREIRA, MR. *Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática*, **2024**. Evento: XXX; Modalidade: Presencial.
+5.  FERREIRA, MR. *Mesa-redonda: Internacionalização em Biotecnologia*, **2023**. Evento: XXX; Modalidade: Online.
+6.  FERREIRA, MR. *Reanálise de datasets - pipelines e serviços*, **2023**. Evento: XXX; Modalidade: Presencial.
+7.  FERREIRA, MR. *Bioinformática*, **2022**. Evento: XXX; Modalidade: Online.
+8.  FERREIRA, M.R. *Física das radiações*, **2022**. Evento: XXX; Modalidade: Online
+
+**Cursos ministrados:**
+
+1.  [**FERREIRA, M. R.**]{.underline}. *Acelerando sua análise de dados com tidyverse*, **2024**. (Curso de curta duração ministrado)
+
+2.  [**FERREIRA, Marcel Rodrigues**]{.underline}; RECALDE, T. F.; CASTELLI, E. C.; MENDES JUNIOR, C. T. Curso de Difusão - *Bioinformática aplicada à genética forense: análise de dados de sequenciamento de segunda e terceira geração,* **2024**. (Curso de curta duração ministrado)
+
+3.  [**FERREIRA, M. R.**]{.underline}. *Desvendando os Segredos da Visualização de dados: ggplot2 para Iniciantes*, **2024**. (Curso de curta duração ministrado)
+
+4.  [**FERREIRA, M. R**]{.underline}.; MENDES JUNIOR, C. T.; CASTELLI, E. C.; RECALDE, T. F.. *Bioinformática aplicada à genética forense: análise de dados de sequenciamento de segunda e terceira geração*, **2023**. (Curso de curta duração ministrado)
 
 ### Organização de Eventos
+
+1.  FERREIRA, M. R.. III Workbiotech: Workshop da Pós Graduação em Biotecnologia II Symposium on Cellular Dynamics: Building Insights and Breaking Boundaries., 2017. (Organização de evento)
+
+2.  OLIVEIRA NETO, M.; FERREIRA, M. R.. II Workshop de Biotecnologia, 2016.
+
+3.  FERREIRA, M. R.. MINICURSO DE LATEX, 2014.
+
+4.  FERREIRA, M. R.. X CONFIAM - Congresso de Física Aplicada à Medicina, 2014.
+
+5.  FERREIRA, M. R.. ANÁLISE DE DADOS COM PLANILHA ELETRÔNICA, 2013.
 
 ### Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais
 

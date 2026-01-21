@@ -294,7 +294,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-01-20],
+  date: [2026-01-21],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -817,6 +817,32 @@ Resumo:
 #pagebreak()
 = Atividades de Extensão e Serviços à Comunidade
 <sec-7>
+As atividades de extensão e os serviços prestados à comunidade constituem um eixo estruturante da minha trajetória acadêmica e profissional, estando presentes de forma contínua desde o início da formação universitária. Ao longo dos anos, tenho participado ativamente de iniciativas voltadas à democratização do acesso ao conhecimento, à formação educacional e científica de estudantes e à interação direta entre a universidade e a sociedade. Destacam-se, nesse contexto, os projetos de extensão relacionados a cursinhos pré-vestibulares e pré-universitários, nos quais atuei majoritariamente como responsável, evidenciando um compromisso duradouro com ações de impacto social e educacional.
+
+Paralelamente, minha atuação em extensão também se manifesta na participação em bancas examinadoras, na organização de eventos científicos e acadêmicos, na oferta de cursos, seminários e palestras, bem como no exercício de atividades de assessoramento e avaliação científica para periódicos nacionais e internacionais. Conjuntamente, essas ações refletem uma compreensão ampliada do papel do docente universitário, que articula ensino, pesquisa e extensão, contribuindo não apenas para a formação acadêmica qualificada, mas também para o fortalecimento do vínculo entre a universidade, a comunidade científica e a sociedade em geral.
+
+== Projetos de extensão
+<projetos-de-extensão>
++ #strong[Cursinho Pré Universitário Atena]
+
+  Situação: Concluído Natureza: Projeto de extensão. Integrantes: Marcel Rodrigues Ferreira (Responsável);
+
++ #strong[Cursinho Pré Vestibular do Instituto de Biociências de Botucatu] (2015 - 2017)
+
+  Situação: Concluído Natureza: Projeto de extensão. Integrantes: #underline[#strong[Marcel Rodrigues Ferreira];] (Responsável); ; Célio Junior da Costa Fernandes;
+
++ #strong[Nucleon JR] (2013 - 2014 )
+
+  Descrição: Empresa junior dos alunos do curso de Física Médica do Instituto de Biociências de Botucatu/UNESP. Situação: Concluído Natureza: Projeto de extensão. Integrantes: #underline[#strong[Marcel Rodrigues Ferreira];] (Responsável); ; Fernanda Nascimento Moura;
+
++ #strong[Cursinho CAVJ/IB] (2012-2013).
+
+  Situação: Concluído Natureza: Projeto de extensão. Integrantes: #underline[#strong[Marcel Rodrigues Ferreira];] (Responsável);
+
++ #strong[Cursinho Desafio] (2011-2011).
+
+  Descrição: Cursinho pré vestibular destinado a estudantes de Escolas Públicas. Conta com a coordenação e participação de estudantes dos cursos da Unesp de Botucatu. Situação: Concluído Natureza: Projeto de extensão. Integrantes: #underline[#strong[Marcel Rodrigues Ferreira];];; Raíssa Pierre Carvalho (Responsável)
+
 == Participação em Bancas Examinadoras e Julgadoras
 <participação-em-bancas-examinadoras-e-julgadoras>
 Sempre que solicitado, tenho participado na composição de bancas examinadoras de trabalho de conclusão de curso, qualificações de mestrado e doutorado, defesas de mestrado e doutorado, etc. Abaixo, estão listadas as participações em bancas examinadoras como membro titular das comissões:
@@ -847,10 +873,39 @@ Sempre que solicitado, tenho participado na composição de bancas examinadoras 
 <cursos-seminários-e-palestras-ministradas>
 Esta seção reúne os cursos, seminários e palestras ministrados ao longo da trajetória acadêmica e profissional, em diferentes contextos institucionais e científicos. As atividades aqui descritas refletem a atuação na difusão do conhecimento, na formação de estudantes e profissionais, bem como na troca de experiências com a comunidade acadêmica e científica, abrangendo ações de caráter didático, técnico e científico, realizadas em âmbito presencial e remoto.
 
-+ dddd
+#strong[Palestras:]
+
++ FERREIRA, MR. #emph[Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades];, #strong[2025];. Evento: XXX; Modalidade: Presencial.
++ FERREIRA, M. R. #emph[Bioinformática: Perspectivas para Físicos Médicos];, #strong[2024];. Evento: XXX; Modalidade: Presencial.
++ FERREIRA, M. R. #emph[Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA];, #strong[2024];. Evento: XXX; Modalidade: Presencial.
++ FERREIRA, MR. #emph[Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática];, #strong[2024];. Evento: XXX; Modalidade: Presencial.
++ FERREIRA, MR. #emph[Mesa-redonda: Internacionalização em Biotecnologia];, #strong[2023];. Evento: XXX; Modalidade: Online.
++ FERREIRA, MR. #emph[Reanálise de datasets - pipelines e serviços];, #strong[2023];. Evento: XXX; Modalidade: Presencial.
++ FERREIRA, MR. #emph[Bioinformática];, #strong[2022];. Evento: XXX; Modalidade: Online.
++ FERREIRA, M.R. #emph[Física das radiações];, #strong[2022];. Evento: XXX; Modalidade: Online
+
+#strong[Cursos ministrados:]
+
++ #underline[#strong[FERREIRA, M. R.];];. #emph[Acelerando sua análise de dados com tidyverse];, #strong[2024];. (Curso de curta duração ministrado)
+
++ #underline[#strong[FERREIRA, Marcel Rodrigues];];; RECALDE, T. F.; CASTELLI, E. C.; MENDES JUNIOR, C. T. Curso de Difusão - #emph[Bioinformática aplicada à genética forense: análise de dados de sequenciamento de segunda e terceira geração,] #strong[2024];. (Curso de curta duração ministrado)
+
++ #underline[#strong[FERREIRA, M. R.];];. #emph[Desvendando os Segredos da Visualização de dados: ggplot2 para Iniciantes];, #strong[2024];. (Curso de curta duração ministrado)
+
++ #underline[#strong[FERREIRA, M. R];];.; MENDES JUNIOR, C. T.; CASTELLI, E. C.; RECALDE, T. F.. #emph[Bioinformática aplicada à genética forense: análise de dados de sequenciamento de segunda e terceira geração];, #strong[2023];. (Curso de curta duração ministrado)
 
 == Organização de Eventos
 <organização-de-eventos>
++ FERREIRA, M. R.. III Workbiotech: Workshop da Pós Graduação em Biotecnologia II Symposium on Cellular Dynamics: Building Insights and Breaking Boundaries., 2017. (Organização de evento)
+
++ OLIVEIRA NETO, M.; FERREIRA, M. R.. II Workshop de Biotecnologia, 2016.
+
++ FERREIRA, M. R.. MINICURSO DE LATEX, 2014.
+
++ FERREIRA, M. R.. X CONFIAM - Congresso de Física Aplicada à Medicina, 2014.
+
++ FERREIRA, M. R.. ANÁLISE DE DADOS COM PLANILHA ELETRÔNICA, 2013.
+
 == Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais
 <assessor-ad-hoc-agências-de-fomento-instituições-acadêmicas-e-avaliação-de-artigos-para-periódicos-nacionais-e-internacionais>
 #strong[Avaliação de Artigos para Periódicos Nacionais e Internacionais:]
