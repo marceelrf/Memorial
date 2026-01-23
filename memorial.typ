@@ -865,6 +865,8 @@ Sempre que solicitado, tenho participado na composição de bancas examinadoras 
 
 + #strong[27-02-2025] Membro da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de RENATO MATTOS, discente regular do Programa de Pós-Graduação em Biologia Geral e Aplicada, Curso de Mestrado Acadêmico;
 
++ #strong[17-06-2025] Membro da Banca Examinadora do TRABALHO DE CONCLUSÃO DE CURSO de LUCIANA MARINO BORALI, discente do curso de Engenharia de Bioprocessos e Biotecnologia, Bacharelado;
+
 + #strong[30-09-2025] Membro da Comissão Examinadora do Exame de QUALIFICAÇÃO de GABRIEL HENRIQUE CAXALI, discente regular do Programa de Pós-Graduação em Ciências Biológicas (Genética), Curso de Doutorado;
 
 + #strong[04-11-2025] Membro da Comissão Examinadora do Exame de QUALIFICAÇÃO de MARIA LETICIA DE OLIVEIRA LYRA, discente regular do Programa de Pós-Graduação em Biologia Geral e Aplicada, Curso de Mestrado Acadêmico;
