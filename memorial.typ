@@ -909,7 +909,7 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 
 == Organização de Eventos
 <organização-de-eventos>
-+ FERREIRA, M. R.. III Workbiotech: Workshop da Pós Graduação em Biotecnologia II Symposium on Cellular Dynamics: Building Insights and Breaking Boundaries., 2017. (Organização de evento)
++ FERREIRA, M. R. III Workbiotech: Workshop da Pós Graduação em Biotecnologia II Symposium on Cellular Dynamics: Building Insights and Breaking Boundaries., 2017. (Organização de evento)
 
 + OLIVEIRA NETO, M.; FERREIRA, M. R.. II Workshop de Biotecnologia, 2016.
 
@@ -921,6 +921,9 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 
 == Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais
 <assessor-ad-hoc-agências-de-fomento-instituições-acadêmicas-e-avaliação-de-artigos-para-periódicos-nacionais-e-internacionais>
+Ao longo da minha trajetória acadêmica, venho atuando como assessor ad hoc para periódicos científicos nacionais e internacionais, contribuindo para a avaliação crítica de manuscritos nas áreas de biologia celular, bioengenharia, toxicologia e ciências biomédicas. Essa atuação reflete o reconhecimento da minha formação técnica e da minha experiência científica pela comunidade acadêmica, além de demonstrar minha capacidade de análise crítica, rigor metodológico e compromisso com a qualidade da produção científica.
+
+#line(length: 50%, stroke: white)
 #strong[Avaliação de Artigos para Periódicos Nacionais e Internacionais:]
 
 + European Journal of Medical Research - Desde 2025 (01 parecer);
@@ -935,9 +938,16 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 
 + BMC Molecular and Cell Biology - Desde 2023 (01 parecer);
 
+#line(length: 50%, stroke: white)
+#strong[Assessorias Técnicas e Avaliações Institucionais]
+
++ SEBRAE -- Avaliador do Prêmio Startup do Futuro (2022-2023).
+
 #pagebreak()
 = Atividades Administrativas
 <sec-8>
+Considerando o estágio atual da minha trajetória acadêmica, ainda concentro minhas atividades principalmente em ensino, pesquisa e extensão. No entanto, já atuei em atividades administrativas e de representação institucional, destacando-se a participação como membro discente do Conselho do Programa de Pós-Graduação em Biotecnologia, no período de 2017 a 2018, exercendo a função de representante discente. Essa experiência contribuiu para a compreensão dos processos de gestão acadêmica e para o desenvolvimento de uma atuação responsável em instâncias colegiadas.
+
 #pagebreak()
 = Nomenclatura para Lista de Anexos
 <sec-9>
