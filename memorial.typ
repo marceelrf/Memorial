@@ -294,7 +294,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-01-21],
+  date: [2026-01-23],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -867,6 +867,10 @@ Sempre que solicitado, tenho participado na composição de bancas examinadoras 
 
 + #strong[30-09-2025] Membro da Comissão Examinadora do Exame de QUALIFICAÇÃO de GABRIEL HENRIQUE CAXALI, discente regular do Programa de Pós-Graduação em Ciências Biológicas (Genética), Curso de Doutorado;
 
++ #strong[04-11-2025] Membro da Comissão Examinadora do Exame de QUALIFICAÇÃO de MARIA LETICIA DE OLIVEIRA LYRA, discente regular do Programa de Pós-Graduação em Biologia Geral e Aplicada, Curso de Mestrado Acadêmico;
+
++ #strong[19-11-2025] Membro da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de MATHEUS RODRIGUES SAUDA, discente regular do Programa de Pós-Graduação em Ciências Biológicas (Genética), Curso de Mestrado Acadêmico;
+
 + #strong[08-01-2026] Membro da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de LUISA ANNIBAL BARATA, discente regular do Programa de Pós-Graduação em Biologia Geral e Aplicada, Curso de Mestrado Acadêmico;
 
 == Cursos, Seminários e Palestras Ministradas
@@ -875,22 +879,31 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 
 #strong[Palestras:]
 
-+ FERREIRA, MR. #emph[Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades];, #strong[2025];. Evento: XXX; Modalidade: Presencial.
-+ FERREIRA, M. R. #emph[Bioinformática: Perspectivas para Físicos Médicos];, #strong[2024];. Evento: XXX; Modalidade: Presencial.
-+ FERREIRA, M. R. #emph[Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA];, #strong[2024];. Evento: XXX; Modalidade: Presencial.
-+ FERREIRA, MR. #emph[Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática];, #strong[2024];. Evento: XXX; Modalidade: Presencial.
-+ FERREIRA, MR. #emph[Mesa-redonda: Internacionalização em Biotecnologia];, #strong[2023];. Evento: XXX; Modalidade: Online.
-+ FERREIRA, MR. #emph[Reanálise de datasets - pipelines e serviços];, #strong[2023];. Evento: XXX; Modalidade: Presencial.
-+ FERREIRA, MR. #emph[Bioinformática];, #strong[2022];. Evento: XXX; Modalidade: Online.
-+ FERREIRA, M.R. #emph[Física das radiações];, #strong[2022];. Evento: XXX; Modalidade: Online
++ FERREIRA, MR. #emph[Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades];, #strong[2025];. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: #strong[Presencial];.
+
++ FERREIRA, M. R. #emph[Bioinformática: Perspectivas para Físicos Médicos];, #strong[2024];. Evento: XVIII CONFIAM - Congresso de Física Aplicada à Medicina; Modalidade: #strong[Presencial];.
+
++ FERREIRA, M. R. #emph[Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA];, #strong[2024];. Evento: I Workshop de Engenharia de Bioprocessos e Biotecnologia (WEBB); Modalidade: #strong[Presencial];.
+
++ FERREIRA, MR. #emph[Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática];, #strong[2024];. Evento: Programa de Pós-Graduação em Biometria da Universidade Estadual Paulista "Júlio de Mesquita Filho" -- UNESP; Modalidade: #strong[Presencial];.
+
++ FERREIRA, MR. #emph[Mesa-redonda: Internacionalização em Biotecnologia];, #strong[2023];. Evento: VIII Workshop de Biotecnologia, organizado pelos alunos de Pós-graduação em Biotecnologia, da Universidade Estadual Paulista "Júlio de Mesquita Filho"; Modalidade: #strong[Online];;
+
++ FERREIRA, MR. #emph[Reanálise de datasets - pipelines e serviços];, #strong[2023];. Evento: Disicplina de Noções Básicas e Aplicações da Bioinformática, do Programa de Pós-graduação em Biologia Geral e Aplicada; Modalidade: #strong[Presencial];.
+
++ FERREIRA, MR. #emph[Bioinformática];, #strong[2022];. Evento: Disciplina de "Técnicas Especiais aplicadas à Pesquisa em Patologia" junto ao Programa de Pós-Graduação em Patologia da Faculdade de
+
+  Medicina de Botucatu -- UNESP; Modalidade: #strong[Online];.
+
++ FERREIRA, M.R. #emph[Física das radiações];, #strong[2022];. Evento: Curso de Medicina Veterinária da Faculdade Galileu de Botucatu; Modalidade: #strong[Online];.
 
 #strong[Cursos ministrados:]
 
-+ #underline[#strong[FERREIRA, M. R.];];. #emph[Acelerando sua análise de dados com tidyverse];, #strong[2024];. (Curso de curta duração ministrado)
++ #underline[#strong[FERREIRA, M. R.];];. #emph[Acelerando sua análise de dados com tidyverse];, #strong[2024];. Evento: XXI Workshop de Genética (Curso de curta duração ministrado).
 
 + #underline[#strong[FERREIRA, Marcel Rodrigues];];; RECALDE, T. F.; CASTELLI, E. C.; MENDES JUNIOR, C. T. Curso de Difusão - #emph[Bioinformática aplicada à genética forense: análise de dados de sequenciamento de segunda e terceira geração,] #strong[2024];. (Curso de curta duração ministrado)
 
-+ #underline[#strong[FERREIRA, M. R.];];. #emph[Desvendando os Segredos da Visualização de dados: ggplot2 para Iniciantes];, #strong[2024];. (Curso de curta duração ministrado)
++ #underline[#strong[FERREIRA, M. R.];];. #emph[Desvendando os Segredos da Visualização de dados: ggplot2 para Iniciantes];, #strong[2024];. Evento: XIII Congresso de Biociências (Congrebio). (Curso de curta duração ministrado)
 
 + #underline[#strong[FERREIRA, M. R];];.; MENDES JUNIOR, C. T.; CASTELLI, E. C.; RECALDE, T. F.. #emph[Bioinformática aplicada à genética forense: análise de dados de sequenciamento de segunda e terceira geração];, #strong[2023];. (Curso de curta duração ministrado)
 

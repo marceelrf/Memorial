@@ -578,7 +578,7 @@ Paralelamente, minha atuação em extensão também se manifesta na participaç�
 
     Situação: Concluído Natureza: Projeto de extensão. Integrantes: [**Marcel Rodrigues Ferreira**]{.underline} (Responsável); ; Célio Junior da Costa Fernandes;
 
-3.  **Nucleon JR** (2013 - 2014	)
+3.  **Nucleon JR** (2013 - 2014 )
 
     Descrição: Empresa junior dos alunos do curso de Física Médica do Instituto de Biociências de Botucatu/UNESP. Situação: Concluído Natureza: Projeto de extensão. Integrantes: [**Marcel Rodrigues Ferreira**]{.underline} (Responsável); ; Fernanda Nascimento Moura;
 
@@ -614,7 +614,11 @@ Sempre que solicitado, tenho participado na composição de bancas examinadoras 
 
 10. **30-09-2025** Membro da Comissão Examinadora do Exame de QUALIFICAÇÃO de GABRIEL HENRIQUE CAXALI, discente regular do Programa de Pós-Graduação em Ciências Biológicas (Genética), Curso de Doutorado;
 
-11. **08-01-2026** Membro da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de LUISA ANNIBAL BARATA, discente regular do Programa de Pós-Graduação em Biologia Geral e Aplicada, Curso de Mestrado Acadêmico;
+11. **04-11-2025** Membro da Comissão Examinadora do Exame de QUALIFICAÇÃO de MARIA LETICIA DE OLIVEIRA LYRA, discente regular do Programa de Pós-Graduação em Biologia Geral e Aplicada, Curso de Mestrado Acadêmico;
+
+12. **19-11-2025** Membro da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de MATHEUS RODRIGUES SAUDA, discente regular do Programa de Pós-Graduação em Ciências Biológicas (Genética), Curso de Mestrado Acadêmico;
+
+13. **08-01-2026** Membro da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de LUISA ANNIBAL BARATA, discente regular do Programa de Pós-Graduação em Biologia Geral e Aplicada, Curso de Mestrado Acadêmico;
 
 ### Cursos, Seminários e Palestras Ministradas
 
@@ -622,22 +626,31 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 
 **Palestras:**
 
-1.  FERREIRA, MR. *Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades*, **2025**. Evento: XXX; Modalidade: Presencial.
-2.  FERREIRA, M. R. *Bioinformática: Perspectivas para Físicos Médicos*, **2024**. Evento: XXX; Modalidade: Presencial.
-3.  FERREIRA, M. R. *Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA*, **2024**. Evento: XXX; Modalidade: Presencial.
-4.  FERREIRA, MR. *Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática*, **2024**. Evento: XXX; Modalidade: Presencial.
-5.  FERREIRA, MR. *Mesa-redonda: Internacionalização em Biotecnologia*, **2023**. Evento: XXX; Modalidade: Online.
-6.  FERREIRA, MR. *Reanálise de datasets - pipelines e serviços*, **2023**. Evento: XXX; Modalidade: Presencial.
-7.  FERREIRA, MR. *Bioinformática*, **2022**. Evento: XXX; Modalidade: Online.
-8.  FERREIRA, M.R. *Física das radiações*, **2022**. Evento: XXX; Modalidade: Online
+1.  FERREIRA, MR. *Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades*, **2025**. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: **Presencial**.
+
+2.  FERREIRA, M. R. *Bioinformática: Perspectivas para Físicos Médicos*, **2024**. Evento: XVIII CONFIAM - Congresso de Física Aplicada à Medicina; Modalidade: **Presencial**.
+
+3.  FERREIRA, M. R. *Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA*, **2024**. Evento: I Workshop de Engenharia de Bioprocessos e Biotecnologia (WEBB); Modalidade: **Presencial**.
+
+4.  FERREIRA, MR. *Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática*, **2024**. Evento: Programa de Pós-Graduação em Biometria da Universidade Estadual Paulista "Júlio de Mesquita Filho" -- UNESP; Modalidade: **Presencial**.
+
+5.  FERREIRA, MR. *Mesa-redonda: Internacionalização em Biotecnologia*, **2023**. Evento: VIII Workshop de Biotecnologia, organizado pelos alunos de Pós-graduação em Biotecnologia, da Universidade Estadual Paulista "Júlio de Mesquita Filho"; Modalidade: **Online**;
+
+6.  FERREIRA, MR. *Reanálise de datasets - pipelines e serviços*, **2023**. Evento: Disicplina de Noções Básicas e Aplicações da Bioinformática, do Programa de Pós-graduação em Biologia Geral e Aplicada; Modalidade: **Presencial**.
+
+7.  FERREIRA, MR. *Bioinformática*, **2022**. Evento: Disciplina de "Técnicas Especiais aplicadas à Pesquisa em Patologia" junto ao Programa de Pós-Graduação em Patologia da Faculdade de
+
+    Medicina de Botucatu -- UNESP; Modalidade: **Online**.
+
+8.  FERREIRA, M.R. *Física das radiações*, **2022**. Evento: Curso de Medicina Veterinária da Faculdade Galileu de Botucatu; Modalidade: **Online**.
 
 **Cursos ministrados:**
 
-1.  [**FERREIRA, M. R.**]{.underline}. *Acelerando sua análise de dados com tidyverse*, **2024**. (Curso de curta duração ministrado)
+1.  [**FERREIRA, M. R.**]{.underline}. *Acelerando sua análise de dados com tidyverse*, **2024**. Evento: XXI Workshop de Genética (Curso de curta duração ministrado).
 
 2.  [**FERREIRA, Marcel Rodrigues**]{.underline}; RECALDE, T. F.; CASTELLI, E. C.; MENDES JUNIOR, C. T. Curso de Difusão - *Bioinformática aplicada à genética forense: análise de dados de sequenciamento de segunda e terceira geração,* **2024**. (Curso de curta duração ministrado)
 
-3.  [**FERREIRA, M. R.**]{.underline}. *Desvendando os Segredos da Visualização de dados: ggplot2 para Iniciantes*, **2024**. (Curso de curta duração ministrado)
+3.  [**FERREIRA, M. R.**]{.underline}. *Desvendando os Segredos da Visualização de dados: ggplot2 para Iniciantes*, **2024**. Evento: XIII Congresso de Biociências (Congrebio). (Curso de curta duração ministrado)
 
 4.  [**FERREIRA, M. R**]{.underline}.; MENDES JUNIOR, C. T.; CASTELLI, E. C.; RECALDE, T. F.. *Bioinformática aplicada à genética forense: análise de dados de sequenciamento de segunda e terceira geração*, **2023**. (Curso de curta duração ministrado)
 
