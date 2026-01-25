@@ -250,7 +250,25 @@ Adicionalmente, esse período marcou o início da minha consolidação como pesq
 
 ### Pós-doutorados: 2023-Presente
 
-Ao final do meu doutorado, eu percebi que para pôr em prática este projeto, eu precisava de uma maior base de programação para poder desenvolver esses métodos de análise. A implementação de modelos de machine learning me parecia algo fundamental para o sucesso desta proposta. Foi neste momento que vi a possibilidade de uma bolsa de pós-doutorado em um projeto sob supervisão do Dr. Erick da Cruz Castelli, o qual eu já acompanhava a anos como um grande pesquisador na área de bioinformática, com uma habilidade excepcional de desenvolvimento de programas. Desde maio de 2023 venho trabalhando em seu grupo em diversos projetos que ampliaram meu conhecimento na área de ciências ômicas, especialmente genômica, epigenômica e transcriptômica, além de um maior entendimento de ferramentas de programação como Linux, containers docker, ambientes conda, programação em nuvem, além de ter a oportunidade de atuar em projetos de machine learning. Considerando toda essa trajetória eu meu considero apto para coordenar este importante projeto.\
+Ao final do doutorado, passei a refletir de forma mais estruturada sobre os próximos passos da minha trajetória científica, identificando a necessidade de aprofundar minha formação em programação e métodos computacionais avançados como um eixo central de atuação profissional. Tornou-se claro que o domínio de estratégias de análise de dados em larga escala e a implementação de modelos de machine learning seriam componentes fundamentais para consolidar uma carreira voltada ao desenvolvimento de métodos analíticos em bioinformática e ciências ômicas.
+
+Nesse contexto, iniciei um estágio de pós-doutorado sob a supervisão do Dr. Erick da Cruz Castelli, pesquisador que acompanho há anos e cuja atuação na área de bioinformática se destaca pela sólida integração entre rigor biológico e excelência no desenvolvimento de ferramentas computacionais. Desde maio de 2023, venho atuando em seu grupo de pesquisa em diferentes projetos, o que tem ampliado de forma consistente minha formação em genômica, epigenômica e transcriptômica, além de proporcionar um aprofundamento significativo em ambientes computacionais e práticas de programação, incluindo Linux, uso de containers Docker, gerenciamento de ambientes Conda, computação em nuvem e aplicações de machine learning.
+
+Esse período de pós-doutorado tem sido fundamental para a consolidação de uma visão de carreira orientada à liderança científica, ao desenvolvimento de métodos analíticos robustos e à coordenação de projetos interdisciplinares, integrando biologia, ciência de dados e bioinformática. A trajetória construída até o momento reforça minha capacitação para assumir a coordenação de projetos de pesquisa de maior complexidade, com autonomia técnica e visão estratégica.
+
+#### 1º Período -- Bolsa CAPES/PROCAD (**Maio de 2023 -- Janeiro de 2025)**
+
+O primeiro período do pós-doutorado foi realizado com bolsa CAPES, no âmbito do Projeto PROCAD -- Edital nº 16/2020 (Processos 88887.516236/2020-00 e 88881.516238/2020-01), intitulado "Epigenética e fenotipagem forense por DNA: uso e implementação da plataforma Oxford Nanopore para sequenciamento de nova geração". As atividades foram desenvolvidas sob a supervisão do Dr. Erick da Cruz Castelli, integrando o projeto liderado pelo Prof. Dr. Celso Teixeira Mendes Junior, em colaboração com a Profa. Dra. Silviene Fabiana de Oliveira.
+
+Nesse período, atuei no desenvolvimento de estratégias computacionais e na padronização de protocolos de extração de DNA de alto peso molecular, voltados à aplicação de tecnologias de sequenciamento por long reads utilizando a plataforma Oxford Nanopore. As atividades envolveram desde etapas experimentais até a análise bioinformática, com ênfase na interpretação de dados epigenéticos e genômicos aplicados à genética forense.
+
+Como resultado dessa atuação, participei da elaboração do artigo de revisão "*Advances in forensic genetics: Exploring the potential of long read sequencing*", publicado na revista Forensic Science International: Genetics, consolidando uma visão crítica sobre o uso de tecnologias de sequenciamento de terceira geração no contexto forense.
+
+Adicionalmente, atuei como organizador e docente dos cursos de difusão "[*Workshop de Bioinformática Aplicada à Genética Forense: Análise de Dados de Sequenciamento de Segunda e Terceira Geração*](https://workshopbioinfoforense.netlify.app/)", ministrados em duas edições (2023 e 2024), contribuindo diretamente para a formação de estudantes e profissionais na área.
+
+Este primeiro período foi marcado por um intenso processo de aprendizado e amadurecimento científico, com aprofundamento na análise de modificações de bases, especialmente metilação em dinucleotídeos CpG, análise de variantes, desenvolvimento de softwares biológicos e consolidação de competências em bioinformática aplicada. Esse conjunto de experiências foi fundamental para o fortalecimento da minha autonomia como pesquisador e para a construção de uma base sólida para etapas posteriores do pós-doutorado e da carreira científica.
+
+#### 2º Período -- Bolsa CAPES/PIPD (**Fevereira de 2025 -- Atualmente)**
 
 ```{=typst}
 #pagebreak()
