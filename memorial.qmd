@@ -268,7 +268,19 @@ Adicionalmente, atuei como organizador e docente dos cursos de difusão "[*Works
 
 Este primeiro período foi marcado por um intenso processo de aprendizado e amadurecimento científico, com aprofundamento na análise de modificações de bases, especialmente metilação em dinucleotídeos CpG, análise de variantes, desenvolvimento de softwares biológicos e consolidação de competências em bioinformática aplicada. Esse conjunto de experiências foi fundamental para o fortalecimento da minha autonomia como pesquisador e para a construção de uma base sólida para etapas posteriores do pós-doutorado e da carreira científica.
 
-#### 2º Período -- Bolsa CAPES/PIPD (**Fevereira de 2025 -- Atualmente)**
+#### 2º Período -- Bolsa CAPES/PIPD (**Fevereiro de 2025 -- Atualmente)**
+
+Com a aproximação do término do período original do pós-doutorado (inicialmente previsto para abril de 2025), avaliei a possibilidade de realizar um estágio pós-doutoral no exterior. No entanto, a abertura de um edital de pós-doutorado vinculado ao Programa de Pós-Graduação em Ciências Biológicas -- Genética, do Instituto de Biociências de Botucatu, apresentou-se como uma oportunidade estratégica para a consolidação da minha trajetória acadêmica no país.
+
+Além de permitir a continuidade e o aprofundamento de linhas de pesquisa já em andamento, esse segundo período possibilitou o credenciamento junto a um programa de pós-graduação com conceito CAPES 6, aspecto especialmente relevante para o fortalecimento do meu currículo acadêmico, considerando experiências anteriores em processos seletivos para a carreira docente. A inserção formal no programa representou um passo fundamental para o desenvolvimento de atividades regulares de ensino e orientação em nível de pós-graduação.
+
+Desde maio de 2025, atuo como professor colaborador do Programa de Pós-Graduação em Ciências Biológicas -- Genética, tendo criado e ministrado duas disciplinas, ampliando minha experiência didática e minha integração às atividades acadêmicas do programa.
+
+No âmbito da formação de recursos humanos, passei a atuar de maneira direta em atividades de orientação, realizando a orientação da aluna Juliana Azevedo Amaral e a coorientação da aluna de iniciação científica Isabela Lorente Kraetzer, ambas desenvolvidas junto ao Prof. Dr. Erick da Cruz Castelli, meu supervisor. Adicionalmente, atuo na coorientação da aluna Beatriz Camargo, doutoranda do Programa de Pós-Graduação em Biotecnologia, em colaboração com o Prof. Dr. Willian Fernando Zambuzzi, ampliando minha atuação em diferentes níveis da pós-graduação.
+
+No campo da pesquisa, este período também foi marcado pela ampliação das atividades experimentais e computacionais, incluindo a realização de sequenciamentos de genoma completo utilizando a plataforma Oxford Nanopore, diretamente relacionados aos projetos em desenvolvimento no grupo. Essas atividades fortaleceram ainda mais a integração entre geração de dados, análise bioinformática e aplicação de tecnologias de sequenciamento de terceira geração.
+
+Este segundo período configura-se, portanto, como uma extensão natural e estratégica do pós-doutorado, voltada não apenas à produção científica, mas também à consolidação do perfil docente, à atuação em programas de excelência e à preparação para a coordenação de projetos de pesquisa e formação de recursos humanos.
 
 ```{=typst}
 #pagebreak()
