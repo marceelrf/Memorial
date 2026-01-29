@@ -963,7 +963,7 @@ Ao longo da minha trajetória acadêmica, venho atuando como assessor ad hoc par
 
 + Cell Biology and Toxicology - Desde 2024 (02 pareceres);
 
-+ Scientific Reports - Desde 2024 (02 pareceres);
++ Scientific Reports - Desde 2024 (03 pareceres);
 
 + Life Sciences - Desde 2023 (01 parecer);
 
