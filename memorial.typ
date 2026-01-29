@@ -294,7 +294,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-01-25],
+  date: [2026-01-29],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -574,6 +574,7 @@ Até o momento não existem orientações a serem reportadas.
 <coorientações-em-nível-de-pós-graduação>
 + #link("http://lattes.cnpq.br/0212300912963206")[#strong[Matheus Amaral Silva];];. "#emph[OsteoCLUST: framework para clusterização da resposta de biomateriais ósseos];" \[#link("https://repositorio.unesp.br/entities/publication/7f5dbc9f-d610-4ed2-bb56-ce3d92f40cb7")[link];\]. Início: 2023. Fim: 2025. Mestrado em Biotecnologia (IBB/UNESP). Orientador: #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi];;
 + #link("http://lattes.cnpq.br/4834833217154689")[#strong[Júlia Ferreira de Moraes];];. "#emph[Construção de unidades biomiméticas à partir de plasma rico em plaquetas associado ao fluído caótico utilizando misturadores estáticos: perspectivas de novos processos biotecnológicos para regeneração do tecido ósseo.];". Início: 2024. Fim: #strong[EM ANDAMENTO];. Mestrado em Biotecnologia (IBB/UNESP). FAPESP: 2023/14547-3. Orientador: #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando Zambuzzi];;
++ #link("http://lattes.cnpq.br/9381802272385312")[#strong[Beatriz de Almeida Camargo Sormani];];. Doutorado em andamento "#emph[Impacto dos fatores tróficos liberados por células endoteliais na regulação epigenética dos membros da família do colágeno durante a mineralização de osteblastos humanos];". Início: 2024. Fim: #strong[EM ANDAMENTO];. Doutorado (IBB/UNESP). Orientador: #link("http://lattes.cnpq.br/9087428606376572")[Prof.~Dr.~Willian Fernando];;
 
 #pagebreak()
 = Atividades de Pesquisa
