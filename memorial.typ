@@ -280,6 +280,8 @@
 )
 /* Color links */
 #show link: set text(fill: rgb(0, 0, 255))
+#set par(leading: 1.0em, justify: true)
+#show heading: set block(above: 1.5em, below: 1em)
 
 #set page(
   paper: "us-letter",
@@ -294,7 +296,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-01-29],
+  date: [2026-02-10],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -359,7 +361,7 @@ Gostaria de expressar minha sincera gratidão ao Prof.~Dr.~Juarez Lopes Ferreira
 
 #strong[Data de Nascimento:] 02/05/1991.
 
-#strong[Estado Civil:] Deb Deb 💖.
+#strong[Estado Civil:] Solteiro.
 
 #strong[Local de Nascimento:] Itapetininga, São Paulo, Brasil.
 
@@ -979,7 +981,7 @@ Ao longo da minha trajetória acadêmica, venho atuando como assessor ad hoc par
 #pagebreak()
 = Atividades Administrativas
 <sec-8>
-Considerando o estágio atual da minha trajetória acadêmica, ainda concentro minhas atividades principalmente em ensino, pesquisa e extensão. No entanto, já atuei em atividades administrativas e de representação institucional, destacando-se a participação como membro discente do Conselho do Programa de Pós-Graduação em Biotecnologia, no período de 2017 a 2018, exercendo a função de representante discente. Essa experiência contribuiu para a compreensão dos processos de gestão acadêmica e para o desenvolvimento de uma atuação responsável em instâncias colegiadas.
+Considerando o estágio atual da minha trajetória acadêmica, ainda concentro minhas atividades principalmente em ensino, pesquisa e extensão. No entanto, já atuei em atividades administrativas e de representação institucional, destacando-se a participação como membro discente do Conselho do Programa de Pós-Graduação em Biotecnologia, no período de 08/03/2017 a 07/03/2018, exercendo a função de representante discente. Essa experiência contribuiu para a compreensão dos processos de gestão acadêmica e para o desenvolvimento de uma atuação responsável em instâncias colegiadas.
 
 #pagebreak()
 = Nomenclatura para Lista de Anexos
@@ -1035,6 +1037,7 @@ Franco Cairo, João Paulo L., Fernanda Mandelli, Robson Tramontina, David Cannel
 
 ] <ref-Franco2022>
 ] <refs>
+#pagebreak()
 #block[
 #heading(
 level: 
@@ -1044,7 +1047,7 @@ numbering:
 none
 , 
 [
-Anexos
+ANEXOS
 ]
 )
 ]

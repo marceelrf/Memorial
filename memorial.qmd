@@ -20,6 +20,8 @@ format:
         - text: |
             /* Color links */
             #show link: set text(fill: rgb(0, 0, 255))
+            #set par(leading: 1.0em, justify: true)
+            #show heading: set block(above: 1.5em, below: 1em)
 editor: visual
 date: today
 lang: pt-br
@@ -85,7 +87,7 @@ Gostaria de expressar minha sincera gratidão ao Prof. Dr. Juarez Lopes Ferreira
 
 **Data de Nascimento:** 02/05/1991.
 
-**Estado Civil:** Deb Deb 💖.
+**Estado Civil:** Solteiro.
 
 **Local de Nascimento:** Itapetininga, São Paulo, Brasil.
 
@@ -318,7 +320,7 @@ Até o momento não existem orientações a serem reportadas.
 
 1.  [**Matheus Amaral Silva**](http://lattes.cnpq.br/0212300912963206). "*OsteoCLUST: framework para clusterização da resposta de biomateriais ósseos*" \[[link](https://repositorio.unesp.br/entities/publication/7f5dbc9f-d610-4ed2-bb56-ce3d92f40cb7)\]. Início: 2023. Fim: 2025. Mestrado em Biotecnologia (IBB/UNESP). Orientador: [Prof. Dr. Willian Fernando Zambuzzi](http://lattes.cnpq.br/9087428606376572);
 2.  [**Júlia Ferreira de Moraes**](http://lattes.cnpq.br/4834833217154689). "*Construção de unidades biomiméticas à partir de plasma rico em plaquetas associado ao fluído caótico utilizando misturadores estáticos: perspectivas de novos processos biotecnológicos para regeneração do tecido ósseo.*". Início: 2024. Fim: **EM ANDAMENTO**. Mestrado em Biotecnologia (IBB/UNESP). FAPESP: 2023/14547-3. Orientador: [Prof. Dr. Willian Fernando Zambuzzi](http://lattes.cnpq.br/9087428606376572);
-3.  [**Beatriz de Almeida Camargo Sormani**](http://lattes.cnpq.br/9381802272385312). Doutorado em andamento "*Impacto dos fatores tróficos liberados por células endoteliais na regulação epigenética dos membros da família do colágeno durante a mineralização de osteblastos humanos* ". Início: 2024. Fim: **EM ANDAMENTO**. Doutorado (IBB/UNESP). Orientador: [Prof. Dr. Willian Fernando](http://lattes.cnpq.br/9087428606376572);
+3.  [**Beatriz de Almeida Camargo Sormani**](http://lattes.cnpq.br/9381802272385312). Doutorado em andamento "*Impacto dos fatores tróficos liberados por células endoteliais na regulação epigenética dos membros da família do colágeno durante a mineralização de osteblastos humanos*". Início: 2024. Fim: **EM ANDAMENTO**. Doutorado (IBB/UNESP). Orientador: [Prof. Dr. Willian Fernando](http://lattes.cnpq.br/9087428606376572);
 
 ```{=typst}
 #pagebreak()
@@ -732,7 +734,7 @@ Ao longo da minha trajetória acadêmica, venho atuando como assessor ad hoc par
 ```
 ## Atividades Administrativas {#sec-8}
 
-Considerando o estágio atual da minha trajetória acadêmica, ainda concentro minhas atividades principalmente em ensino, pesquisa e extensão. No entanto, já atuei em atividades administrativas e de representação institucional, destacando-se a participação como membro discente do Conselho do Programa de Pós-Graduação em Biotecnologia, no período de 2017 a 2018, exercendo a função de representante discente. Essa experiência contribuiu para a compreensão dos processos de gestão acadêmica e para o desenvolvimento de uma atuação responsável em instâncias colegiadas.
+Considerando o estágio atual da minha trajetória acadêmica, ainda concentro minhas atividades principalmente em ensino, pesquisa e extensão. No entanto, já atuei em atividades administrativas e de representação institucional, destacando-se a participação como membro discente do Conselho do Programa de Pós-Graduação em Biotecnologia, no período de 08/03/2017 a 07/03/2018, exercendo a função de representante discente. Essa experiência contribuiu para a compreensão dos processos de gestão acadêmica e para o desenvolvimento de uma atuação responsável em instâncias colegiadas.
 
 ```{=typst}
 #pagebreak()
@@ -749,4 +751,8 @@ Considerando o estágio atual da minha trajetória acadêmica, ainda concentro m
 ::: {#refs}
 :::
 
-## Anexos {.unnumbered}
+```{=typst}
+#pagebreak()
+```
+
+## ANEXOS {.unnumbered}
