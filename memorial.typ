@@ -631,6 +631,102 @@ A atuação em pesquisa desenvolvida ao longo da carreira tem sido fortemente su
 - Prof.~Dr.~Miten Jain --- Northeastern University, Estados Unidos.
 
 #line(length: 50%, stroke: white)
+== Alinhamento com os Objetivos de Desenvolvimento Sustentável (ODS/ONU)
+<alinhamento-com-os-objetivos-de-desenvolvimento-sustentável-odsonu>
+As atividades de pesquisa desenvolvidas ao longo da minha trajetória acadêmica apresentam alinhamento consistente com os #link("https://brasil.un.org/pt-br/sdgs")[Objetivos de Desenvolvimento Sustentável (ODS)] definidos pela Organização das Nações Unidas, com destaque para o ODS 3 -- Saúde e Bem-Estar, o ODS 4 -- Educação de Qualidade e o ODS 9 -- Indústria, Inovação e Infraestrutura, que dialogam diretamente com minhas linhas de pesquisa e atuação acadêmica.
+
+#quarto_super(
+kind: 
+"quarto-float-fig"
+, 
+caption: 
+[
+Objetivos de Desenvolvimento Sustentável (ODS) propostos pela Organização das Nações Unidas
+]
+, 
+label: 
+<fig-sdg>
+, 
+position: 
+bottom
+, 
+supplement: 
+"Figura"
+, 
+subrefnumbering: 
+"1a"
+, 
+subcapnumbering: 
+"(a)"
+, 
+[
+#grid(columns: 3, gutter: 2em,
+  [
+#block[
+#figure([
+#box(image("img/ods03.png"))
+], caption: figure.caption(
+position: bottom, 
+[
+Saúde e Bem-Estar
+]), 
+kind: "quarto-float-fig", 
+supplement: "Figura", 
+)
+<fig-sdg03>
+
+
+]
+],
+  [
+#block[
+#figure([
+#box(image("img/ods04.png"))
+], caption: figure.caption(
+position: bottom, 
+[
+Educação de Qualidade
+]), 
+kind: "quarto-float-fig", 
+supplement: "Figura", 
+)
+<fig-sdg04>
+
+
+]
+],
+  [
+#block[
+#figure([
+#box(image("img/ods09.png"))
+], caption: figure.caption(
+position: bottom, 
+[
+Indústria, Inovação e Infraestrutura
+]), 
+kind: "quarto-float-fig", 
+supplement: "Figura", 
+)
+<fig-sdg09>
+
+
+]
+],
+)
+]
+)
+#strong[ODS 3 -- Saúde e Bem-Estar]
+
+As atividades de pesquisa desenvolvidas ao longo da minha trajetória contribuem para o ODS 3, ao promover abordagens orientadas por dados nas áreas da saúde e das ciências biomédicas. Por meio da integração de bioinformática, transcriptômica, epigenética e pesquisa em biomateriais, meus trabalhos apoiam o desenvolvimento e a avaliação de estratégias regenerativas, com ênfase na engenharia de tecido ósseo. O foco em modelos in vitro e em pipelines computacionais preditivos visa aprofundar a compreensão das interações célula--material e gerar biomarcadores robustos, contribuindo para soluções em saúde mais seguras, eficazes e sustentáveis.
+
+#strong[ODS 4 -- Educação de Qualidade]
+
+Em consonância com o ODS 4, atuo na promoção da educação de qualidade por meio da formação científica, capacitação técnica e desenvolvimento de recursos educacionais abertos. Desenvolvo e ministro #emph[workshops];, minicursos e materiais didáticos nas áreas de bioinformática, ciência de dados e práticas de pesquisa reprodutível. Ao enfatizar a alfabetização computacional e a análise crítica de dados, essas ações contribuem para a formação de estudantes e pesquisadores altamente qualificados, fortalecendo processos de aprendizagem inclusivos e contínuos em ciência e tecnologia.
+
+#strong[ODS 9 -- Indústria, Inovação e Infraestrutura]
+
+Minha atuação também se alinha ao ODS 9, ao contribuir para a inovação científica e o fortalecimento da infraestrutura digital de pesquisa. Desenvolvo fluxos computacionais escaláveis, estratégias analíticas baseadas em aprendizado de máquina e recursos de dados interoperáveis que integram informações físicas, químicas e biológicas. Essas iniciativas fortalecem a infraestrutura de pesquisa e estimulam a inovação na interface entre biologia, ciência dos materiais e ciência de dados, favorecendo a geração eficiente de conhecimento e a potencial tradução de avanços científicos em aplicações tecnológicas e industriais.
+
 == Auxílio de Pesquisa
 <auxílio-de-pesquisa>
 Nesta seção são apresentados os auxílios de pesquisa dos quais participei como pesquisador integrante ou colaborador, em projetos financiados por agências de fomento nacionais e internacionais. Embora não figure como pesquisador responsável, minha atuação nesses projetos envolveu contribuições científicas diretas para o desenvolvimento das atividades de pesquisa, a execução experimental e analítica, a produção de resultados e publicações, bem como a formação de recursos humanos. A participação nesses auxílios foi fundamental para a consolidação das linhas de pesquisa desenvolvidas e para o fortalecimento de colaborações interinstitucionais.
