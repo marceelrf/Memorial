@@ -741,7 +741,15 @@ Considerando o estágio atual da minha trajetória acadêmica, ainda concentro m
 ```
 ## Nomenclatura para Lista de Anexos {#sec-9}
 
+A lista de anexos, bem como os respectivos arquivos digitais, seguirá a mesma numeração das seções deste documento às quais os anexos se referem. Dessa forma, cada anexo será identificado pelo número da seção correspondente. Por exemplo, os documentos relativos à seção 6.4 --- "*Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados e Trabalhos Completos Publicados em Anais de Congressos*" --- serão identificados como Anexo 6.4. Esse padrão de nomenclatura tem como objetivo facilitar a organização, a rastreabilidade e o processo de verificação das informações apresentadas.
+
+```{=typst}
+#pagebreak()
+```
+
 ## Considerações Finais {#sec-10}
+
+Ao longo deste memorial, apresentei os principais aspectos da minha trajetória acadêmica e profissional, marcada pelo aprendizado contínuo, pela colaboração e pelo compromisso com a produção e a disseminação do conhecimento. Reconheço que essa trajetória foi construída de forma coletiva e, por isso, agradeço aos professores, servidores e colegas com quem tive a oportunidade de conviver ao longo dos anos, cujas contribuições foram essenciais para minha formação e desenvolvimento.
 
 ```{=typst}
 #pagebreak()
