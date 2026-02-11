@@ -296,7 +296,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-02-10],
+  date: [2026-02-11],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
