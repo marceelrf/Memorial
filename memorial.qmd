@@ -685,7 +685,7 @@ Sempre que solicitado, tenho participado na composição de bancas examinadoras 
 
 Esta seção reúne os cursos, seminários e palestras ministrados ao longo da trajetória acadêmica e profissional, em diferentes contextos institucionais e científicos. As atividades aqui descritas refletem a atuação na difusão do conhecimento, na formação de estudantes e profissionais, bem como na troca de experiências com a comunidade acadêmica e científica, abrangendo ações de caráter didático, técnico e científico, realizadas em âmbito presencial e remoto.
 
-**Palestras:**
+#### Palestras
 
 1.  FERREIRA, MR. *Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades*, **2025**. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: **Presencial**.
 
@@ -705,7 +705,7 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 
 8.  FERREIRA, M.R. *Física das radiações*, **2022**. Evento: Curso de Medicina Veterinária da Faculdade Galileu de Botucatu; Modalidade: **Online**.
 
-**Cursos ministrados:**
+#### Cursos ministrados
 
 1.  [**FERREIRA, M. R.**]{.underline}. *Acelerando sua análise de dados com tidyverse*, **2024**. Evento: XXI Workshop de Genética (Curso de curta duração ministrado).
 
@@ -734,7 +734,7 @@ Ao longo da minha trajetória acadêmica, venho atuando como assessor ad hoc par
 ```{=typst}
 #line(length: 50%, stroke: white)
 ```
-**Avaliação de Artigos para Periódicos Nacionais e Internacionais:**
+#### Avaliação de Artigos para Periódicos Nacionais e Internacionais
 
 1.  European Journal of Medical Research - Desde 2025 (01 parecer);
 
@@ -748,10 +748,12 @@ Ao longo da minha trajetória acadêmica, venho atuando como assessor ad hoc par
 
 6.  BMC Molecular and Cell Biology - Desde 2023 (01 parecer);
 
+7.  International Journal of Biological Macromolecules - Desde 2025 (01 parecer);
+
 ```{=typst}
 #line(length: 50%, stroke: white)
 ```
-**Assessorias Técnicas e Avaliações Institucionais**
+#### Assessorias Técnicas e Avaliações Institucionais
 
 1.  SEBRAE -- Avaliador do Prêmio Startup do Futuro (2022-2023).
 
@@ -767,7 +769,7 @@ Considerando o estágio atual da minha trajetória acadêmica, ainda concentro m
 ```
 ## Nomenclatura para Lista de Anexos {#sec-9}
 
-A lista de anexos, bem como os respectivos arquivos digitais, seguirá a mesma numeração das seções deste documento às quais os anexos se referem. Dessa forma, cada anexo será identificado pelo número da seção correspondente. Por exemplo, os documentos relativos à seção 6.4 --- "*Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados e Trabalhos Completos Publicados em Anais de Congressos*" --- serão identificados como Anexo 6.4 e salvos com `anexo_6.4.pdf`. Esse padrão de nomenclatura tem como objetivo facilitar a organização, a rastreabilidade e o processo de verificação das informações apresentadas.
+A lista de anexos, bem como os respectivos arquivos digitais, seguirá a mesma numeração das seções deste documento às quais os anexos se referem. Dessa forma, cada anexo será identificado pelo número da seção correspondente. Por exemplo, os documentos relativos à seção 6.4 --- "*Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados e Trabalhos Completos Publicados em Anais de Congressos*" --- serão identificados como Anexo 6.4 e salvos como `anexo_6.4.xx.pdf`. Esse padrão de nomenclatura tem como objetivo facilitar a organização, a rastreabilidade e o processo de verificação das informações apresentadas.
 
 ```{=typst}
 #pagebreak()

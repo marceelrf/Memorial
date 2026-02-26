@@ -1008,8 +1008,8 @@ Sempre que solicitado, tenho participado na composição de bancas examinadoras 
 <cursos-seminários-e-palestras-ministradas>
 Esta seção reúne os cursos, seminários e palestras ministrados ao longo da trajetória acadêmica e profissional, em diferentes contextos institucionais e científicos. As atividades aqui descritas refletem a atuação na difusão do conhecimento, na formação de estudantes e profissionais, bem como na troca de experiências com a comunidade acadêmica e científica, abrangendo ações de caráter didático, técnico e científico, realizadas em âmbito presencial e remoto.
 
-#strong[Palestras:]
-
+=== Palestras
+<palestras>
 + FERREIRA, MR. #emph[Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades];, #strong[2025];. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: #strong[Presencial];.
 
 + FERREIRA, M. R. #emph[Bioinformática: Perspectivas para Físicos Médicos];, #strong[2024];. Evento: XVIII CONFIAM - Congresso de Física Aplicada à Medicina; Modalidade: #strong[Presencial];.
@@ -1028,8 +1028,8 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 
 + FERREIRA, M.R. #emph[Física das radiações];, #strong[2022];. Evento: Curso de Medicina Veterinária da Faculdade Galileu de Botucatu; Modalidade: #strong[Online];.
 
-#strong[Cursos ministrados:]
-
+=== Cursos ministrados
+<cursos-ministrados>
 + #underline[#strong[FERREIRA, M. R.];];. #emph[Acelerando sua análise de dados com tidyverse];, #strong[2024];. Evento: XXI Workshop de Genética (Curso de curta duração ministrado).
 
 + #underline[#strong[FERREIRA, Marcel Rodrigues];];; RECALDE, T. F.; CASTELLI, E. C.; MENDES JUNIOR, C. T. Curso de Difusão - #emph[Bioinformática aplicada à genética forense: análise de dados de sequenciamento de segunda e terceira geração,] #strong[2024];. (Curso de curta duração ministrado)
@@ -1055,8 +1055,8 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 Ao longo da minha trajetória acadêmica, venho atuando como assessor ad hoc para periódicos científicos nacionais e internacionais, contribuindo para a avaliação crítica de manuscritos nas áreas de biologia celular, bioengenharia, toxicologia e ciências biomédicas. Essa atuação reflete o reconhecimento da minha formação técnica e da minha experiência científica pela comunidade acadêmica, além de demonstrar minha capacidade de análise crítica, rigor metodológico e compromisso com a qualidade da produção científica.
 
 #line(length: 50%, stroke: white)
-#strong[Avaliação de Artigos para Periódicos Nacionais e Internacionais:]
-
+=== Avaliação de Artigos para Periódicos Nacionais e Internacionais
+<avaliação-de-artigos-para-periódicos-nacionais-e-internacionais>
 + European Journal of Medical Research - Desde 2025 (01 parecer);
 
 + Cell Biology and Toxicology - Desde 2024 (02 pareceres);
@@ -1069,9 +1069,11 @@ Ao longo da minha trajetória acadêmica, venho atuando como assessor ad hoc par
 
 + BMC Molecular and Cell Biology - Desde 2023 (01 parecer);
 
-#line(length: 50%, stroke: white)
-#strong[Assessorias Técnicas e Avaliações Institucionais]
++ International Journal of Biological Macromolecules - Desde 2025 (01 parecer);
 
+#line(length: 50%, stroke: white)
+=== Assessorias Técnicas e Avaliações Institucionais
+<assessorias-técnicas-e-avaliações-institucionais>
 + SEBRAE -- Avaliador do Prêmio Startup do Futuro (2022-2023).
 
 #pagebreak()
@@ -1082,7 +1084,7 @@ Considerando o estágio atual da minha trajetória acadêmica, ainda concentro m
 #pagebreak()
 = Nomenclatura para Lista de Anexos
 <sec-9>
-A lista de anexos, bem como os respectivos arquivos digitais, seguirá a mesma numeração das seções deste documento às quais os anexos se referem. Dessa forma, cada anexo será identificado pelo número da seção correspondente. Por exemplo, os documentos relativos à seção 6.4 --- "#emph[Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados e Trabalhos Completos Publicados em Anais de Congressos];" --- serão identificados como Anexo 6.4 e salvos com `anexo_6.4.pdf`. Esse padrão de nomenclatura tem como objetivo facilitar a organização, a rastreabilidade e o processo de verificação das informações apresentadas.
+A lista de anexos, bem como os respectivos arquivos digitais, seguirá a mesma numeração das seções deste documento às quais os anexos se referem. Dessa forma, cada anexo será identificado pelo número da seção correspondente. Por exemplo, os documentos relativos à seção 6.4 --- "#emph[Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados e Trabalhos Completos Publicados em Anais de Congressos];" --- serão identificados como Anexo 6.4 e salvos como `anexo_6.4.xx.pdf`. Esse padrão de nomenclatura tem como objetivo facilitar a organização, a rastreabilidade e o processo de verificação das informações apresentadas.
 
 #pagebreak()
 = Considerações Finais
