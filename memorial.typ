@@ -296,7 +296,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-02-11],
+  date: [2026-02-26],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -1082,7 +1082,7 @@ Considerando o estágio atual da minha trajetória acadêmica, ainda concentro m
 #pagebreak()
 = Nomenclatura para Lista de Anexos
 <sec-9>
-A lista de anexos, bem como os respectivos arquivos digitais, seguirá a mesma numeração das seções deste documento às quais os anexos se referem. Dessa forma, cada anexo será identificado pelo número da seção correspondente. Por exemplo, os documentos relativos à seção 6.4 --- "#emph[Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados e Trabalhos Completos Publicados em Anais de Congressos];" --- serão identificados como Anexo 6.4. Esse padrão de nomenclatura tem como objetivo facilitar a organização, a rastreabilidade e o processo de verificação das informações apresentadas.
+A lista de anexos, bem como os respectivos arquivos digitais, seguirá a mesma numeração das seções deste documento às quais os anexos se referem. Dessa forma, cada anexo será identificado pelo número da seção correspondente. Por exemplo, os documentos relativos à seção 6.4 --- "#emph[Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados e Trabalhos Completos Publicados em Anais de Congressos];" --- serão identificados como Anexo 6.4 e salvos com `anexo_6.4.pdf`. Esse padrão de nomenclatura tem como objetivo facilitar a organização, a rastreabilidade e o processo de verificação das informações apresentadas.
 
 #pagebreak()
 = Considerações Finais
