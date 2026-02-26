@@ -825,7 +825,7 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 
 + #underline[#strong[Ferreira MR];];, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. #emph[Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis];. Cell Biol Int. 2026 Jan;50(1):e70101. doi: #link("https://www.doi.org/10.1002/cbin.70101")[10.1002/cbin.70101];. Epub 2025 Nov 13. PMID: 41230788.
 
-+ C. J. C. Fernandes,~R. A. Foganholi da Silva,~#underline[#strong[\M. R. Ferreira];];, and~W. F. Zambuzzi, "#emph[Venous Endothelial Cells Promote Osteoblast Differentiation More Effectively Than Arterial Cells via TGF-β/BMP9 and Notch Pathway-Related Gene Expression];,"~#emph[Cell Biochemistry and Function];~44~(2026):~1-14.~#link("https://doi.org/10.1002/cbf.70160");.
++ Fernandes CJC, Foganholi da Silva RA, #underline[#strong[Ferreira MR];];, Zambuzzi WF. Venous Endothelial Cells Promote Osteoblast Differentiation More Effectively Than Arterial Cells via TGF-β/BMP9 and Notch Pathway-Related Gene Expression. Cell Biochemistry and Function. 2026;44:1--14. doi:#link("https://doi.org/10.1002/cbf.70160.")[10.1002/cbf.70160];.~
 
 == Análise Estatística das Publicações
 <análise-estatística-das-publicações>
