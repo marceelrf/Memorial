@@ -296,7 +296,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-02-26],
+  date: [2026-02-27],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -1154,14 +1154,6 @@ ANEXOS
 ]
 )
 ]
-#block(height: 100%, width: 100%)[
-  #align(center + horizon)[
-    #text(size: 24pt, weight: "bold")[\#\# Este texto está no centro!]
-    
-    Configurado via Quarto + Typst.
-  ]
-]
-#pagebreak()
 
 
 
