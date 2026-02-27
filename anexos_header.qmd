@@ -1,0 +1,238 @@
+---
+format: 
+  typst:
+    include-in-header:
+        - text: |
+            /* Color links */
+            #show link: set text(fill: rgb(0, 0, 255))
+            #set par(leading: 1.0em, justify: true)
+            #show heading: set block(above: 1.5em, below: 1em)
+            #set page(
+            paper: "a4",
+            numbering: none,
+            header: none,
+            footer: none)
+editor: visual
+---
+
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 3]
+    
+    3.2 Graduação
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 3]
+    
+   3.3 Mestrado
+  ]
+]
+```
+```{=tyspt}
+#pagebreak()
+```
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 3]
+    
+   3.4 Doutorado
+  ]
+]
+```
+```{=tyspt}
+#pagebreak()
+```
+
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 4]
+    
+    4.1.a 1º Período – Bolsa CAPES/PROCAD (Maio de 2023 – Janeiro de 2025)
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 4]
+    
+    4.1.b 2º Período – Bolsa CAPES/PIPD (Fevereiro de 2025 – Atualmente)
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 5]
+    
+    5.1 Atividades de Monitoria
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 5]
+    
+    5.2 Disciplinas Ministradas
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 5]
+    
+    5.3 Orientações em Nível de Graduação
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 5]
+    
+    5.4 Coorientações em Nível de Graduação
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 5]
+    
+    5.6 Coorientações em Nível de Pós-graduação
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 6]
+    
+    6.5 Publicações: Artigos Completos Aceitos para Publicação e Publicados em Periódicos Internacionais, Capítulos de Livros Publicados, e Trabalhos Completos Publicados em Anais de Congressos
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 6]
+    
+    6.7 Contribuições Científicas
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 7]
+    
+    7.1 Projetos de extensão
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 7]
+    
+    7.2 Participação em Bancas Examinadoras e Julgadoras
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 7]
+    
+    7.3 Cursos, Seminários e Palestras Ministradas
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 7]
+    
+    7.4 Organização de Eventos
+  ]
+]
+```
+```{=typst}
+#pagebreak()
+```
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 7]
+    
+    7.5 Assessor Ad-hoc: Agências de Fomento, Instituições Acadêmicas, e Avaliação de Artigos para Periódicos Nacionais e Internacionais
+  ]
+]
+```
+
+```{=typst}
+#pagebreak()
+```
+```{=typst}
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[Anexos da seção 8]
+    
+  ]
+]
+```

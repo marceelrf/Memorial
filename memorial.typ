@@ -1154,6 +1154,14 @@ ANEXOS
 ]
 )
 ]
+#block(height: 100%, width: 100%)[
+  #align(center + horizon)[
+    #text(size: 24pt, weight: "bold")[\#\# Este texto está no centro!]
+    
+    Configurado via Quarto + Typst.
+  ]
+]
+#pagebreak()
 
 
 
