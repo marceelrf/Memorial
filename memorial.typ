@@ -296,7 +296,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-02-27],
+  date: [2026-02-28],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -1003,6 +1003,8 @@ Sempre que solicitado, tenho participado na composição de bancas examinadoras 
 + #strong[19-11-2025] Membro da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de MATHEUS RODRIGUES SAUDA, discente regular do Programa de Pós-Graduação em Ciências Biológicas (Genética), Curso de Mestrado Acadêmico;
 
 + #strong[08-01-2026] Membro da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de LUISA ANNIBAL BARATA, discente regular do Programa de Pós-Graduação em Biologia Geral e Aplicada, Curso de Mestrado Acadêmico;
+
++ #strong[24-02-2026] MEMBRO TITULAR da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de MARIANA ANTUNES PELEGATI, discente regular do Programa de PósGraduação em Biometria, Curso de Mestrado Acadêmico;
 
 == Cursos, Seminários e Palestras Ministradas
 <cursos-seminários-e-palestras-ministradas>
