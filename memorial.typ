@@ -290,13 +290,13 @@
 )
 
 #show: doc => article(
-  title: [Memorial circunstanciado para concurso de Professor Doutor junto ao Departamento de Bioquímica],
+  title: [Memorial circunstanciado],
   authors: (
     ( name: [Dr.~Marcel Rodrigues Ferreira],
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-02-28],
+  date: [2026-06-10],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -559,7 +559,8 @@ Este segundo período configura-se, portanto, como uma extensão natural e estra
 
 == Orientações em Nível de Graduação
 <orientações-em-nível-de-graduação>
-+ #link("http://lattes.cnpq.br/0088184184301073")[#strong[Juliana Azevedo Amaral];];. "#emph[Desenvolvimento de um Aplicativo para Gestão Integrada de Dados de Bioinformática em Análises Forenses];". Início: 2025. Fim: #strong[EM ANDAMENTO];. Iniciação científica (Graduando em Ciências Biomédicas);
++ #link("http://lattes.cnpq.br/0088184184301073")[#strong[Juliana Azevedo Amaral];];. "#emph[Desenvolvimento de um Aplicativo para Gestão Integrada de Dados de Bioinformática em Análises Forenses];". Início: 2025. Fim: 2026. Iniciação científica (Graduando em Ciências Biomédicas);
++ #link("http://lattes.cnpq.br/0088184184301073")[#strong[Juliana Azevedo Amaral];];. "#emph[Caracterização haplotípica e epigenômica da região OCA2-HERC2];". Início: 2026. Fim: #strong[EM ANDAMENTO];. Iniciação científica (Graduando em Ciências Biomédicas). FAPESP: 2025/28063-3
 
 == Coorientações em Nível de Graduação
 <coorientações-em-nível-de-graduação>
@@ -825,13 +826,19 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 
 + #underline[#strong[Ferreira MR];];, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. #emph[Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis];. Cell Biol Int. 2026 Jan;50(1):e70101. doi: #link("https://www.doi.org/10.1002/cbin.70101")[10.1002/cbin.70101];. Epub 2025 Nov 13. PMID: 41230788.
 
-+ Fernandes CJC, Foganholi da Silva RA, #underline[#strong[Ferreira MR];];, Zambuzzi WF. Venous Endothelial Cells Promote Osteoblast Differentiation More Effectively Than Arterial Cells via TGF-β/BMP9 and Notch Pathway-Related Gene Expression. Cell Biochemistry and Function. 2026;44:1--14. doi:#link("https://doi.org/10.1002/cbf.70160.")[10.1002/cbf.70160];.~
++ Fernandes CJC, Foganholi da Silva RA, #underline[#strong[Ferreira MR];];, Zambuzzi WF. Venous Endothelial Cells Promote Osteoblast Differentiation More Effectively Than Arterial Cells via TGF-β/BMP9 and Notch Pathway-Related Gene Expression. Cell Biochemistry and Function. 2026;44:1--14. doi:#link("https://doi.org/10.1002/cbf.70160.")[10.1002/cbf.70160];.
+
++ Suter LC, de Almeida GS, dos Santos MLP, Carra MGJ, #underline[#strong[Ferreira MR];];, Saeki MJ, Zambuzzi WF. Cobalt-Doped Biphasic Calcium Phosphate Orchestrates Osteogenesis-Angiogenesis Signals via Hypoxia-Mimetic Signaling. J Biomed Mater Res A. 2026;114(4):e70070. doi: #link("www.doi.org/10.1002/jbm.a.70070")[10.1002/jbm.a.70070];.
+
++ Fioretto MN, #underline[#strong[Ferreira MR];];, Caxali GH, de Souza PV, Maciel FA, Ribeiro IT, Barata LA, Vieira ALS, Pires MP, Lemos LS, Mattos R, Delella FK, Scarano WR, Zambrano E, Justulin LA. Omics-based molecular signatures of adrenal, kidney, and lung development in male rat offspring exposed to maternal protein restriction. Clin Nutr. 2026;XX:106656. doi: #link("www.doi.org/10.1016/j.clnu.2026.106656")[10.1016/j.clnu.2026.106656];.
+
++ Alvarez DAN, Ribeiro IT, Fioretto MN, Pires MP, Barata LA, Maciel FA, Portela LMF, Mattos R, Baptista HS, Vitali PM, Felipe VAA, #underline[#strong[Ferreira MR];];, Zambrano E, Boer PA, Justulin LA. Renal proteomics of male offspring exposed to maternal protein restriction: molecular, epigenetic, and nephron-specific signatures of metabolic programming. J Physiol Biochem. 2026;82:48. doi: #link("www.doi.org/10.1007/s13105-026-01189-9")[10.1007/s13105-026-01189-9];.
 
 == Análise Estatística das Publicações
 <análise-estatística-das-publicações>
-+ Número de publicações: 37.
++ Número de publicações: 40.
 
-+ Número de artigos completos em periódicos: 36.
++ Número de artigos completos em periódicos: 39.
 
 + Número de citações: 632 (Google Scholar), 540 (ResearchGate), 502 (Scopus), 479 (ResearcherID).
 

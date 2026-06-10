@@ -1,5 +1,5 @@
 ---
-title: "Memorial circunstanciado para concurso de Professor Doutor junto ao Departamento de Bioquímica"
+title: "Memorial circunstanciado"
 author: 
   - name: "Dr. Marcel Rodrigues Ferreira"
     id: "MRF"
@@ -303,7 +303,8 @@ Este segundo período configura-se, portanto, como uma extensão natural e estra
 
 ### Orientações em Nível de Graduação
 
-1.  [**Juliana Azevedo Amaral**](http://lattes.cnpq.br/0088184184301073). "*Desenvolvimento de um Aplicativo para Gestão Integrada de Dados de Bioinformática em Análises Forenses*". Início: 2025. Fim: **EM ANDAMENTO**. Iniciação científica (Graduando em Ciências Biomédicas);
+1.  [**Juliana Azevedo Amaral**](http://lattes.cnpq.br/0088184184301073). "*Desenvolvimento de um Aplicativo para Gestão Integrada de Dados de Bioinformática em Análises Forenses*". Início: 2025. Fim: 2026. Iniciação científica (Graduando em Ciências Biomédicas);
+2.  [**Juliana Azevedo Amaral**](http://lattes.cnpq.br/0088184184301073). "*Caracterização haplotípica e epigenômica da região OCA2-HERC2*". Início: 2026. Fim: **EM ANDAMENTO**. Iniciação científica (Graduando em Ciências Biomédicas). FAPESP: 2025/28063-3
 
 ### Coorientações em Nível de Graduação
 
@@ -523,15 +524,21 @@ A seguir, apresentam-se, em ordem cronológica de publicação, os artigos cient
 
 36. [**Ferreira MR**]{.underline}, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. *Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis*. Cell Biol Int. 2026 Jan;50(1):e70101. doi: [10.1002/cbin.70101](https://www.doi.org/10.1002/cbin.70101). Epub 2025 Nov 13. PMID: 41230788.
 
-37. Fernandes CJC, Foganholi da Silva RA, [**Ferreira MR**]{.underline}, Zambuzzi WF. Venous Endothelial Cells Promote Osteoblast Differentiation More Effectively Than Arterial Cells via TGF-β/BMP9 and Notch Pathway-Related Gene Expression. Cell Biochemistry and Function. 2026;44:1--14. doi:[10.1002/cbf.70160](https://doi.org/10.1002/cbf.70160.). 
+37. Fernandes CJC, Foganholi da Silva RA, [**Ferreira MR**]{.underline}, Zambuzzi WF. Venous Endothelial Cells Promote Osteoblast Differentiation More Effectively Than Arterial Cells via TGF-β/BMP9 and Notch Pathway-Related Gene Expression. Cell Biochemistry and Function. 2026;44:1--14. doi:[10.1002/cbf.70160](https://doi.org/10.1002/cbf.70160.).
+
+38. Suter LC, de Almeida GS, dos Santos MLP, Carra MGJ, [**Ferreira MR**]{.underline}, Saeki MJ, Zambuzzi WF. Cobalt-Doped Biphasic Calcium Phosphate Orchestrates Osteogenesis-Angiogenesis Signals via Hypoxia-Mimetic Signaling. J Biomed Mater Res A. 2026;114(4):e70070. doi: [10.1002/jbm.a.70070](www.doi.org/10.1002/jbm.a.70070).
+
+39. Fioretto MN, [**Ferreira MR**]{.underline}, Caxali GH, de Souza PV, Maciel FA, Ribeiro IT, Barata LA, Vieira ALS, Pires MP, Lemos LS, Mattos R, Delella FK, Scarano WR, Zambrano E, Justulin LA. Omics-based molecular signatures of adrenal, kidney, and lung development in male rat offspring exposed to maternal protein restriction. Clin Nutr. 2026;XX:106656. doi: [10.1016/j.clnu.2026.106656](www.doi.org/10.1016/j.clnu.2026.106656).
+
+40. Alvarez DAN, Ribeiro IT, Fioretto MN, Pires MP, Barata LA, Maciel FA, Portela LMF, Mattos R, Baptista HS, Vitali PM, Felipe VAA, [**Ferreira MR**]{.underline}, Zambrano E, Boer PA, Justulin LA. Renal proteomics of male offspring exposed to maternal protein restriction: molecular, epigenetic, and nephron-specific signatures of metabolic programming. J Physiol Biochem. 2026;82:48. doi: [10.1007/s13105-026-01189-9](www.doi.org/10.1007/s13105-026-01189-9).
 
 [^5]: Houve um erro na submissão, resultando na inversão dos sobrenomes. Portanto, o nome correto é Marcel Rodrigues Ferreira. Caso queira confirmar a veracidade desse artigo, o professor Dr. Willian Zambuzzi ([w.zambuzzi\@unesp.br](mailto:w.zambuzzi@unesp.br)) pode ser consultado.
 
 ### Análise Estatística das Publicações
 
-1.  Número de publicações: 37.
+1.  Número de publicações: 40.
 
-2.  Número de artigos completos em periódicos: 36.
+2.  Número de artigos completos em periódicos: 39.
 
 3.  Número de citações: 632 (Google Scholar), 540 (ResearchGate), 502 (Scopus), 479 (ResearcherID).
 
