@@ -303,8 +303,9 @@ Este segundo período configura-se, portanto, como uma extensão natural e estra
 
 ### Orientações em Nível de Graduação
 
-1.  [**Juliana Azevedo Amaral**](http://lattes.cnpq.br/0088184184301073). "*Desenvolvimento de um Aplicativo para Gestão Integrada de Dados de Bioinformática em Análises Forenses*". Início: 2025. Fim: 2026. Iniciação científica (Graduando em Ciências Biomédicas);
-2.  [**Juliana Azevedo Amaral**](http://lattes.cnpq.br/0088184184301073). "*Caracterização haplotípica e epigenômica da região OCA2-HERC2*". Início: 2026. Fim: **EM ANDAMENTO**. Iniciação científica (Graduando em Ciências Biomédicas). FAPESP: 2025/28063-3
+1.  [**Juliana Azevedo Amaral**](http://lattes.cnpq.br/0088184184301073). "*Desenvolvimento de um Aplicativo para Gestão Integrada de Dados de Bioinformática em Análises Forenses*". Início: 2025. Fim: 2026. Iniciação científica (Graduanda em Ciências Biomédicas);
+2.  [**Juliana Azevedo Amaral**](http://lattes.cnpq.br/0088184184301073). "*Caracterização haplotípica e epigenômica da região OCA2-HERC2*". Início: 2026. Fim: **EM ANDAMENTO**. Iniciação científica (Graduanda em Ciências Biomédicas). FAPESP: 2025/28063-3
+3.  [**Caike Santos Souza**](http://lattes.cnpq.br/0173179889510278). "*Análise populacional da inserção AluYa5 na região promotora de TYR*". Início: 2026. Fim: **EM ANDAMENTO**. Iniciação científica (Graduando em Ciências Biológicas);
 
 ### Coorientações em Nível de Graduação
 
@@ -690,29 +691,33 @@ Sempre que solicitado, tenho participado na composição de bancas examinadoras 
 
 15. **24-02-2026** MEMBRO TITULAR da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de MARIANA ANTUNES PELEGATI, discente regular do Programa de PósGraduação em Biometria, Curso de Mestrado Acadêmico;
 
+16. **16-07-2026** MEMBRO TITULAR da Comissão Examinadora do Exame de QUALIFICAÇÃO de TAINÁ DORTE DA SILVA, discente regular do Programa de PósGraduação em Biologia Geral e Aplicada, Curso de Doutorado Acadêmico;
+
 ### Cursos, Seminários e Palestras Ministradas
 
 Esta seção reúne os cursos, seminários e palestras ministrados ao longo da trajetória acadêmica e profissional, em diferentes contextos institucionais e científicos. As atividades aqui descritas refletem a atuação na difusão do conhecimento, na formação de estudantes e profissionais, bem como na troca de experiências com a comunidade acadêmica e científica, abrangendo ações de caráter didático, técnico e científico, realizadas em âmbito presencial e remoto.
 
 #### Palestras
 
-1.  FERREIRA, MR. *Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades*, **2025**. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: **Presencial**.
+1.   FERREIRA, MR. Desafios e Perspectivas do Sequenciamento de Terceira Geração na Genética Forense, **2026**. XVIII Curso de Inverno em Genética; Modalidade: **Presencial**.
 
-2.  FERREIRA, M. R. *Bioinformática: Perspectivas para Físicos Médicos*, **2024**. Evento: XVIII CONFIAM - Congresso de Física Aplicada à Medicina; Modalidade: **Presencial**.
+2.  FERREIRA, MR. *Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades*, **2025**. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: **Presencial**.
 
-3.  FERREIRA, M. R. *Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA*, **2024**. Evento: I Workshop de Engenharia de Bioprocessos e Biotecnologia (WEBB); Modalidade: **Presencial**.
+3.  FERREIRA, M. R. *Bioinformática: Perspectivas para Físicos Médicos*, **2024**. Evento: XVIII CONFIAM - Congresso de Física Aplicada à Medicina; Modalidade: **Presencial**.
 
-4.  FERREIRA, MR. *Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática*, **2024**. Evento: Programa de Pós-Graduação em Biometria da Universidade Estadual Paulista "Júlio de Mesquita Filho" -- UNESP; Modalidade: **Presencial**.
+4.  FERREIRA, M. R. *Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA*, **2024**. Evento: I Workshop de Engenharia de Bioprocessos e Biotecnologia (WEBB); Modalidade: **Presencial**.
 
-5.  FERREIRA, MR. *Mesa-redonda: Internacionalização em Biotecnologia*, **2023**. Evento: VIII Workshop de Biotecnologia, organizado pelos alunos de Pós-graduação em Biotecnologia, da Universidade Estadual Paulista "Júlio de Mesquita Filho"; Modalidade: **Online**;
+5.  FERREIRA, MR. *Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática*, **2024**. Evento: Programa de Pós-Graduação em Biometria da Universidade Estadual Paulista "Júlio de Mesquita Filho" -- UNESP; Modalidade: **Presencial**.
 
-6.  FERREIRA, MR. *Reanálise de datasets - pipelines e serviços*, **2023**. Evento: Disicplina de Noções Básicas e Aplicações da Bioinformática, do Programa de Pós-graduação em Biologia Geral e Aplicada; Modalidade: **Presencial**.
+6.  FERREIRA, MR. *Mesa-redonda: Internacionalização em Biotecnologia*, **2023**. Evento: VIII Workshop de Biotecnologia, organizado pelos alunos de Pós-graduação em Biotecnologia, da Universidade Estadual Paulista "Júlio de Mesquita Filho"; Modalidade: **Online**;
 
-7.  FERREIRA, MR. *Bioinformática*, **2022**. Evento: Disciplina de "Técnicas Especiais aplicadas à Pesquisa em Patologia" junto ao Programa de Pós-Graduação em Patologia da Faculdade de
+7.  FERREIRA, MR. *Reanálise de datasets - pipelines e serviços*, **2023**. Evento: Disicplina de Noções Básicas e Aplicações da Bioinformática, do Programa de Pós-graduação em Biologia Geral e Aplicada; Modalidade: **Presencial**.
+
+8.  FERREIRA, MR. *Bioinformática*, **2022**. Evento: Disciplina de "Técnicas Especiais aplicadas à Pesquisa em Patologia" junto ao Programa de Pós-Graduação em Patologia da Faculdade de
 
     Medicina de Botucatu -- UNESP; Modalidade: **Online**.
 
-8.  FERREIRA, M.R. *Física das radiações*, **2022**. Evento: Curso de Medicina Veterinária da Faculdade Galileu de Botucatu; Modalidade: **Online**.
+9.  FERREIRA, M.R. *Física das radiações*, **2022**. Evento: Curso de Medicina Veterinária da Faculdade Galileu de Botucatu; Modalidade: **Online**.
 
 #### Cursos ministrados
 

@@ -296,7 +296,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-06-10],
+  date: [2026-07-29],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -559,8 +559,9 @@ Este segundo período configura-se, portanto, como uma extensão natural e estra
 
 == Orientações em Nível de Graduação
 <orientações-em-nível-de-graduação>
-+ #link("http://lattes.cnpq.br/0088184184301073")[#strong[Juliana Azevedo Amaral];];. "#emph[Desenvolvimento de um Aplicativo para Gestão Integrada de Dados de Bioinformática em Análises Forenses];". Início: 2025. Fim: 2026. Iniciação científica (Graduando em Ciências Biomédicas);
-+ #link("http://lattes.cnpq.br/0088184184301073")[#strong[Juliana Azevedo Amaral];];. "#emph[Caracterização haplotípica e epigenômica da região OCA2-HERC2];". Início: 2026. Fim: #strong[EM ANDAMENTO];. Iniciação científica (Graduando em Ciências Biomédicas). FAPESP: 2025/28063-3
++ #link("http://lattes.cnpq.br/0088184184301073")[#strong[Juliana Azevedo Amaral];];. "#emph[Desenvolvimento de um Aplicativo para Gestão Integrada de Dados de Bioinformática em Análises Forenses];". Início: 2025. Fim: 2026. Iniciação científica (Graduanda em Ciências Biomédicas);
++ #link("http://lattes.cnpq.br/0088184184301073")[#strong[Juliana Azevedo Amaral];];. "#emph[Caracterização haplotípica e epigenômica da região OCA2-HERC2];". Início: 2026. Fim: #strong[EM ANDAMENTO];. Iniciação científica (Graduanda em Ciências Biomédicas). FAPESP: 2025/28063-3
++ #link("http://lattes.cnpq.br/0173179889510278")[#strong[Caike Santos Souza];];. "#emph[Análise populacional da inserção AluYa5 na região promotora de TYR];". Início: 2026. Fim: #strong[EM ANDAMENTO];. Iniciação científica (Graduando em Ciências Biológicas);
 
 == Coorientações em Nível de Graduação
 <coorientações-em-nível-de-graduação>
@@ -1013,12 +1014,16 @@ Sempre que solicitado, tenho participado na composição de bancas examinadoras 
 
 + #strong[24-02-2026] MEMBRO TITULAR da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de MARIANA ANTUNES PELEGATI, discente regular do Programa de PósGraduação em Biometria, Curso de Mestrado Acadêmico;
 
++ #strong[16-07-2026] MEMBRO TITULAR da Comissão Examinadora do Exame de QUALIFICAÇÃO de TAINÁ DORTE DA SILVA, discente regular do Programa de PósGraduação em Biologia Geral e Aplicada, Curso de Doutorado Acadêmico;
+
 == Cursos, Seminários e Palestras Ministradas
 <cursos-seminários-e-palestras-ministradas>
 Esta seção reúne os cursos, seminários e palestras ministrados ao longo da trajetória acadêmica e profissional, em diferentes contextos institucionais e científicos. As atividades aqui descritas refletem a atuação na difusão do conhecimento, na formação de estudantes e profissionais, bem como na troca de experiências com a comunidade acadêmica e científica, abrangendo ações de caráter didático, técnico e científico, realizadas em âmbito presencial e remoto.
 
 === Palestras
 <palestras>
++ FERREIRA, MR. Desafios e Perspectivas do Sequenciamento de Terceira Geração na Genética Forense, #strong[2026];. XVIII Curso de Inverno em Genética; Modalidade: #strong[Presencial];.
+
 + FERREIRA, MR. #emph[Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades];, #strong[2025];. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: #strong[Presencial];.
 
 + FERREIRA, M. R. #emph[Bioinformática: Perspectivas para Físicos Médicos];, #strong[2024];. Evento: XVIII CONFIAM - Congresso de Física Aplicada à Medicina; Modalidade: #strong[Presencial];.
