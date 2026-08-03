@@ -699,25 +699,23 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 
 #### Palestras
 
-1.   FERREIRA, MR. Desafios e Perspectivas do Sequenciamento de Terceira Geração na Genética Forense, **2026**. XVIII Curso de Inverno em Genética; Modalidade: **Presencial**.
+1.  FERREIRA, M.R. *Física das radiações*, **2022**. Evento: Curso de Medicina Veterinária da Faculdade Galileu de Botucatu; Modalidade: **Online**.
 
-2.  FERREIRA, MR. *Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades*, **2025**. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: **Presencial**.
+2.  FERREIRA, MR. *Bioinformática*, **2022**. Evento: Disciplina de "Técnicas Especiais aplicadas à Pesquisa em Patologia" junto ao Programa de Pós-Graduação em Patologia da Faculdade de Medicina de Botucatu -- UNESP; Modalidade: **Online**.
 
-3.  FERREIRA, M. R. *Bioinformática: Perspectivas para Físicos Médicos*, **2024**. Evento: XVIII CONFIAM - Congresso de Física Aplicada à Medicina; Modalidade: **Presencial**.
+3.  FERREIRA, MR. *Reanálise de datasets - pipelines e serviços*, **2023**. Evento: Disicplina de Noções Básicas e Aplicações da Bioinformática, do Programa de Pós-graduação em Biologia Geral e Aplicada; Modalidade: **Presencial**.
 
-4.  FERREIRA, M. R. *Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA*, **2024**. Evento: I Workshop de Engenharia de Bioprocessos e Biotecnologia (WEBB); Modalidade: **Presencial**.
+4.  FERREIRA, MR. *Mesa-redonda: Internacionalização em Biotecnologia*, **2023**. Evento: VIII Workshop de Biotecnologia, organizado pelos alunos de Pós-graduação em Biotecnologia, da Universidade Estadual Paulista "Júlio de Mesquita Filho"; Modalidade: **Online**;
 
 5.  FERREIRA, MR. *Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática*, **2024**. Evento: Programa de Pós-Graduação em Biometria da Universidade Estadual Paulista "Júlio de Mesquita Filho" -- UNESP; Modalidade: **Presencial**.
 
-6.  FERREIRA, MR. *Mesa-redonda: Internacionalização em Biotecnologia*, **2023**. Evento: VIII Workshop de Biotecnologia, organizado pelos alunos de Pós-graduação em Biotecnologia, da Universidade Estadual Paulista "Júlio de Mesquita Filho"; Modalidade: **Online**;
+6.  FERREIRA, M. R. *Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA*, **2024**. Evento: I Workshop de Engenharia de Bioprocessos e Biotecnologia (WEBB); Modalidade: **Presencial**.
 
-7.  FERREIRA, MR. *Reanálise de datasets - pipelines e serviços*, **2023**. Evento: Disicplina de Noções Básicas e Aplicações da Bioinformática, do Programa de Pós-graduação em Biologia Geral e Aplicada; Modalidade: **Presencial**.
+7.  FERREIRA, M. R. *Bioinformática: Perspectivas para Físicos Médicos*, **2024**. Evento: XVIII CONFIAM - Congresso de Física Aplicada à Medicina; Modalidade: **Presencial**.
 
-8.  FERREIRA, MR. *Bioinformática*, **2022**. Evento: Disciplina de "Técnicas Especiais aplicadas à Pesquisa em Patologia" junto ao Programa de Pós-Graduação em Patologia da Faculdade de
+8.  FERREIRA, MR. *Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades*, **2025**. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: **Presencial**.
 
-    Medicina de Botucatu -- UNESP; Modalidade: **Online**.
-
-9.  FERREIRA, M.R. *Física das radiações*, **2022**. Evento: Curso de Medicina Veterinária da Faculdade Galileu de Botucatu; Modalidade: **Online**.
+9.  FERREIRA, MR. Desafios e Perspectivas do Sequenciamento de Terceira Geração na Genética Forense, **2026**. XVIII Curso de Inverno em Genética; Modalidade: **Presencial**.
 
 #### Cursos ministrados
 
@@ -750,19 +748,25 @@ Ao longo da minha trajetória acadêmica, venho atuando como assessor ad hoc par
 ```
 #### Avaliação de Artigos para Periódicos Nacionais e Internacionais
 
-1.  European Journal of Medical Research - Desde 2025 (01 parecer);
+1.  [European Journal of Medical Research](https://link.springer.com/journal/40001) - Desde 2025 (01 parecer);
 
-2.  Cell Biology and Toxicology - Desde 2024 (02 pareceres);
+2.  [Cell Biology and Toxicology](https://link.springer.com/journal/10565) - Desde 2024 (02 pareceres);
 
-3.  Scientific Reports - Desde 2024 (03 pareceres);
+3.  [Scientific Reports](https://www.nature.com/srep/) - Desde 2024 (04 pareceres);
 
-4.  Life Sciences - Desde 2023 (01 parecer);
+4.  [Life Sciences](https://www.sciencedirect.com/journal/life-sciences) - Desde 2023 (01 parecer);
 
-5.  Frontiers in Bioengineering and Biotechnology - Desde 2023 (01 parecer);
+5.  [Frontiers in Bioengineering and Biotechnology](https://www.frontiersin.org/journals/bioengineering-and-biotechnology) - Desde 2023 (01 parecer);
 
-6.  BMC Molecular and Cell Biology - Desde 2023 (01 parecer);
+6.  [BMC Molecular and Cell Biology](https://link.springer.com/journal/12860) - Desde 2023 (01 parecer);
 
-7.  International Journal of Biological Macromolecules - Desde 2025 (01 parecer);
+7.  [International Journal of Biological Macromolecules](https://www.sciencedirect.com/journal/international-journal-of-biological-macromolecules) - Desde 2025 (01 parecer);
+
+8.  [npj Precision Oncology](https://www.nature.com/npjprecisiononcology/) - Desde 2026 (01 parecer);
+
+9.  [DARU Journal of Pharmaceutical Sciences](https://link.springer.com/journal/40199) - Desde 2026 (01 parecer);
+
+10. [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics) - Desde 2026 (01 parecer);
 
 ```{=typst}
 #line(length: 50%, stroke: white)

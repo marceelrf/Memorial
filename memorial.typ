@@ -296,7 +296,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-07-29],
+  date: [2026-08-03],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -1022,25 +1022,23 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 
 === Palestras
 <palestras>
-+ FERREIRA, MR. Desafios e Perspectivas do Sequenciamento de Terceira Geração na Genética Forense, #strong[2026];. XVIII Curso de Inverno em Genética; Modalidade: #strong[Presencial];.
++ FERREIRA, M.R. #emph[Física das radiações];, #strong[2022];. Evento: Curso de Medicina Veterinária da Faculdade Galileu de Botucatu; Modalidade: #strong[Online];.
 
-+ FERREIRA, MR. #emph[Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades];, #strong[2025];. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: #strong[Presencial];.
-
-+ FERREIRA, M. R. #emph[Bioinformática: Perspectivas para Físicos Médicos];, #strong[2024];. Evento: XVIII CONFIAM - Congresso de Física Aplicada à Medicina; Modalidade: #strong[Presencial];.
-
-+ FERREIRA, M. R. #emph[Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA];, #strong[2024];. Evento: I Workshop de Engenharia de Bioprocessos e Biotecnologia (WEBB); Modalidade: #strong[Presencial];.
-
-+ FERREIRA, MR. #emph[Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática];, #strong[2024];. Evento: Programa de Pós-Graduação em Biometria da Universidade Estadual Paulista "Júlio de Mesquita Filho" -- UNESP; Modalidade: #strong[Presencial];.
-
-+ FERREIRA, MR. #emph[Mesa-redonda: Internacionalização em Biotecnologia];, #strong[2023];. Evento: VIII Workshop de Biotecnologia, organizado pelos alunos de Pós-graduação em Biotecnologia, da Universidade Estadual Paulista "Júlio de Mesquita Filho"; Modalidade: #strong[Online];;
++ FERREIRA, MR. #emph[Bioinformática];, #strong[2022];. Evento: Disciplina de "Técnicas Especiais aplicadas à Pesquisa em Patologia" junto ao Programa de Pós-Graduação em Patologia da Faculdade de Medicina de Botucatu -- UNESP; Modalidade: #strong[Online];.
 
 + FERREIRA, MR. #emph[Reanálise de datasets - pipelines e serviços];, #strong[2023];. Evento: Disicplina de Noções Básicas e Aplicações da Bioinformática, do Programa de Pós-graduação em Biologia Geral e Aplicada; Modalidade: #strong[Presencial];.
 
-+ FERREIRA, MR. #emph[Bioinformática];, #strong[2022];. Evento: Disciplina de "Técnicas Especiais aplicadas à Pesquisa em Patologia" junto ao Programa de Pós-Graduação em Patologia da Faculdade de
++ FERREIRA, MR. #emph[Mesa-redonda: Internacionalização em Biotecnologia];, #strong[2023];. Evento: VIII Workshop de Biotecnologia, organizado pelos alunos de Pós-graduação em Biotecnologia, da Universidade Estadual Paulista "Júlio de Mesquita Filho"; Modalidade: #strong[Online];;
 
-  Medicina de Botucatu -- UNESP; Modalidade: #strong[Online];.
++ FERREIRA, MR. #emph[Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática];, #strong[2024];. Evento: Programa de Pós-Graduação em Biometria da Universidade Estadual Paulista "Júlio de Mesquita Filho" -- UNESP; Modalidade: #strong[Presencial];.
 
-+ FERREIRA, M.R. #emph[Física das radiações];, #strong[2022];. Evento: Curso de Medicina Veterinária da Faculdade Galileu de Botucatu; Modalidade: #strong[Online];.
++ FERREIRA, M. R. #emph[Biotecnologia forense: Bioinformática aplicada na identificação humana por DNA];, #strong[2024];. Evento: I Workshop de Engenharia de Bioprocessos e Biotecnologia (WEBB); Modalidade: #strong[Presencial];.
+
++ FERREIRA, M. R. #emph[Bioinformática: Perspectivas para Físicos Médicos];, #strong[2024];. Evento: XVIII CONFIAM - Congresso de Física Aplicada à Medicina; Modalidade: #strong[Presencial];.
+
++ FERREIRA, MR. #emph[Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades];, #strong[2025];. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: #strong[Presencial];.
+
++ FERREIRA, MR. Desafios e Perspectivas do Sequenciamento de Terceira Geração na Genética Forense, #strong[2026];. XVIII Curso de Inverno em Genética; Modalidade: #strong[Presencial];.
 
 === Cursos ministrados
 <cursos-ministrados>
@@ -1071,19 +1069,25 @@ Ao longo da minha trajetória acadêmica, venho atuando como assessor ad hoc par
 #line(length: 50%, stroke: white)
 === Avaliação de Artigos para Periódicos Nacionais e Internacionais
 <avaliação-de-artigos-para-periódicos-nacionais-e-internacionais>
-+ European Journal of Medical Research - Desde 2025 (01 parecer);
++ #link("https://link.springer.com/journal/40001")[European Journal of Medical Research] - Desde 2025 (01 parecer);
 
-+ Cell Biology and Toxicology - Desde 2024 (02 pareceres);
++ #link("https://link.springer.com/journal/10565")[Cell Biology and Toxicology] - Desde 2024 (02 pareceres);
 
-+ Scientific Reports - Desde 2024 (03 pareceres);
++ #link("https://www.nature.com/srep/")[Scientific Reports] - Desde 2024 (04 pareceres);
 
-+ Life Sciences - Desde 2023 (01 parecer);
++ #link("https://www.sciencedirect.com/journal/life-sciences")[Life Sciences] - Desde 2023 (01 parecer);
 
-+ Frontiers in Bioengineering and Biotechnology - Desde 2023 (01 parecer);
++ #link("https://www.frontiersin.org/journals/bioengineering-and-biotechnology")[Frontiers in Bioengineering and Biotechnology] - Desde 2023 (01 parecer);
 
-+ BMC Molecular and Cell Biology - Desde 2023 (01 parecer);
++ #link("https://link.springer.com/journal/12860")[BMC Molecular and Cell Biology] - Desde 2023 (01 parecer);
 
-+ International Journal of Biological Macromolecules - Desde 2025 (01 parecer);
++ #link("https://www.sciencedirect.com/journal/international-journal-of-biological-macromolecules")[International Journal of Biological Macromolecules] - Desde 2025 (01 parecer);
+
++ #link("https://www.nature.com/npjprecisiononcology/")[npj Precision Oncology] - Desde 2026 (01 parecer);
+
++ #link("https://link.springer.com/journal/40199")[DARU Journal of Pharmaceutical Sciences] - Desde 2026 (01 parecer);
+
++ #link("https://www.frontiersin.org/journals/genetics")[Frontiers in Genetics] - Desde 2026 (01 parecer);
 
 #line(length: 50%, stroke: white)
 === Assessorias Técnicas e Avaliações Institucionais
