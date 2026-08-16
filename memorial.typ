@@ -296,7 +296,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-08-03],
+  date: [2026-08-16],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -1014,7 +1014,9 @@ Sempre que solicitado, tenho participado na composição de bancas examinadoras 
 
 + #strong[24-02-2026] MEMBRO TITULAR da Comissão Examinadora da DEFESA DE DISSERTAÇÃO de MARIANA ANTUNES PELEGATI, discente regular do Programa de PósGraduação em Biometria, Curso de Mestrado Acadêmico;
 
-+ #strong[16-07-2026] MEMBRO TITULAR da Comissão Examinadora do Exame de QUALIFICAÇÃO de TAINÁ DORTE DA SILVA, discente regular do Programa de PósGraduação em Biologia Geral e Aplicada, Curso de Doutorado Acadêmico;
++ #strong[16-07-2026] MEMBRO TITULAR da Comissão Examinadora do Exame de QUALIFICAÇÃO de TAINÁ DORTE DA SILVA, discente regular do Programa de Pós Graduação em Biologia Geral e Aplicada, Curso de Doutorado Acadêmico;
+
++ #strong[12-08-2026] MEMBRO TITULAR da Comissão Examinadora da 1ª Banca de Acompanhamento de DOUTORADO da aluna Isabelle Mira da Silva matriculada no Programa de Pós-Graduação em Cirurgia e Medicina Translacional - FMB - UNESP;
 
 == Cursos, Seminários e Palestras Ministradas
 <cursos-seminários-e-palestras-ministradas>
