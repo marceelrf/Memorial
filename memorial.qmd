@@ -719,6 +719,8 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 
 9.  FERREIRA, MR. Desafios e Perspectivas do Sequenciamento de Terceira Geração na Genética Forense, **2026**. XVIII Curso de Inverno em Genética; Modalidade: **Presencial**.
 
+10. FERREIRA, MR. Short and Long reads Oxford Nanopore- diferenças nos bancos de dados e analises, **2026**. Evento: Disicplina de Noções Básicas e Aplicações da Bioinformática, do Programa de Pós-graduação em Biologia Geral e Aplicada; Modalidade: **Presencial**.
+
 #### Cursos ministrados
 
 1.  [**FERREIRA, M. R.**]{.underline}. *Acelerando sua análise de dados com tidyverse*, **2024**. Evento: XXI Workshop de Genética (Curso de curta duração ministrado).

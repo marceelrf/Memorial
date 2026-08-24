@@ -296,7 +296,7 @@
       affiliation: [UNESP],
       email: [marcel.ferreira\@unesp.br] ),
     ),
-  date: [2026-08-16],
+  date: [2026-08-24],
   lang: "pt",
   region: "BR",
   sectionnumbering: "1.1.a",
@@ -1041,6 +1041,8 @@ Esta seção reúne os cursos, seminários e palestras ministrados ao longo da t
 + FERREIRA, MR. #emph[Inteligência Artificial e o Futuro da Pesquisa: Desafios e Oportunidades];, #strong[2025];. Evento: IX Congresso de Pesquisa e Iniciação Científica - VI Congresso de Pós-graduação e III Encontro de Práticas Extensionistas da FAFIPE/FUNEPE, promovido pela Faculdade de Filosofia, Ciências e Letras de Penápolis (FAFIPE), mantida pela Fundação Educacional de Penápolis (FUNEPE); Modalidade: #strong[Presencial];.
 
 + FERREIRA, MR. Desafios e Perspectivas do Sequenciamento de Terceira Geração na Genética Forense, #strong[2026];. XVIII Curso de Inverno em Genética; Modalidade: #strong[Presencial];.
+
++ FERREIRA, MR. Short and Long reads Oxford Nanopore- diferenças nos bancos de dados e analises, #strong[2026];. Evento: Disicplina de Noções Básicas e Aplicações da Bioinformática, do Programa de Pós-graduação em Biologia Geral e Aplicada; Modalidade: #strong[Presencial];.
 
 === Cursos ministrados
 <cursos-ministrados>
